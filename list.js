@@ -37,7 +37,7 @@ const AVAILABLE_LANG = ['chinese', 'english', 'korean', 'portuguese', 'spanish',
 
   const createLanguageRow = (key, languageFiles) => {
     const tr = document.createElement('tr')
-    tr.setAttribute('data-key', key)
+    let keys = key
     const td = document.createElement('td')
     td.textContent = key
     tr.appendChild(td)
@@ -45,8 +45,10 @@ const AVAILABLE_LANG = ['chinese', 'english', 'korean', 'portuguese', 'spanish',
       const translate = file.find(f => f.name_ja === key)
       const td = document.createElement('td')
       td.textContent = translate.name
+      keys = keys + `,${translate.name}`
       tr.appendChild(td)
     })
+    tr.setAttribute('data-key', keys.toLowerCase())
     return tr
   }
 
