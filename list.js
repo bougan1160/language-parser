@@ -1,4 +1,4 @@
-const AVAILABLE_LANG = ['chinese', 'english', 'korean', 'portuguese', 'spanish', 'vietnamese'];
+const AVAILABLE_LANG = ['hiragana', 'chinese', 'english', 'korean', 'portuguese', 'spanish', 'vietnamese'];
 
 (() => {
 
@@ -70,6 +70,10 @@ const AVAILABLE_LANG = ['chinese', 'english', 'korean', 'portuguese', 'spanish',
   const thead = document.getElementById('thead')
   Promise.all(AVAILABLE_LANG.map(loadLanguages))
     .then(languages => {
+      const hiragana = languages.find(l => l.lng === 'hiragana')
+      languages = languages.filter(l => l.lng !== 'hiragana')
+      hiragana.lng = 'ひらがな'
+      languages.unshift(hiragana)
       const header = createLanguageHeader(languages)
       thead.appendChild(header)
       const ja = getJapaneseColumns(languages[0].data)
