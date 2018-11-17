@@ -1,0 +1,3302 @@
+[
+  {
+    "name_ja": "アダプター（電源用）",
+    "name": "Adapter (dùng cho nguồn điện)",
+    "yomi": "あだぷたー（でんげん）",
+    "roma": "adaputa- (dengen)",
+    "keyword": "ACアダプター"
+  },
+  {
+    "name_ja": "アルバム",
+    "name": "Album",
+    "yomi": "あるばむ",
+    "roma": "arubamu"
+  },
+  {
+    "name_ja": "ポット",
+    "name": "Ấm đun",
+    "yomi": "ぽっと",
+    "roma": "potto",
+    "keyword": "湯沸かし器"
+  },
+  {
+    "name_ja": "やかん",
+    "name": "Ấm đun nước",
+    "yomi": "やかん",
+    "roma": "yakan"
+  },
+  {
+    "name_ja": "アンテナ",
+    "name": "Ăng ten",
+    "yomi": "あんてな",
+    "roma": "antena",
+    "keyword": "ＢＳアンテナ，パラボラアンテナ，スカパーアンテナ，BSアンテナ"
+  },
+  {
+    "name_ja": "セーター",
+    "name": "Áo len",
+    "yomi": "せーたー",
+    "roma": "se-ta-"
+  },
+  {
+    "name_ja": "ワイシャツ",
+    "name": "Áo sơ mi",
+    "yomi": "わいしゃつ",
+    "roma": "waishatsu"
+  },
+  {
+    "name_ja": "ポスター",
+    "name": "Áp phích quảng cáo",
+    "yomi": "ぽすたー",
+    "roma": "posuta-"
+  },
+  {
+    "name_ja": "机",
+    "name": "Bàn",
+    "yomi": "つくえ",
+    "roma": "tsukue",
+    "keyword": "テーブル，学習机，事務机，デスク"
+  },
+  {
+    "name_ja": "テーブル（木製）",
+    "name": "Bàn (bằng gỗ)",
+    "yomi": "てーぶる",
+    "roma": "te-buru",
+    "keyword": "ちゃぶ台，学習机，机"
+  },
+  {
+    "name_ja": "テーブル（木製以外）",
+    "name": "Bàn (các loại không làm bằng gỗ)",
+    "yomi": "てーぶる",
+    "roma": "te-buru",
+    "keyword": "机，学習机，事務机，パソコンテーブル，パソコンラック"
+  },
+  {
+    "name_ja": "歯ブラシ",
+    "name": "Bàn chải đánh răng",
+    "yomi": "はぶらし",
+    "roma": "haburashi"
+  },
+  {
+    "name_ja": "電動歯ブラシ",
+    "name": "Bàn chải đánh răng điện",
+    "yomi": "でんどうはぶらし",
+    "roma": "dendouhaburashi"
+  },
+  {
+    "name_ja": "ブラシ・櫛（金属製）",
+    "name": "Bàn chải, lược (bằng kim loại)",
+    "yomi": "ぶらし・くし",
+    "roma": "burashi/kushi"
+  },
+  {
+    "name_ja": "ブラシ・櫛（金属製以外）",
+    "name": "Bàn chải, lược (không phải bằng kim loại)",
+    "yomi": "ぶらし・くし",
+    "roma": "burashi/kushi"
+  },
+  {
+    "name_ja": "キーボード（パソコン）",
+    "name": "Bàn phím (máy vi tính)",
+    "yomi": "きーぼーど",
+    "roma": "ki-bo-do"
+  },
+  {
+    "name_ja": "キーボード（楽器）",
+    "name": "Bàn phím (nhạc cụ)",
+    "yomi": "きーぼーど（がっき）",
+    "roma": "ki-bo-do (gakki)"
+  },
+  {
+    "name_ja": "パソコンキーボード",
+    "name": "Bàn phím máy vi tính",
+    "yomi": "ぱそこんきーぼーど",
+    "roma": "pasokonki-bo-do",
+    "keyword": "キーボード"
+  },
+  {
+    "name_ja": "アイロン",
+    "name": "Bàn ủi",
+    "yomi": "あいろん",
+    "roma": "airon"
+  },
+  {
+    "name_ja": "ズボンプレッサー",
+    "name": "Bàn ủi quần",
+    "yomi": "ずぼんぷれっさー",
+    "roma": "zubonpuressa-"
+  },
+  {
+    "name_ja": "カセットテープ（ケースを含む）",
+    "name": "Băng cassette (bao gồm cả hộp)",
+    "yomi": "かせっとてーぷ",
+    "roma": "kasettote-pu",
+    "keyword": "カセットテープケース"
+  },
+  {
+    "name_ja": "ガムテープ",
+    "name": "Băng keo đóng thùng",
+    "yomi": "がむてーぷ",
+    "roma": "gamute-pu",
+    "keyword": "粘着テープ"
+  },
+  {
+    "name_ja": "セロハンテープ",
+    "name": "Băng keo trong",
+    "yomi": "せろはんてーぷ",
+    "roma": "serohante-pu",
+    "keyword": "セロテープ，粘着テープ"
+  },
+  {
+    "name_ja": "ビデオテープ(ケースを含む）",
+    "name": "Băng video (bao gồm cả hộp)",
+    "yomi": "びでおてーぷ",
+    "roma": "bideote-pu",
+    "keyword": "ビデオケース，VHS，ＶＨＳ，ビデオカセット"
+  },
+  {
+    "name_ja": "新聞",
+    "name": "Báo",
+    "yomi": "しんぶん",
+    "roma": "shinbun",
+    "keyword": "新聞紙，古新聞"
+  },
+  {
+    "name_ja": "手袋",
+    "name": "Bao tay",
+    "yomi": "てぶくろ",
+    "roma": "tebukuro",
+    "keyword": "グローブ，グラブ，ゴルフ，スキー，軍手"
+  },
+  {
+    "name_ja": "水槽（プラ製）",
+    "name": "Bể chứa nước (bằng nhựa)",
+    "yomi": "すいそう",
+    "roma": "suisou",
+    "keyword": "金魚鉢，きんぎょばち"
+  },
+  {
+    "name_ja": "水槽（ガラス製）",
+    "name": "Bể chứa nước (bằng thủy tinh)",
+    "yomi": "すいそう",
+    "roma": "suisou",
+    "keyword": "金魚鉢，きんぎょばち"
+  },
+  {
+    "name_ja": "電磁調理器（卓上）",
+    "name": "Bếp cảm ứng (để bàn)",
+    "yomi": "でんじちょうりき",
+    "roma": "denjichouriki",
+    "keyword": "ＩＨ調理器"
+  },
+  {
+    "name_ja": "電気コンロ（クッキングヒーターを含む）",
+    "name": "Bếp điện (gồm cả bếp nấu ăn)",
+    "yomi": "でんきこんろ（くっきんぐひーたー）",
+    "roma": "denkikonro (kukkinguhi-ta-)",
+    "keyword": "ＩＨ，IHクッキングヒーター"
+  },
+  {
+    "name_ja": "ガスコンロ(ガステーブル)2口以上",
+    "name": "Bếp gas 2 từ miệng nấu trở lên",
+    "yomi": "がすこんろ（がすてーぶる）",
+    "roma": "gasukonro (gasute-buru)"
+  },
+  {
+    "name_ja": "卓上コンロ",
+    "name": "Bếp gas để bàn",
+    "yomi": "たくじょうこんろ",
+    "roma": "takujoukonro",
+    "keyword": "カセットコンロ，たこ焼き器，ホットプレート"
+  },
+  {
+    "name_ja": "カセットコンロ",
+    "name": "Bếp gas xách tay",
+    "yomi": "かせっとこんろ",
+    "roma": "kasettokonro",
+    "keyword": "テーブルコンロ"
+  },
+  {
+    "name_ja": "ストーブ",
+    "name": "Bếp sưởi điện",
+    "yomi": "すとーぶ",
+    "roma": "suto-bu",
+    "keyword": "ガスストーブ，石油ストーブ，電気ストーブ"
+  },
+  {
+    "name_ja": "消火器",
+    "name": "Bình chữa cháy",
+    "yomi": "しょうかき",
+    "roma": "shoukaki"
+  },
+  {
+    "name_ja": "水筒（金属製）",
+    "name": "Bình đông đựng nước (bằng kim loại)",
+    "yomi": "すいとう",
+    "roma": "sitou"
+  },
+  {
+    "name_ja": "水筒（プラ製）",
+    "name": "Bình đông đựng nước (bằng nhựa)",
+    "yomi": "すいとう",
+    "roma": "suitou"
+  },
+  {
+    "name_ja": "カセットコンロ用ボンベ",
+    "name": "Bình ga cho bếp gas xách tay",
+    "yomi": "かせっとこんろようぼんべ",
+    "roma": "kasettokonroyoubonbe",
+    "keyword": "カセットボンベ"
+  },
+  {
+    "name_ja": "プロパンガスボンベ",
+    "name": "Bình gas lớn",
+    "yomi": "ぷろぱんがすぼんべ",
+    "roma": "puropangasubonbe"
+  },
+  {
+    "name_ja": "花びん",
+    "name": "Bình hoa",
+    "yomi": "かびん",
+    "roma": "kabin",
+    "keyword": "花器，花瓶"
+  },
+  {
+    "name_ja": "インクカートリッジ",
+    "name": "Bình mực in",
+    "yomi": "いんくかーとりっじ",
+    "roma": "inkuka-torijji",
+    "keyword": "トナー，インクジェット，プリンターインク"
+  },
+  {
+    "name_ja": "ほ乳瓶（プラ製）",
+    "name": "Bình sữa trẻ em (bẳng nhựa)",
+    "yomi": "ほにゅうびん",
+    "roma": "honyuubin"
+  },
+  {
+    "name_ja": "ほ乳瓶（ガラス製）",
+    "name": "Bình sữa trẻ em (bẳng thủy tinh)",
+    "yomi": "ほにゅうびん",
+    "roma": "honyuubin"
+  },
+  {
+    "name_ja": "電気ポット",
+    "name": "Bình thủy điện",
+    "yomi": "でんきぽっと",
+    "roma": "denkipotto",
+    "keyword": "電気湯沸し，保温ポット，魔法瓶"
+  },
+  {
+    "name_ja": "ヘアースプレー(スプレー缶)",
+    "name": "Bình xịt tóc (lon xịt)",
+    "yomi": "へあーすぷれー（すぷれーかん）",
+    "roma": "hea-supure- (supure-kan)"
+  },
+  {
+    "name_ja": "靴下",
+    "name": "Bít tất",
+    "yomi": "くつした",
+    "roma": "kutsushita",
+    "keyword": "ソックス"
+  },
+  {
+    "name_ja": "ストッキング",
+    "name": "Bít tất dài",
+    "yomi": "すとっきんぐ",
+    "roma": "sutokkingu"
+  },
+  {
+    "name_ja": "ステレオセット",
+    "name": "Bộ stereo",
+    "yomi": "すてれおせっと",
+    "roma": "sutereosetto",
+    "keyword": "アンプ"
+  },
+  {
+    "name_ja": "電球",
+    "name": "Bóng đèn",
+    "yomi": "でんきゅう",
+    "roma": "denkyuu",
+    "keyword": "蛍光灯，電灯，LED"
+  },
+  {
+    "name_ja": "ボールペン",
+    "name": "Bút bi",
+    "yomi": "ぼーるぺん",
+    "roma": "bo-rupen"
+  },
+  {
+    "name_ja": "鉛筆",
+    "name": "Bút chì",
+    "yomi": "えんぴつ",
+    "roma": "enpitsu",
+    "keyword": "色えんぴつ，色鉛筆"
+  },
+  {
+    "name_ja": "シャープペンシル",
+    "name": "Bút chì máy",
+    "yomi": "しゃーぷぺんしる",
+    "roma": "sha-pupenshiru",
+    "keyword": "シャーペン"
+  },
+  {
+    "name_ja": "サインペン",
+    "name": "Bút ký",
+    "yomi": "さいんぺん",
+    "roma": "sainpen",
+    "keyword": "マジック，フェルトペン，カラーペン，蛍光ペン"
+  },
+  {
+    "name_ja": "マジックペン（プラ製）",
+    "name": "Bút lông dầu (bằng nhựa)",
+    "yomi": "まじっく（さいんぺん）",
+    "roma": "majikku (sainpen)",
+    "keyword": "マジック，マジックペン，フェルトペン，カラーペン，蛍光ペン"
+  },
+  {
+    "name_ja": "マジックペン（プラ製以外）",
+    "name": "Bút lông dầu (không phải bằng nhựa)",
+    "yomi": "まじっく（さいんぺん）",
+    "roma": "majikku (sainpen)",
+    "keyword": "マジック，マジックペン，フェルトペン，カラーペン，蛍光ペン"
+  },
+  {
+    "name_ja": "ネクタイ",
+    "name": "Cà vạt",
+    "yomi": "ねくたい",
+    "roma": "nekutai"
+  },
+  {
+    "name_ja": "チューブ類（マヨネーズ等）",
+    "name": "Các loại ống (mayonnaise, v.v...)",
+    "yomi": "ちゅーぶるい（まよねーず）",
+    "roma": "chu-burui (mayone-zu)",
+    "keyword": "ケッチャップ，からし，わさび，歯磨き粉，歯磨き"
+  },
+  {
+    "name_ja": "ボウル（金属製・ガラス製）",
+    "name": "Cái bát to (bằng kim loại, bằng thủy tinh)",
+    "yomi": "ぼうる",
+    "roma": "bouru",
+    "keyword": "ざる，ザル"
+  },
+  {
+    "name_ja": "ボウル（プラ製）",
+    "name": "Cái bát to (bằng nhựa)",
+    "yomi": "ぼうる",
+    "roma": "bouru",
+    "keyword": "ざる，ザル"
+  },
+  {
+    "name_ja": "体重計（ヘルスメーター）",
+    "name": "Cái cân (cân sức khỏe)",
+    "yomi": "たいじゅうけい（へるすめーたー）",
+    "roma": "taijuukei (herusume-ta-)",
+    "keyword": "はかり"
+  },
+  {
+    "name_ja": "ほうき(金属製)",
+    "name": "Cái chổi (bằng kim loại)",
+    "yomi": "ほうき",
+    "roma": "houki",
+    "keyword": "箒"
+  },
+  {
+    "name_ja": "ほうき(金属製以外)",
+    "name": "Cái chổi (không phải bằng kim loại)",
+    "yomi": "ほうき",
+    "roma": "houki",
+    "keyword": "箒"
+  },
+  {
+    "name_ja": "コンパス（文房具）",
+    "name": "Cái compa (văn phòng phẩm)",
+    "yomi": "こんぱす（ぶんぼうく）",
+    "roma": "konpasu (bunbougu)"
+  },
+  {
+    "name_ja": "のこぎり",
+    "name": "Cái cưa",
+    "yomi": "のこぎり",
+    "roma": "nokogiri",
+    "keyword": "刃物，鋸"
+  },
+  {
+    "name_ja": "ブランコ（子供用遊具）",
+    "name": "Cái đu (thiết bị đồ chơi cho trẻ em)",
+    "yomi": "ぶらんこ",
+    "roma": "buranko"
+  },
+  {
+    "name_ja": "ノミ",
+    "name": "Cái đục",
+    "yomi": "のみ",
+    "roma": "nomi",
+    "keyword": "刃物"
+  },
+  {
+    "name_ja": "まな板",
+    "name": "Cái thớt",
+    "yomi": "まないた",
+    "roma": "manaita",
+    "keyword": "プラスチックまな板"
+  },
+  {
+    "name_ja": "はかり（台所計り）",
+    "name": "Cân (cân nhà bếp)",
+    "yomi": "はかり（だいどころはかり）",
+    "roma": "hakari (daidoko ro hakari)",
+    "keyword": "計量器，キッチンスケール"
+  },
+  {
+    "name_ja": "ヘルスメーター",
+    "name": "Cân sức khỏe",
+    "yomi": "へるすめーたー",
+    "roma": "herusume-ta-",
+    "keyword": "体重計"
+  },
+  {
+    "name_ja": "剪定枝",
+    "name": "Cành cây tỉa",
+    "yomi": "せんていし",
+    "roma": "senteishi",
+    "keyword": "庭木，枯木"
+  },
+  {
+    "name_ja": "かばん（金属製）",
+    "name": "Cặp (bằng kim loại)",
+    "yomi": "かばん",
+    "roma": "kaban",
+    "keyword": "バッグ，鞄，アタッシュケース"
+  },
+  {
+    "name_ja": "かばん（金属製以外）",
+    "name": "Cặp (không phải bằng kim loại)",
+    "yomi": "かばん",
+    "roma": "kaban",
+    "keyword": "バッグ，鞄，ボストンバッグ，リュックサック，リュック，革，ハンドバッグ"
+  },
+  {
+    "name_ja": "ランドセル",
+    "name": "Cặp học sinh",
+    "yomi": "らんどせる",
+    "roma": "randoseru"
+  },
+  {
+    "name_ja": "ペットのトイレ専用砂(紙製等)",
+    "name": "Cát chuyên dùng vệ sinh thú cưng (bằng giấy, v.v...)",
+    "yomi": "ぺっとのといれせんようすな",
+    "roma": "petto no toiresenyousuna",
+    "keyword": "ペットトイレ"
+  },
+  {
+    "name_ja": "はさみ",
+    "name": "Cây kéo",
+    "yomi": "はさみ",
+    "roma": "hasami",
+    "keyword": "鋏"
+  },
+  {
+    "name_ja": "パイプハンガー",
+    "name": "Cây phơi đồ ống",
+    "yomi": "ぱいぷはんがー",
+    "roma": "paipuhanga-",
+    "keyword": "パイプラック"
+  },
+  {
+    "name_ja": "ＣＤ（ケースを含む）",
+    "name": "CD (bao gồm cả hộp)",
+    "yomi": "しーでぃ",
+    "roma": "shi-dei",
+    "keyword": "DVD，ＣＤケース，CD，CDケース，ｃｄ，cd，ｃｄケース，ＣＤ－Ｒ，CD-R，BR，ブルーレイディスク"
+  },
+  {
+    "name_ja": "ＣＤラジカセ・ＣＤプレーヤー",
+    "name": "CD Boombox, đầu CD",
+    "yomi": "しーでぃらじかせ・しーでぃぷれーやー",
+    "roma": "shi-deirajikase/shi-deipure-ya-",
+    "keyword": "ＣＤプレイヤー，CDプレーヤー，CDデッキ，カセットデッキ"
+  },
+  {
+    "name_ja": "びん（割れたびん、耐熱ガラス、ガラスコップ、化粧品のびん）",
+    "name": "Chai (chai vỡ, thủy tinh chịu nhiệt, cốc thủy tinh, chai mỹ phẩm)",
+    "yomi": "びん（われたびん、たいねつがらす、がらすこっぷ、けしょうひんのびん）",
+    "roma": "bin (waretabin, tainetsugarasu, garasukoppu, keshouhin no bin)",
+    "keyword": "瓶"
+  },
+  {
+    "name_ja": "酒のカップ",
+    "name": "Chai (cốc) rượu",
+    "yomi": "さけのかっぷ",
+    "roma": "sake no kappu",
+    "keyword": "日本酒，ワンカップ"
+  },
+  {
+    "name_ja": "びん（飲食用、調味料）",
+    "name": "Chai (dùng cho thực phẩm, đồ gia vị)",
+    "yomi": "びん",
+    "roma": "bin",
+    "keyword": "ワインのびん、酒のびん，調味料のびん，瓶"
+  },
+  {
+    "name_ja": "ビールびん",
+    "name": "Chai bia",
+    "yomi": "びーるびん",
+    "roma": "bi-rubin",
+    "keyword": "瓶"
+  },
+  {
+    "name_ja": "サラダ油のプラスチック製ボトル",
+    "name": "Chai dầu ăn bằng nhựa",
+    "yomi": "さらだあぶらのぷらすちっくぼとる",
+    "roma": "saradaabura no purasuchikkubotoru",
+    "keyword": "サラダ油のボトル，油のボトル"
+  },
+  {
+    "name_ja": "食用油のびん",
+    "name": "Chai dầu ăn bằng nhựa",
+    "yomi": "しょくようゆのびん",
+    "roma": "shokuyouyu no bin",
+    "keyword": "あぶらのびん，ごま油のびん，オリーブオイルのびん"
+  },
+  {
+    "name_ja": "食用油のプラスチック製ボトル",
+    "name": "Chai dầu ăn bằng nhựa",
+    "yomi": "しょくようゆのぷらすちっくせいぼとる",
+    "roma": "shokuyouyu no purasuchikkuseibotoru",
+    "keyword": "あぶらのようき，油のボトル"
+  },
+  {
+    "name_ja": "シャンプーのプラスチック製ボトル",
+    "name": "Chai dầu gội đầu bằng nhựa",
+    "yomi": "しゃんぷーのぷらすちっくぼとる",
+    "roma": "shanpu- no purasuchikkubotoru"
+  },
+  {
+    "name_ja": "調味料のびん",
+    "name": "Chai gia vị",
+    "yomi": "ちょうみりょうのびん",
+    "roma": "choumiryou no bin",
+    "keyword": "酢，みりん，料理酒，こしょう，七味唐辛子，瓶"
+  },
+  {
+    "name_ja": "一升瓶",
+    "name": "Chai một thăng (1,8l)",
+    "yomi": "いっしょうびん",
+    "roma": "isshoubin"
+  },
+  {
+    "name_ja": "化粧品のびん，化粧品瓶，化粧品の瓶",
+    "name": "Chai mỹ phẩm, lọ mỹ phẩm, bình mỹ phẩm",
+    "yomi": "けしょうひんのびん",
+    "roma": "keshouhin no bin",
+    "keyword": "瓶"
+  },
+  {
+    "name_ja": "ソースのびん",
+    "name": "Chai nước sốt",
+    "yomi": "そーすのびん",
+    "roma": "so-su no bin",
+    "keyword": "瓶"
+  },
+  {
+    "name_ja": "ドレッシングのびん",
+    "name": "Chai nước sốt",
+    "yomi": "どれっしんぐのびん",
+    "roma": "doresshingu no bin",
+    "keyword": "瓶"
+  },
+  {
+    "name_ja": "ソースのプラスチック製ボトル",
+    "name": "Chai nước sốt bằng nhựa",
+    "yomi": "そーすのぷらすちっくせいぼとる",
+    "roma": "so-su no purasuchikkuseibotoru"
+  },
+  {
+    "name_ja": "栄養ドリンクのびん",
+    "name": "Chai nước uống tăng lực",
+    "yomi": "えいようどりんくのびん",
+    "roma": "eiyoudorinku no bin"
+  },
+  {
+    "name_ja": "ペットボトル(飲み物、しょうゆ、調味料)",
+    "name": "Chai Pet (đồ uống, nướng tương, đồ gia vị)",
+    "yomi": "ぺっとぼとる",
+    "roma": "pettobotoru"
+  },
+  {
+    "name_ja": "空きびん（飲食用、調味料）",
+    "name": "Chai rỗng (dùng cho thực phẩm, đồ gia vị)",
+    "yomi": "あきびん",
+    "roma": "akibin",
+    "keyword": "瓶，ワインのびん，酒のびん，油のびん，ビール瓶，薬の瓶"
+  },
+  {
+    "name_ja": "牛乳びん",
+    "name": "Chai sữa",
+    "yomi": "ぎゅうにゅうびん",
+    "roma": "gyunyubin",
+    "keyword": "瓶"
+  },
+  {
+    "name_ja": "薬のびん",
+    "name": "Chai thuốc",
+    "yomi": "くすりのびん",
+    "roma": "kusuri no bin",
+    "keyword": "薬瓶，くすりびん"
+  },
+  {
+    "name_ja": "のりの佃煮のびん",
+    "name": "Chai tsukudani rong biển",
+    "yomi": "のりのつくだにのびん",
+    "roma": "nori no tsukudani no bin",
+    "keyword": "瓶"
+  },
+  {
+    "name_ja": "ふとん",
+    "name": "Chăn",
+    "yomi": "ふとん",
+    "roma": "futon",
+    "keyword": "布団，羽毛布団，敷布団，掛け布団，寝具，ベビー布団"
+  },
+  {
+    "name_ja": "毛布",
+    "name": "Chăn",
+    "yomi": "もうふ，ブランケット",
+    "roma": "moufu, buranketto"
+  },
+  {
+    "name_ja": "電気毛布",
+    "name": "Chăn điện",
+    "yomi": "でんきもうふ",
+    "roma": "denkimoufu"
+  },
+  {
+    "name_ja": "こたつ布団",
+    "name": "Chăn lò sưởi",
+    "yomi": "こたつぶとん",
+    "roma": "kotatsubuton"
+  },
+  {
+    "name_ja": "フライパン",
+    "name": "Chảo",
+    "yomi": "ふらいぱん",
+    "roma": "furaipan"
+  },
+  {
+    "name_ja": "保冷剤",
+    "name": "Chất giữ lạnh",
+    "yomi": "ほれいざい",
+    "roma": "horeizai",
+    "keyword": "保冷材"
+  },
+  {
+    "name_ja": "乾燥剤",
+    "name": "Chất hút nước",
+    "yomi": "かんそうざい",
+    "roma": "kansouzai",
+    "keyword": "シリカゲル"
+  },
+  {
+    "name_ja": "脱酸素剤",
+    "name": "Chất khử oxy",
+    "yomi": "だつさんそざい",
+    "roma": "datsusansozai",
+    "keyword": "エージレス"
+  },
+  {
+    "name_ja": "植木鉢（陶器製）",
+    "name": "Chậu cây cảnh (bằng gốm sứ)",
+    "yomi": "うえきばち",
+    "roma": "uekibachi",
+    "keyword": "はち，プランター"
+  },
+  {
+    "name_ja": "植木鉢（プラ製・木製）",
+    "name": "Chậu cây cảnh (bằng nhựa, bằng gỗ)",
+    "yomi": "うえきばち",
+    "roma": "uekibashi",
+    "keyword": "はち，プランター"
+  },
+  {
+    "name_ja": "洗面器(プラ製）",
+    "name": "Chậu rửa (bằng nhựa)",
+    "yomi": "せんめんき",
+    "roma": "senmenki",
+    "keyword": "たらい，おけ，桶，風呂おけ"
+  },
+  {
+    "name_ja": "プランター",
+    "name": "Chậu trồng cây",
+    "yomi": "ぷらんたー",
+    "roma": "puranta-"
+  },
+  {
+    "name_ja": "鍵",
+    "name": "Chìa khóa",
+    "yomi": "かぎ",
+    "roma": "kagi",
+    "keyword": "キー"
+  },
+  {
+    "name_ja": "ござ",
+    "name": "Chiếu",
+    "yomi": "ござ",
+    "roma": "goza"
+  },
+  {
+    "name_ja": "畳",
+    "name": "Chiếu",
+    "yomi": "たたみ",
+    "roma": "tatami",
+    "keyword": "たたみ"
+  },
+  {
+    "name_ja": "マウス（パソコン用）",
+    "name": "Chuột (cho máy vi tính)",
+    "yomi": "まうす",
+    "roma": "mausu"
+  },
+  {
+    "name_ja": "スパナ（工具類）",
+    "name": "Cờ lê (dụng cụ)",
+    "yomi": "すぱな（こうぐるい）",
+    "roma": "supana (kougurui)",
+    "keyword": "レンチ"
+  },
+  {
+    "name_ja": "人工芝",
+    "name": "Cỏ nhân tạo",
+    "yomi": "じんこうしば",
+    "roma": "jinkoushiba"
+  },
+  {
+    "name_ja": "草・花",
+    "name": "Cỏ, hoa",
+    "yomi": "くさ・はな",
+    "roma": "kusa/hana",
+    "keyword": "雑草"
+  },
+  {
+    "name_ja": "コップ（プラ製・紙製・木製）",
+    "name": "Cốc (bằng nhựa, bằng giấy, bằng gỗ)",
+    "yomi": "こっぷ",
+    "roma": "koppu",
+    "keyword": "グラス，コップ，食器"
+  },
+  {
+    "name_ja": "コップ（ガラス製・陶器製・金属製）",
+    "name": "Cốc (bằng thủy tinh, bằng gốm sứ, bằng kim loại)",
+    "yomi": "こっぷ",
+    "roma": "koppu",
+    "keyword": "ガラス，グラス，コップ，食器"
+  },
+  {
+    "name_ja": "カーコンポ",
+    "name": "Compo Car Stereo",
+    "yomi": "かーこんぽ",
+    "roma": "ka-konpo",
+    "keyword": "カーオーディオ"
+  },
+  {
+    "name_ja": "ナイフ",
+    "name": "Con dao",
+    "yomi": "ないふ",
+    "roma": "naifu",
+    "keyword": "刃物"
+  },
+  {
+    "name_ja": "包丁",
+    "name": "Con dao",
+    "yomi": "ほうちょう",
+    "roma": "houchou",
+    "keyword": "ナイフ"
+  },
+  {
+    "name_ja": "電池（ボタン電池・二次電池（小形充電式電池））",
+    "name": "Cục pin (pin đồng tiền, pin sạc (pin sạc loại nhỏ))",
+    "yomi": "でんち(ぼたんでんち･にじでんち（こがたじゅうでんしきでんち））",
+    "roma": "denchi (botandenchi/nijidenchi (kogatajudenshikidenchi))",
+    "keyword": "充電，バッテリー，リチウム，ニッケル水素，ニッカド"
+  },
+  {
+    "name_ja": "電池（乾電池）",
+    "name": "Cục pin (pin khô)",
+    "yomi": "でんち（かんでんち）",
+    "roma": "denchi (kandenchi)",
+    "keyword": "マンガン，アルカリ"
+  },
+  {
+    "name_ja": "ベビーベッド",
+    "name": "Cũi em bé",
+    "yomi": "べびーべっど",
+    "roma": "bebi-beddo"
+  },
+  {
+    "name_ja": "ラジオ",
+    "name": "Đài radio",
+    "yomi": "らじお",
+    "roma": "rajio",
+    "keyword": "携帯ラジオ，"
+  },
+  {
+    "name_ja": "ラジカセ",
+    "name": "Đài radio cassette",
+    "yomi": "らじかせ",
+    "roma": "rajikase"
+  },
+  {
+    "name_ja": "ミニコンポ",
+    "name": "Dàn nghe nhạc mini",
+    "yomi": "みにこんぽ",
+    "roma": "minikonpo",
+    "keyword": "アンプ，チューナー，ＣＤコンポ，CDコンポ"
+  },
+  {
+    "name_ja": "オルガン",
+    "name": "Đàn organ",
+    "yomi": "おるがん",
+    "roma": "orugan",
+    "keyword": "電子オルガン"
+  },
+  {
+    "name_ja": "電子オルガン（エレクトーンなど）",
+    "name": "Đàn organ điện tử (Electone, v.v...)",
+    "yomi": "でんしおるがん（えれくとーん）",
+    "roma": "denshiorugan (erekuto-n)",
+    "keyword": "電子ピアノ，楽器"
+  },
+  {
+    "name_ja": "電子ピアノ",
+    "name": "Đàn piano điện tử",
+    "yomi": "でんしぴあの",
+    "roma": "denshipiano",
+    "keyword": "電子オルガン，エレクトーン"
+  },
+  {
+    "name_ja": "電話帳",
+    "name": "Danh bạ điện thoại",
+    "yomi": "でんわちょう",
+    "roma": "denwachou",
+    "keyword": "タウンページ"
+  },
+  {
+    "name_ja": "かみそり",
+    "name": "Dao cạo râu",
+    "yomi": "かみそり",
+    "roma": "kamisori",
+    "keyword": "ひげそり，剃刀，髭剃り"
+  },
+  {
+    "name_ja": "爪切り",
+    "name": "Dao cắt móng tay",
+    "yomi": "つめきり",
+    "roma": "tsumekiri"
+  },
+  {
+    "name_ja": "ステープラ（ホッチキスなど）",
+    "name": "Dập ghim, v.v…",
+    "yomi": "すてーぷら（ほっちきす）",
+    "roma": "sute-pura (hocchikisu)"
+  },
+  {
+    "name_ja": "土(鉢植えなどから出た少量のもの）",
+    "name": "Đất (lượng nhỏ sinh ra từ các chậu cây, v.v...)",
+    "yomi": "つち",
+    "roma": "tsuchi",
+    "keyword": "園芸，庭土，植木鉢，庭の土"
+  },
+  {
+    "name_ja": "粘土（土・石粉製）",
+    "name": "Đất sét (bằng bột đá, đất)",
+    "yomi": "ねんど",
+    "roma": "nendo",
+    "keyword": "油粘土、土粘土"
+  },
+  {
+    "name_ja": "粘土（紙製）",
+    "name": "Đất sét (bằng giấy)",
+    "yomi": "ねんど",
+    "roma": "nendo",
+    "keyword": "紙粘土"
+  },
+  {
+    "name_ja": "サラダ油",
+    "name": "Dầu ăn",
+    "yomi": "さらだあぶら",
+    "roma": "saradaabura"
+  },
+  {
+    "name_ja": "食用油",
+    "name": "Dầu ăn",
+    "yomi": "しょくようゆ",
+    "roma": "shokuyouyu",
+    "keyword": "あぶら，ごま油，オリーブオイル"
+  },
+  {
+    "name_ja": "エンジンオイル",
+    "name": "Dầu động cơ",
+    "yomi": "えんじんおいる",
+    "roma": "enjinoiru",
+    "keyword": "機械油"
+  },
+  {
+    "name_ja": "ＤＶＤプレーヤー",
+    "name": "Đầu DVD",
+    "yomi": "でぃぶいでぃぷれーやー",
+    "roma": "deibuideipure-ya-",
+    "keyword": "ＤＶＤレコーダー，ＤＶＤプレイヤー，DVDデッキ，DVDプレイヤー，DVDレコーダー，DVDプレーヤー"
+  },
+  {
+    "name_ja": "灯油",
+    "name": "Dầu hỏa",
+    "yomi": "とうゆ",
+    "roma": "touyu",
+    "keyword": "石油，ストーブ"
+  },
+  {
+    "name_ja": "天ぷら油",
+    "name": "Dầu tempura",
+    "yomi": "てんぷらあぶら",
+    "roma": "tenpuraabura",
+    "keyword": "てんぷら油"
+  },
+  {
+    "name_ja": "コード（電気コード）",
+    "name": "Dây điện",
+    "yomi": "こーど（でんき）",
+    "roma": "ko-do (denki)"
+  },
+  {
+    "name_ja": "針金",
+    "name": "Dây thép",
+    "yomi": "はりがね",
+    "roma": "harigane"
+  },
+  {
+    "name_ja": "レンジ台",
+    "name": "Đế đặt lò vi sóng",
+    "yomi": "れんじだい",
+    "roma": "renjidai"
+  },
+  {
+    "name_ja": "鏡台",
+    "name": "Đế để gương",
+    "yomi": "きょうだい",
+    "roma": "kyoudai",
+    "keyword": "化粧台，ドレッサー"
+  },
+  {
+    "name_ja": "剣山",
+    "name": "Đế ghim dùng cắm hoa",
+    "yomi": "けんざん",
+    "roma": "kenzan"
+  },
+  {
+    "name_ja": "テレビ台",
+    "name": "Đế tivi",
+    "yomi": "てれびだい",
+    "roma": "terebidai",
+    "keyword": "ラック"
+  },
+  {
+    "name_ja": "座布団",
+    "name": "Đệm ngồi",
+    "yomi": "ざぶとん",
+    "roma": "zabuton",
+    "keyword": "クッション"
+  },
+  {
+    "name_ja": "電気スタンド",
+    "name": "Đèn bàn",
+    "yomi": "でんきすたんど",
+    "roma": "denkisutando",
+    "keyword": "ライト"
+  },
+  {
+    "name_ja": "蛍光灯",
+    "name": "Đèn huỳnh quang",
+    "yomi": "けいこうとう",
+    "roma": "keikoutou",
+    "keyword": "電球，サークライン"
+  },
+  {
+    "name_ja": "懐中電灯",
+    "name": "Đèn pin",
+    "yomi": "かいちゅうでんとう",
+    "roma": "kaichudentou",
+    "keyword": "ライト"
+  },
+  {
+    "name_ja": "スリッパ",
+    "name": "Dép lê trong nhà",
+    "yomi": "すりっぱ",
+    "roma": "surippa"
+  },
+  {
+    "name_ja": "レコード",
+    "name": "Đĩa",
+    "yomi": "れこーど",
+    "roma": "reko-do"
+  },
+  {
+    "name_ja": "皿（プラ製・紙製・木製）",
+    "name": "Đĩa (bằng nhựa, bằng giấy, bằng gỗ)",
+    "yomi": "さら",
+    "roma": "sara",
+    "keyword": "陶器，瀬戸物，お皿，食器"
+  },
+  {
+    "name_ja": "皿（ガラス製・陶器製・金属製）",
+    "name": "Đĩa (bằng thủy tinh, bằng gốm sứ, bằng kim loại)",
+    "yomi": "さら",
+    "roma": "sara",
+    "keyword": "陶器，瀬戸物，お皿，食器"
+  },
+  {
+    "name_ja": "フロッピーディスク",
+    "name": "Đĩa mềm",
+    "yomi": "ふろっぴーでぃすく",
+    "roma": "furoppi-desuku",
+    "keyword": "ＦＤ，フロッピィ，ＭＯ"
+  },
+  {
+    "name_ja": "マッチ",
+    "name": "Diêm",
+    "yomi": "まっち",
+    "roma": "macchi"
+  },
+  {
+    "name_ja": "電話機",
+    "name": "Điện thoại cố định",
+    "yomi": "でんわき",
+    "roma": "denwaki",
+    "keyword": "プッシュホン"
+  },
+  {
+    "name_ja": "携帯電話",
+    "name": "Điện thoại di động",
+    "yomi": "けいたいでんわ",
+    "roma": "keitaidenwa"
+  },
+  {
+    "name_ja": "リモコン",
+    "name": "Điều khiển từ xa",
+    "yomi": "りもこん",
+    "roma": "rimokon"
+  },
+  {
+    "name_ja": "くぎ",
+    "name": "Đinh",
+    "yomi": "くぎ",
+    "roma": "kugi",
+    "keyword": "釘"
+  },
+  {
+    "name_ja": "ねじ",
+    "name": "Đinh ốc",
+    "yomi": "ねじ",
+    "roma": "neji"
+  },
+  {
+    "name_ja": "天ぷらガード",
+    "name": "Đồ bảo vệ khi chiên tempura",
+    "yomi": "てんぷらがーど",
+    "roma": "tenpuraga-do",
+    "keyword": "レンジガード，キッチンガード"
+  },
+  {
+    "name_ja": "おもちゃ（木製・プラ製）",
+    "name": "Đồ chơi (bằng gỗ, bằng nhựa)",
+    "yomi": "おもちゃ",
+    "roma": "omocha",
+    "keyword": "積み木"
+  },
+  {
+    "name_ja": "おもちゃ（金属が含まれるもの）",
+    "name": "Đồ chơi (có chứa kim loại)",
+    "yomi": "おもちゃ",
+    "roma": "omocha"
+  },
+  {
+    "name_ja": "納豆の容器（プラ製）",
+    "name": "Đồ chứa natto (bằng nhựa)",
+    "yomi": "なっとうのようき",
+    "roma": "nattou no youki"
+  },
+  {
+    "name_ja": "プリンの容器(プラ製)",
+    "name": "Đồ đựng bánh flan (bằng nhựa)",
+    "yomi": "ぷりんのようき",
+    "roma": "purin no youki"
+  },
+  {
+    "name_ja": "洗剤の容器（紙製）",
+    "name": "Đồ đựng bột giặt (bằng giấy)",
+    "yomi": "せんざいのようき",
+    "roma": "senzai no youki",
+    "keyword": "洗剤容器"
+  },
+  {
+    "name_ja": "洗剤の容器（プラ製）",
+    "name": "Đồ đựng bột giặt (bằng nhựa)",
+    "yomi": "せんざいのようき",
+    "roma": "senzai no youki",
+    "keyword": "洗剤容器"
+  },
+  {
+    "name_ja": "脱臭剤（冷蔵庫用など）の容器",
+    "name": "Đồ đựng chất khử mùi (dùng cho tủ lạnh, v.v...)",
+    "yomi": "だっしゅうざいのようき",
+    "roma": "dasshuzai no youki",
+    "keyword": "活性炭，消臭剤"
+  },
+  {
+    "name_ja": "弁当の容器(使い捨てのもの・プラ製)",
+    "name": "Đồ đựng cơm hộp (loại dùng 1 lần, bằng nhựa)",
+    "yomi": "べんとうのようき",
+    "roma": "bentounoyouki",
+    "keyword": "コンビニ弁当"
+  },
+  {
+    "name_ja": "湿気取り容器",
+    "name": "Đồ đựng hút ẩm",
+    "yomi": "しっけとりようき",
+    "roma": "shikketoriyouki",
+    "keyword": "吸湿剤"
+  },
+  {
+    "name_ja": "マヨネーズの容器(プラ製)",
+    "name": "Đồ đựng mayonnaise (bằng nhựa)",
+    "yomi": "まよねーずのようき",
+    "roma": "mayone-zu no youki"
+  },
+  {
+    "name_ja": "カップめんの容器（紙製）",
+    "name": "Đồ đựng mỳ ăn liền (bằng giấy)",
+    "yomi": "かっぷめんのようき",
+    "roma": "kappumen no youki",
+    "keyword": "ラーメンの容器，カップ麺"
+  },
+  {
+    "name_ja": "カップめんの容器（プラ製）",
+    "name": "Đồ đựng mỳ ăn liền (bằng nhựa)",
+    "yomi": "かっぷめんのようき",
+    "roma": "kappumen no youki",
+    "keyword": "ラーメンの容器，カップ麺"
+  },
+  {
+    "name_ja": "ドレッシングの容器（プラ製）",
+    "name": "Đồ đựng nước sốt (bằng nhựa)",
+    "yomi": "どれっしんぐのびんようき",
+    "roma": "doresshingu no bin youki"
+  },
+  {
+    "name_ja": "ケチャップの容器（プラ製）",
+    "name": "Đồ đựng sốt cà chua (bằng nhựa)",
+    "yomi": "けちゃっぷのようき",
+    "roma": "kecchappu no youki"
+  },
+  {
+    "name_ja": "ヨーグルトの容器（プラ製）",
+    "name": "Đồ đựng sửa chua (bằng nhựa)",
+    "yomi": "よーぐるとのようき",
+    "roma": "yo-guruto no youki"
+  },
+  {
+    "name_ja": "薬の容器（プラ製）",
+    "name": "Đồ đựng thuốc (bằng nhựa)",
+    "yomi": "くすりのようき",
+    "roma": "kusuri no youki"
+  },
+  {
+    "name_ja": "防虫剤の容器（プラ製）",
+    "name": "Đồ đựng thuốc chống côn trùng (bằng nhựa)",
+    "yomi": "ぼうちゅうざいのようき",
+    "roma": "bouchuzainoyouki",
+    "keyword": "虫除け"
+  },
+  {
+    "name_ja": "しょうゆの容器（ペットボトル）",
+    "name": "Đồ đựng xì dầu (chai PET)",
+    "yomi": "しょうゆのようきぼとる（ぺっとぼとる）",
+    "roma": "shouyu no youkibotoru (pettobotoru)",
+    "keyword": "醤油"
+  },
+  {
+    "name_ja": "ちりとり（金属製）",
+    "name": "Đồ hốt rác (bằng kim loại)",
+    "yomi": "ちりとり",
+    "roma": "chiritori",
+    "keyword": "塵取り"
+  },
+  {
+    "name_ja": "ちりとり（プラ製）",
+    "name": "Đồ hốt rác (bằng nhựa)",
+    "yomi": "ちりとり",
+    "roma": "chiritori",
+    "keyword": "塵取り"
+  },
+  {
+    "name_ja": "栓抜き",
+    "name": "Đồ khui chai",
+    "yomi": "せんぬき",
+    "roma": "sennuki",
+    "keyword": "オープナー，缶きり"
+  },
+  {
+    "name_ja": "缶切り",
+    "name": "Đồ khui hộp",
+    "yomi": "かんきり",
+    "roma": "kankiri"
+  },
+  {
+    "name_ja": "下着",
+    "name": "Đồ lót",
+    "yomi": "したぎ",
+    "roma": "shitagi",
+    "keyword": "肌着"
+  },
+  {
+    "name_ja": "籐製家具",
+    "name": "Đồ nội thất bằng mây",
+    "yomi": "とうせいかぐ",
+    "roma": "touseikagu"
+  },
+  {
+    "name_ja": "せともの",
+    "name": "Đồ sành",
+    "yomi": "せともの",
+    "roma": "setomono",
+    "keyword": "陶器，瀬戸物，食器"
+  },
+  {
+    "name_ja": "アクセサリー（腕輪・指輪・ネックレスなど）",
+    "name": "Đồ trang sức (như vòng đeo tay, nhẫn, dây chuyền, v.v...)",
+    "yomi": "あくせさりー",
+    "roma": "akusesari-",
+    "keyword": "ブレスレット"
+  },
+  {
+    "name_ja": "時計",
+    "name": "Đồng hồ",
+    "yomi": "とけい",
+    "roma": "tokei",
+    "keyword": "柱時計，目覚まし時計，置時計"
+  },
+  {
+    "name_ja": "腕時計",
+    "name": "Đồng hồ đeo tay",
+    "yomi": "うでどけい",
+    "roma": "udedokei",
+    "keyword": "ウォッチ，タイマー"
+  },
+  {
+    "name_ja": "傘",
+    "name": "Dù",
+    "yomi": "かさ",
+    "roma": "kasa"
+  },
+  {
+    "name_ja": "割り箸",
+    "name": "Đũa dùng một lần",
+    "yomi": "わりばし",
+    "roma": "waribashi"
+  },
+  {
+    "name_ja": "カッター",
+    "name": "Dụng cụ cắt",
+    "yomi": "かったー",
+    "roma": "katta-",
+    "keyword": "カッターナイフ"
+  },
+  {
+    "name_ja": "コルク抜き",
+    "name": "Dụng cụ khui nút chai",
+    "yomi": "こるくぬき",
+    "roma": "korukunuki",
+    "keyword": "栓抜き，ワインオープナー"
+  },
+  {
+    "name_ja": "シンナー類",
+    "name": "Dung môi pha loãng sơn",
+    "yomi": "しんなーるい",
+    "roma": "shinna-rui",
+    "keyword": "溶剤，薄め液"
+  },
+  {
+    "name_ja": "ＤＶＤ（ケースを含む）",
+    "name": "DVD (bao gồm cả hộp)",
+    "yomi": "でぃぶいでぃ",
+    "roma": "deibuidei",
+    "keyword": "ＤＶＤ，DVD，ビデオ，DVDケース，dvd，ｄｖｄ，DVD-R，ＤＶＤ－Ｒ"
+  },
+  {
+    "name_ja": "グローブ（野球用など）",
+    "name": "Găng tay (như dùng cho bóng chày, v.v...)",
+    "yomi": "ぐろーぶ",
+    "roma": "guro-bu"
+  },
+  {
+    "name_ja": "ゴム手袋・ゴム長靴",
+    "name": "Găng tay cao su và ủng cao su",
+    "yomi": "ごむてぶくろ・ごむながぐつ",
+    "roma": "gomutebukuro/gomunagagutsu",
+    "keyword": "長ぐつ"
+  },
+  {
+    "name_ja": "灰皿",
+    "name": "Gạt tàn",
+    "yomi": "はいざら",
+    "roma": "haizara"
+  },
+  {
+    "name_ja": "バット（金属製）",
+    "name": "Gậy đánh bóng (bằng kim loại)",
+    "yomi": "ばっと",
+    "roma": "batto",
+    "keyword": "金属バット"
+  },
+  {
+    "name_ja": "バット（金属製以外）",
+    "name": "Gậy đánh bóng (không phải bằng kim loại)",
+    "yomi": "ばっと",
+    "roma": "batto",
+    "keyword": "プラスチックのバット，木製バット"
+  },
+  {
+    "name_ja": "ゴルフクラブ・ゴルフバッグ",
+    "name": "Gậy golf, túi golf",
+    "yomi": "ごるふくらぶ・ごるふばっぐ",
+    "roma": "gorufukurabu/gorufubaggu",
+    "keyword": "パター"
+  },
+  {
+    "name_ja": "いす（木製・プラ製）",
+    "name": "Ghế (bằng gỗ, bằng nhựa)",
+    "yomi": "いす",
+    "roma": "isu",
+    "keyword": "ちぇあー，チェアー，スツール，椅子，チェア"
+  },
+  {
+    "name_ja": "いす（金属製）",
+    "name": "Ghế (bằng kim loại)",
+    "yomi": "いす",
+    "roma": "isu",
+    "keyword": "ちぇあー，チェアー，スツール，椅子，チェア，パイプいす"
+  },
+  {
+    "name_ja": "座椅子",
+    "name": "Ghế nệm không chân",
+    "yomi": "ざいす",
+    "roma": "zaisu",
+    "keyword": "座いす"
+  },
+  {
+    "name_ja": "応接用いす",
+    "name": "Ghế tiếp khách",
+    "yomi": "おうせついす",
+    "roma": "ousetsuisu",
+    "keyword": "ソファー，椅子"
+  },
+  {
+    "name_ja": "チャイルドシート",
+    "name": "Ghế trẻ em",
+    "yomi": "ちゃいるどしーと",
+    "roma": "chairudoshi-to",
+    "keyword": "補助席"
+  },
+  {
+    "name_ja": "三脚",
+    "name": "Giá 3 chân",
+    "yomi": "さんきゃく",
+    "roma": "sankyaku"
+  },
+  {
+    "name_ja": "オーディオラック(オーディオボード)",
+    "name": "Giá để dàn âm thanh (Audio board)",
+    "yomi": "おーでぃおらっく",
+    "roma": "o-deorakku"
+  },
+  {
+    "name_ja": "パソコンラック",
+    "name": "Giá để máy vi tính",
+    "yomi": "ぱそこんらっく",
+    "roma": "pasokonrakku",
+    "keyword": "パソコン机"
+  },
+  {
+    "name_ja": "アイロン台",
+    "name": "Giá ủi",
+    "yomi": "あいろんだい",
+    "roma": "airondai"
+  },
+  {
+    "name_ja": "靴",
+    "name": "Giày",
+    "yomi": "くつ",
+    "roma": "kutsu",
+    "keyword": "革靴，シューズ，サンダル，スニーカー，運動靴，ブーツ"
+  },
+  {
+    "name_ja": "スケート靴",
+    "name": "Giày trượt băng",
+    "yomi": "すけーとぐつ",
+    "roma": "suke-togutsu"
+  },
+  {
+    "name_ja": "ローラースケート",
+    "name": "Giày trượt patin",
+    "yomi": "ろーらーすけーと",
+    "roma": "ro-ra-suke-to",
+    "keyword": "インラインスケート，ローラーブレード"
+  },
+  {
+    "name_ja": "ベッド",
+    "name": "Giường",
+    "yomi": "べっど",
+    "roma": "beddo"
+  },
+  {
+    "name_ja": "電動式ベッド",
+    "name": "Giường điện",
+    "yomi": "でんどうしきべっど",
+    "roma": "dendoushikibeddo",
+    "keyword": "介護ベッド"
+  },
+  {
+    "name_ja": "クッション",
+    "name": "Gối",
+    "yomi": "くっしょん",
+    "roma": "kusshon",
+    "keyword": "まくら，座布団"
+  },
+  {
+    "name_ja": "まくら",
+    "name": "Gối",
+    "yomi": "まくら",
+    "roma": "makura",
+    "keyword": "枕"
+  },
+  {
+    "name_ja": "豆腐のパック（プラ製）",
+    "name": "Gói đậu hũ (bằng nhựa)",
+    "yomi": "とうふのぱっく",
+    "roma": "toufu no pakku"
+  },
+  {
+    "name_ja": "ギター",
+    "name": "Guitar",
+    "yomi": "ぎたー",
+    "roma": "gita-"
+  },
+  {
+    "name_ja": "鏡",
+    "name": "Gương",
+    "yomi": "かがみ",
+    "roma": "kagami",
+    "keyword": "手鏡"
+  },
+  {
+    "name_ja": "姿見",
+    "name": "Gương lớn",
+    "yomi": "すがたみ",
+    "roma": "sugatami"
+  },
+  {
+    "name_ja": "カーナビ",
+    "name": "Hệ thống định vị xe",
+    "yomi": "かーなび",
+    "roma": "ka-nabi"
+  },
+  {
+    "name_ja": "インターホン",
+    "name": "Hệ thống liên lạc nội bộ",
+    "yomi": "いんたーほん",
+    "roma": "inta-hon"
+  },
+  {
+    "name_ja": "フロッピーディスクのケース，ＭＯ",
+    "name": "Hộp đĩa mềm, MO",
+    "yomi": "ふろっぴーでぃすく",
+    "roma": "furoppi-desuku",
+    "keyword": "ＦＤ，フロッピィ"
+  },
+  {
+    "name_ja": "ライター（金属製）",
+    "name": "Hộp quẹt (bằng kim loại)",
+    "yomi": "らいたー",
+    "roma": "raita-",
+    "keyword": "百円ライター，使い捨てライター"
+  },
+  {
+    "name_ja": "ライター（プラ製　使い捨て含む）",
+    "name": "Hộp quẹt (bằng nhựa, gồm cả loại sử dụng 1 lần)",
+    "yomi": "らいたー",
+    "roma": "raita-",
+    "keyword": "百円ライター，使い捨てライター，チャッカマン"
+  },
+  {
+    "name_ja": "使い捨てライター（プラ製）",
+    "name": "Hộp quẹt dùng 1 lần (bằng nhựa)",
+    "yomi": "つかいすてらいたー",
+    "roma": "tsukaisuteraita-",
+    "keyword": "100円ライター"
+  },
+  {
+    "name_ja": "牛乳パック",
+    "name": "Hộp sữa giấy",
+    "yomi": "ぎゅうにゅうぱっく",
+    "roma": "gyunyupakku"
+  },
+  {
+    "name_ja": "アイスピック",
+    "name": "Ice pick",
+    "yomi": "あいすぴっく",
+    "roma": "aisupikku",
+    "keyword": "千枚通し，せんまいどおし"
+  },
+  {
+    "name_ja": "本棚",
+    "name": "Kệ sách",
+    "yomi": "ほんだな",
+    "roma": "hondana",
+    "keyword": "本箱，書棚"
+  },
+  {
+    "name_ja": "剪定バサミ",
+    "name": "Kéo cắt tỉa",
+    "yomi": "せんていばさみ",
+    "roma": "senteibasami",
+    "keyword": "高枝切り"
+  },
+  {
+    "name_ja": "洗濯バサミ",
+    "name": "Kẹp phơi đồ",
+    "yomi": "せんたくばさみ",
+    "roma": "sentakubasami"
+  },
+  {
+    "name_ja": "ヘアピン",
+    "name": "Kẹp tóc",
+    "yomi": "ぺあぴん",
+    "roma": "heapin",
+    "keyword": "ピン止め"
+  },
+  {
+    "name_ja": "金庫（耐火）",
+    "name": "Két sắt (chống cháy)",
+    "yomi": "きんこ",
+    "roma": "kinko",
+    "keyword": "耐火金庫"
+  },
+  {
+    "name_ja": "タオル",
+    "name": "Khăn",
+    "yomi": "たおる",
+    "roma": "taoru",
+    "keyword": "バスタオル"
+  },
+  {
+    "name_ja": "タオルケット",
+    "name": "Khăn bông",
+    "yomi": "たおるけっと",
+    "roma": "taoruketto"
+  },
+  {
+    "name_ja": "シーツ",
+    "name": "Khăn trải giường",
+    "yomi": "しーつ",
+    "roma": "shi-tsu"
+  },
+  {
+    "name_ja": "トレイ（プラ製）",
+    "name": "Khay (bằng nhựa)",
+    "yomi": "とれい",
+    "roma": "torei",
+    "keyword": "食品トレイ，トレイ"
+  },
+  {
+    "name_ja": "卵パック（紙製）",
+    "name": "Khay đựng trứng (bằng giấy)",
+    "yomi": "たまごぱっく",
+    "roma": "tamagopakku"
+  },
+  {
+    "name_ja": "卵パック（プラ製）",
+    "name": "Khay đựng trứng (bằng nhựa)",
+    "yomi": "たまごぱっく",
+    "roma": "tamagopakku"
+  },
+  {
+    "name_ja": "食品用トレイ",
+    "name": "Khay thực phẩm",
+    "yomi": "しょくひんようとれい",
+    "roma": "shokuhinyoutorei",
+    "keyword": "お弁当のトレイ，惣菜のトレイ，トレー，プラスチックトレイ，トレイ"
+  },
+  {
+    "name_ja": "ワイン庫（ワインセラー）",
+    "name": "Kho rượu vang (hầm rượu vang)",
+    "yomi": "わいんこ（わいんせらー）",
+    "roma": "wainko (wainsera-)"
+  },
+  {
+    "name_ja": "針（裁縫用など）",
+    "name": "Kim (như dùng để may vá, v.v...)",
+    "yomi": "はり",
+    "roma": "hari"
+  },
+  {
+    "name_ja": "注射針",
+    "name": "Kim tiêm",
+    "yomi": "ちゅうしゃばり",
+    "roma": "chuushabari",
+    "keyword": "注射器，点滴，針"
+  },
+  {
+    "name_ja": "ゴーグル",
+    "name": "Kính bảo hộ",
+    "yomi": "ごーぐる",
+    "roma": "go-guru"
+  },
+  {
+    "name_ja": "虫めがね",
+    "name": "Kính lúp",
+    "yomi": "むしめがね",
+    "roma": "mushimegane",
+    "keyword": "虫眼鏡"
+  },
+  {
+    "name_ja": "サングラス（プラ製）",
+    "name": "Kính mát (bằng nhựa)",
+    "yomi": "さんぐらす",
+    "roma": "sangurasu"
+  },
+  {
+    "name_ja": "サングラス（プラ製以外）",
+    "name": "Kính mát (không phải làm bằng nhựa)",
+    "yomi": "さんぐらす",
+    "roma": "sangurasu"
+  },
+  {
+    "name_ja": "落ち葉",
+    "name": "Lá rụng",
+    "yomi": "おちば",
+    "roma": "ochiba",
+    "keyword": "葉っぱ，枯葉"
+  },
+  {
+    "name_ja": "茶殻",
+    "name": "Lá trà",
+    "yomi": "ちゃがら",
+    "roma": "chagara",
+    "keyword": "出がらし，出からし，出し殻"
+  },
+  {
+    "name_ja": "枯葉",
+    "name": "Lá vàng",
+    "yomi": "かれは",
+    "roma": "kareha"
+  },
+  {
+    "name_ja": "オーブントースター",
+    "name": "Lò nướng bánh mỳ",
+    "yomi": "おーぶんとーすたー",
+    "roma": "o-bunto-suta-"
+  },
+  {
+    "name_ja": "トースター",
+    "name": "Lò nướng bánh mỳ",
+    "yomi": "とーすたー",
+    "roma": "to-suta-",
+    "keyword": "オーブントースター"
+  },
+  {
+    "name_ja": "バーベキューコンロ",
+    "name": "Lò nướng barbecue ngoài trời",
+    "yomi": "ばーべきゅーこんろ",
+    "roma": "ba-bekyu-konro",
+    "keyword": "キャンプ"
+  },
+  {
+    "name_ja": "オイルヒーター",
+    "name": "Lò sưởi dầu",
+    "yomi": "おいるひーたー",
+    "roma": "oiruhi-ta-",
+    "keyword": "ヒーター"
+  },
+  {
+    "name_ja": "電気ストーブ（電気パネルヒーターを含む）",
+    "name": "Lò sưởi điện (bao gồm cả các tấm sưởi điện)",
+    "yomi": "でんきすとーぶ（でんきぱねるひーたー）",
+    "roma": "denkisuto-bu (denkipaneruhi-ta-)",
+    "keyword": "足温器，ヒーター"
+  },
+  {
+    "name_ja": "こたつ・こたつ天板",
+    "name": "Lò sưởi, tấm ván bên trên lò sưởi",
+    "yomi": "こたつ・こたつてんばん",
+    "roma": "kotatsu/kotatsutenban"
+  },
+  {
+    "name_ja": "オーブンレンジ",
+    "name": "Lò vi sóng",
+    "yomi": "おーぶんれんじ",
+    "roma": "o-bunrenji",
+    "keyword": "ガスレンジ"
+  },
+  {
+    "name_ja": "電子レンジ",
+    "name": "Lò vi sóng",
+    "yomi": "でんしれんじ",
+    "roma": "denshirenji",
+    "keyword": "オーブン"
+  },
+  {
+    "name_ja": "スピーカー",
+    "name": "Loa",
+    "yomi": "すぴーかー",
+    "roma": "supi-ka-",
+    "keyword": "拡声器，電気メガホン"
+  },
+  {
+    "name_ja": "エアゾール缶",
+    "name": "Lon aerosol",
+    "yomi": "えあぞーるかん",
+    "roma": "eazo-rukan",
+    "keyword": "スプレー缶"
+  },
+  {
+    "name_ja": "スチール缶（飲料・食品用）",
+    "name": "Lon bằng thép (dùng cho đồ uống và thực phẩm)",
+    "yomi": "すちーるかん",
+    "roma": "suchi-rukan"
+  },
+  {
+    "name_ja": "菓子缶（一斗缶は除く）",
+    "name": "Lon bánh kẹo (ngoại trừ lon một đấu (18l))",
+    "yomi": "かしかん",
+    "roma": "kashikan",
+    "keyword": "お菓子の缶"
+  },
+  {
+    "name_ja": "サラダ油の缶（一斗缶は除く）",
+    "name": "Lon dầu ăn (ngoại trừ lon một đấu (18l))",
+    "yomi": "さらだあぶらのかん",
+    "roma": "saradaabura no kan"
+  },
+  {
+    "name_ja": "食用油の缶（一斗缶は除く）",
+    "name": "Lon dầu ăn (ngoại trừ lon một đấu (18l))",
+    "yomi": "しょくようゆのかん",
+    "roma": "shokuyouyu no kan",
+    "keyword": "あぶらのかん"
+  },
+  {
+    "name_ja": "一斗缶",
+    "name": "Lon một đấu (18l)",
+    "yomi": "いっとかん",
+    "roma": "ittokan",
+    "keyword": "灯油缶"
+  },
+  {
+    "name_ja": "アルミ缶（飲食用）",
+    "name": "Lon nhôm (dùng cho thực phẩm)",
+    "yomi": "あるみかん",
+    "roma": "arumikan",
+    "keyword": "缶ビール，缶ジュース"
+  },
+  {
+    "name_ja": "空き缶（飲食用、調味料）",
+    "name": "Lon rỗng (dùng cho thực phẩm, đồ gia vị)",
+    "yomi": "あきかん",
+    "roma": "akikan",
+    "keyword": "缶，かん，缶詰，かんづめ，ビール缶，ミルク缶"
+  },
+  {
+    "name_ja": "のり（海苔）の缶",
+    "name": "Lon rong biển",
+    "yomi": "のりのかん",
+    "roma": "nori no kan"
+  },
+  {
+    "name_ja": "ペンキの缶",
+    "name": "Lon sơn",
+    "yomi": "ぺんきのかん",
+    "roma": "penki no kan"
+  },
+  {
+    "name_ja": "塗料のスプレー缶",
+    "name": "Lon sơn phun",
+    "yomi": "とりょうのすぷれーかん",
+    "roma": "toryou no supure-kan",
+    "keyword": "ペンキ，スプレー，薄め液"
+  },
+  {
+    "name_ja": "ペンキのスプレー缶",
+    "name": "Lon sơn phun",
+    "yomi": "ぺんきのすぷれーかん",
+    "roma": "penkinosupure-kan"
+  },
+  {
+    "name_ja": "塗料の缶・びん",
+    "name": "Lon sơn, chai sơn",
+    "yomi": "とりょうのかん・びん",
+    "roma": "toryou no kan/bin",
+    "keyword": "ペンキ，スプレー，薄め液，シンナー，溶剤，瓶"
+  },
+  {
+    "name_ja": "粉ミルクの缶",
+    "name": "Lon sữa bột",
+    "yomi": "こなみるくのかん",
+    "roma": "konamiruku no kan"
+  },
+  {
+    "name_ja": "ペットフードの缶",
+    "name": "Lon thức ăn thú cưng",
+    "yomi": "ぺっとふーどのかん",
+    "roma": "pettofu-do no kan"
+  },
+  {
+    "name_ja": "茶の缶",
+    "name": "Lon trà",
+    "yomi": "ちゃのかん",
+    "roma": "cha no kan",
+    "keyword": "茶筒"
+  },
+  {
+    "name_ja": "スプレー缶",
+    "name": "Lon xịt",
+    "yomi": "すぷれーかん",
+    "roma": "supure-kan"
+  },
+  {
+    "name_ja": "鳥かご",
+    "name": "Lồng chim",
+    "yomi": "とりかご",
+    "roma": "torikago",
+    "keyword": "バードケージ，ペット，鳥籠"
+  },
+  {
+    "name_ja": "タイヤ（車）",
+    "name": "Lốp xe (ô tô)",
+    "yomi": "たいや",
+    "roma": "taiya"
+  },
+  {
+    "name_ja": "ネット（たまねぎ・みかんなどが入っていたもの）",
+    "name": "Lưới (vật dùng để bao bọc các thứ như hành tây, cam, v.v...)",
+    "yomi": "ねっと",
+    "roma": "netto"
+  },
+  {
+    "name_ja": "彫刻刀",
+    "name": "Lưỡi đục",
+    "yomi": "ちょうこくとう",
+    "roma": "choukokutou"
+  },
+  {
+    "name_ja": "鎌",
+    "name": "Lưỡi hái",
+    "yomi": "かま",
+    "roma": "kama"
+  },
+  {
+    "name_ja": "水中メガネ（プラ製）",
+    "name": "Mẳ kính dưới nước (bằng nhựa)",
+    "yomi": "すいちゅうめがね",
+    "roma": "suichuumegane",
+    "keyword": "ゴーグル"
+  },
+  {
+    "name_ja": "カーテン",
+    "name": "Màn",
+    "yomi": "かーてん",
+    "roma": "ka-ten"
+  },
+  {
+    "name_ja": "パソコン用ディスプレイ",
+    "name": "Màn hình máy vi tính",
+    "yomi": "ぱそこんようでぃすぷれい",
+    "roma": "pasokonyoudesupurei"
+  },
+  {
+    "name_ja": "ラップ（商品を包んでいたもの）",
+    "name": "Màng bao (vật dùng để bao bọc sản phẩm)",
+    "yomi": "らっぷ",
+    "roma": "rappu"
+  },
+  {
+    "name_ja": "包装フィルム",
+    "name": "Màng bọc",
+    "yomi": "ほうそうふぃるむ",
+    "roma": "housoufirumu",
+    "keyword": "外装フィルム"
+  },
+  {
+    "name_ja": "アルミホイル",
+    "name": "Màng nhôm lá mỏng",
+    "yomi": "あるみほいる",
+    "roma": "arumihoiru"
+  },
+  {
+    "name_ja": "すべり台（子供用遊具）",
+    "name": "Máng trượt (dụng cụ đồ chơi cho trẻ em)",
+    "yomi": "すべりだい",
+    "roma": "suberidai",
+    "keyword": "滑り台"
+  },
+  {
+    "name_ja": "エアキャップ（緩衝材）",
+    "name": "Màng xốp hơi (vật liệu đệm)",
+    "yomi": "えあきゃっぷ（かんしょうざい）",
+    "roma": "eakyappu (kanshouzai)",
+    "keyword": "プチプチ，エアーキャップ"
+  },
+  {
+    "name_ja": "眼鏡（プラ製）",
+    "name": "Mắt kính (bằng nhựa)",
+    "yomi": "めがね",
+    "roma": "megane"
+  },
+  {
+    "name_ja": "眼鏡（プラ製以外）",
+    "name": "Mắt kính (không phải bằng nhựa)",
+    "yomi": "めがね",
+    "roma": "megane"
+  },
+  {
+    "name_ja": "水中メガネ（ガラス製）",
+    "name": "Mắt kính dưới nước (bằng thủy tinh)",
+    "yomi": "すいちゅうめがね",
+    "roma": "suichuumegane",
+    "keyword": "ゴーグル"
+  },
+  {
+    "name_ja": "カメラ",
+    "name": "Máy ảnh",
+    "yomi": "かめら",
+    "roma": "kamera",
+    "keyword": "デジカメ"
+  },
+  {
+    "name_ja": "電気ひげそり",
+    "name": "Máy cạo râu",
+    "yomi": "でんきひげそり",
+    "roma": "denkihigesori",
+    "keyword": "電気かみそり，シェーバー，髭剃り"
+  },
+  {
+    "name_ja": "ゲーム機",
+    "name": "Máy chơi game",
+    "yomi": "げーむき",
+    "roma": "ge-muki"
+  },
+  {
+    "name_ja": "ワープロ",
+    "name": "Máy đánh chữ",
+    "yomi": "わーぷろ",
+    "roma": "wa-puro",
+    "keyword": "ワードプロセッサ"
+  },
+  {
+    "name_ja": "編み機",
+    "name": "Máy dệt kim",
+    "yomi": "あみき",
+    "roma": "amiki"
+  },
+  {
+    "name_ja": "エアコン",
+    "name": "Máy điều hòa",
+    "yomi": "えあこん",
+    "roma": "eakon",
+    "keyword": "クーラー"
+  },
+  {
+    "name_ja": "血圧計",
+    "name": "Máy đo huyết áp",
+    "yomi": "けつあつけい",
+    "roma": "ketsuatsukei"
+  },
+  {
+    "name_ja": "給湯器",
+    "name": "Máy đun nước",
+    "yomi": "きゅうとうき",
+    "roma": "kyutouki"
+  },
+  {
+    "name_ja": "ジューサー",
+    "name": "Máy ép trái cây",
+    "yomi": "じゅーさー",
+    "roma": "ju-sa-",
+    "keyword": "ミキサー"
+  },
+  {
+    "name_ja": "ファクシミリ（電話機と一体になったものを含む）",
+    "name": "Máy fax (bao gồm cả loại gắn chung với máy điện thoại)",
+    "yomi": "ふぁくしみり，でんわき",
+    "roma": "fakushimiri, denwaki",
+    "keyword": "ＦＡＸ，ファックス，ファクシミリ電話機，FAX，fax，ｆａｘ"
+  },
+  {
+    "name_ja": "テープレコーダー",
+    "name": "Máy ghi âm",
+    "yomi": "てーぷれこーだー",
+    "roma": "te-pureko-da-",
+    "keyword": "テープ，ラジカセ，VTR，ビデオ"
+  },
+  {
+    "name_ja": "レコードプレーヤー",
+    "name": "Máy ghi âm",
+    "yomi": "れこーどぷれーやー",
+    "roma": "reko-dopure-ya-"
+  },
+  {
+    "name_ja": "洗濯機",
+    "name": "Máy giặt",
+    "yomi": "せんたくき",
+    "roma": "sentakuki"
+  },
+  {
+    "name_ja": "ＭＤプレーヤー",
+    "name": "Máy hát MD",
+    "yomi": "えむでぃぷれーやー",
+    "roma": "emudeipureiya-",
+    "keyword": "ＭＤコンポ，ＭＤプレイヤー，MDコンポ，MDプレイヤー"
+  },
+  {
+    "name_ja": "除湿機",
+    "name": "Máy hút ẩm",
+    "yomi": "じょしつき",
+    "roma": "joshitsuki",
+    "keyword": "除湿器"
+  },
+  {
+    "name_ja": "掃除機",
+    "name": "Máy hút bụi",
+    "yomi": "そうじき",
+    "roma": "soujiki",
+    "keyword": "クリーナー"
+  },
+  {
+    "name_ja": "プリンター",
+    "name": "Máy in",
+    "yomi": "ぷりんたー",
+    "roma": "purinta-",
+    "keyword": "レーザープリンター"
+  },
+  {
+    "name_ja": "パソコンプリンター",
+    "name": "Máy in cho máy vi tính",
+    "yomi": "ぱそこんぷりんたー",
+    "roma": "pasokonpurinta-"
+  },
+  {
+    "name_ja": "餅つき機",
+    "name": "Máy làm bánh dày mochi",
+    "yomi": "もちつきき",
+    "roma": "mochitsukiki"
+  },
+  {
+    "name_ja": "空気清浄機",
+    "name": "Máy làm sạch không khí",
+    "yomi": "くうきせいじょうき",
+    "roma": "kuukiseijouki",
+    "keyword": "エアクリーナー，空気清浄器"
+  },
+  {
+    "name_ja": "浄水器（本体）",
+    "name": "Máy lọc nước (thân)",
+    "yomi": "じょうすいき",
+    "roma": "jousuiki"
+  },
+  {
+    "name_ja": "浄水器（カートリッジ）",
+    "name": "Máy lọc nước (vỏ chứa)",
+    "yomi": "じょうすいき",
+    "roma": "jousuiki"
+  },
+  {
+    "name_ja": "マッサージ機",
+    "name": "Máy massage",
+    "yomi": "まっさーじき",
+    "roma": "massa-jiki"
+  },
+  {
+    "name_ja": "ミシン",
+    "name": "Máy may",
+    "yomi": "みしん",
+    "roma": "mishin"
+  },
+  {
+    "name_ja": "コーヒーメーカー",
+    "name": "Máy pha cà phê",
+    "yomi": "こーひーめーかー",
+    "roma": "ko-hi-me-ka-"
+  },
+  {
+    "name_ja": "コピー機",
+    "name": "Máy photocopy",
+    "yomi": "こぴーき",
+    "roma": "kopi-ki"
+  },
+  {
+    "name_ja": "ファンヒーター",
+    "name": "Máy quạt sưởi ấm",
+    "yomi": "ふぁんひーたー",
+    "roma": "fanhi-ta-",
+    "keyword": "ストーブ，暖房，石油ファンヒーター，ガスファンヒーター"
+  },
+  {
+    "name_ja": "ビデオカメラ",
+    "name": "Máy quay phim",
+    "yomi": "びでおかめら",
+    "roma": "bideokamera",
+    "keyword": "ＶＴＲ，カメラ"
+  },
+  {
+    "name_ja": "食器洗い乾燥機・食器乾燥機",
+    "name": "Máy rửa, sấy chén bát, máy sấy chén bát",
+    "yomi": "しょっきあらいかんそうき・しょっきかんそうき",
+    "roma": "shokkiaraikansouki/shokkikansouki",
+    "keyword": "食洗機，食器洗い機"
+  },
+  {
+    "name_ja": "ふとん乾燥機",
+    "name": "Máy sấy chăn",
+    "yomi": "ふとんかんそうき",
+    "roma": "futonkansouki",
+    "keyword": "布団乾燥機"
+  },
+  {
+    "name_ja": "衣類乾燥機",
+    "name": "Máy sấy quần áo",
+    "yomi": "いるいかんそうき",
+    "roma": "iruikansouki"
+  },
+  {
+    "name_ja": "ドライヤー",
+    "name": "Máy sấy tóc",
+    "yomi": "どらいやー",
+    "roma": "doraiya-"
+  },
+  {
+    "name_ja": "スキャナー",
+    "name": "Máy scan",
+    "yomi": "すきゃなー",
+    "roma": "sukyana-"
+  },
+  {
+    "name_ja": "電卓",
+    "name": "Máy tính",
+    "yomi": "でんたく",
+    "roma": "dentaku",
+    "keyword": "計算機"
+  },
+  {
+    "name_ja": "パソコン",
+    "name": "Máy vi tính",
+    "yomi": "ぱそこん",
+    "roma": "pasokon",
+    "keyword": "ノートパソコン"
+  },
+  {
+    "name_ja": "ノート型パソコン",
+    "name": "Máy vi tính xách tay",
+    "yomi": "のーとがたぱそこん",
+    "roma": "no-togatapasokon",
+    "keyword": "ノートパソコン"
+  },
+  {
+    "name_ja": "ミキサー",
+    "name": "Máy xay",
+    "yomi": "みきさー",
+    "roma": "mikisa-",
+    "keyword": "ジューサー"
+  },
+  {
+    "name_ja": "ＭＤ",
+    "name": "MD",
+    "yomi": "えむでぃ",
+    "roma": "emudei",
+    "keyword": "ＭＤ，MD，ｍｄ，md"
+  },
+  {
+    "name_ja": "スポンジ",
+    "name": "Miếng bọt biển",
+    "yomi": "すぽんじ",
+    "roma": "suponji"
+  },
+  {
+    "name_ja": "たわし（金属製）",
+    "name": "Miếng lau chùi (bằng kim loại)",
+    "yomi": "たわし",
+    "roma": "tawashi",
+    "keyword": "スチールたわし"
+  },
+  {
+    "name_ja": "たわし（金属製以外）",
+    "name": "Miếng lau chùi (không phải bằng kim loại)",
+    "yomi": "たわし",
+    "roma": "tawashi"
+  },
+  {
+    "name_ja": "プラモデル",
+    "name": "Mô hình nhựa",
+    "yomi": "ぷらもでる",
+    "roma": "puramoderu"
+  },
+  {
+    "name_ja": "ハンガー（金属製）",
+    "name": "Móc áo quần (bằng kim loại)",
+    "yomi": "はんがー",
+    "roma": "hanga-",
+    "keyword": "針金ハンガー"
+  },
+  {
+    "name_ja": "ハンガー（プラ製・木製）",
+    "name": "Móc áo quần (bằng nhựa, bằng gỗ)",
+    "yomi": "はんがー",
+    "roma": "hanga-",
+    "keyword": "プラスチックハンガー"
+  },
+  {
+    "name_ja": "洗濯ハンガー（プラ製）",
+    "name": "Móc phơi đồ (bằng nhựa)",
+    "yomi": "せんたくはんがー（ぷらせい）",
+    "roma": "sentakuhanga- (purasei)",
+    "keyword": "ピンチハンガー，洗濯干すやつ"
+  },
+  {
+    "name_ja": "帽子",
+    "name": "Mũ",
+    "yomi": "ぼうし",
+    "roma": "boushi",
+    "keyword": "ハット"
+  },
+  {
+    "name_ja": "ヘルメット",
+    "name": "Mũ bảo hiểm",
+    "yomi": "へるめっと",
+    "roma": "herumetto"
+  },
+  {
+    "name_ja": "洗剤の計量スプーン",
+    "name": "Muỗng đo lường bột giặt",
+    "yomi": "せんざいのけいりょうすぷーん",
+    "roma": "senzai no keiryousupu-n"
+  },
+  {
+    "name_ja": "キャップ（金属製）",
+    "name": "Nắp (bằng kim loại)",
+    "yomi": "きゃっぷ",
+    "roma": "kyappu",
+    "keyword": "蓋，ふた，ビールの栓，"
+  },
+  {
+    "name_ja": "キャップ（プラ製）",
+    "name": "Nắp (bằng nhựa)",
+    "yomi": "きゃっぷ",
+    "roma": "kyappu",
+    "keyword": "蓋，ふた"
+  },
+  {
+    "name_ja": "ヘアースプレーのキャップ",
+    "name": "Nắp bình xịt tóc",
+    "yomi": "へあーすぷれーのきゃっぷ",
+    "roma": "hea-supure- no kyappu"
+  },
+  {
+    "name_ja": "温水洗浄機付便座",
+    "name": "Nắp bồn cầu có gắn vòi rửa nước nóng",
+    "yomi": "おんすいせんじょうきつきべんざ",
+    "roma": "onsuisenjoukitsuki benza",
+    "keyword": "ウォシュレット，ウォッシュレット，暖房便座，便座，洗浄便座，温水洗浄便座，温水便座，シャワートイレ"
+  },
+  {
+    "name_ja": "風呂のふた",
+    "name": "Nắp bồn tắm",
+    "yomi": "ふろのふた",
+    "roma": "furo no futa",
+    "keyword": "お風呂の蓋，風呂の蓋，風呂ふた"
+  },
+  {
+    "name_ja": "びんのキャップ（金属製）",
+    "name": "Nắp chai (bằng kim loại)",
+    "yomi": "びんのきゃっぷ",
+    "roma": "bin no kyappu",
+    "keyword": "瓶のふた，びんのキャップ，びんのふた，ふた，栓"
+  },
+  {
+    "name_ja": "びんのキャップ（プラ製）",
+    "name": "Nắp chai (bằng nhựa)",
+    "yomi": "びんのきゃっぷ",
+    "roma": "bin no kyappu",
+    "keyword": "瓶のふた，びんのキャップ，びんのふた，ふた，栓"
+  },
+  {
+    "name_ja": "ビールびんのキャップ",
+    "name": "Nắp chai bia",
+    "yomi": "びーるびんのきゃっぷ",
+    "roma": "bi-rubin no kyappu",
+    "keyword": "王冠，ふた"
+  },
+  {
+    "name_ja": "食用油の容器のキャップ（金属製）",
+    "name": "Nắp đồ đựng dầu ăn (bằng kim loại)",
+    "yomi": "しょくようゆのようきのきゃっぷ",
+    "roma": "shokuyouyu no youki no kyappu"
+  },
+  {
+    "name_ja": "食用油の容器のキャップ（プラ製）",
+    "name": "Nắp đồ đựng dầu ăn (bằng nhựa)",
+    "yomi": "しょくようゆのようきのきゃっぷ",
+    "roma": "shokuyouyu no youki no kyappu"
+  },
+  {
+    "name_ja": "エアゾール缶のキャップ（プラ製）",
+    "name": "Nắp lon aerosol (bằng nhựa)",
+    "yomi": "えあぞーるかんのきゃっぷ（ぷらせい）",
+    "roma": "eazo-rukan no kyappu (purasei)",
+    "keyword": "スプレー缶のキャップ"
+  },
+  {
+    "name_ja": "スプレー缶のキャップ（プラ製）",
+    "name": "Nắp lon xịt (bằng nhựa)",
+    "yomi": "すぷれーかんのきゃっぷ",
+    "roma": "supure-kan no kyappu"
+  },
+  {
+    "name_ja": "ペットボトルのキャップ・ラベル",
+    "name": "Nắp, nhãn của chai Pet",
+    "yomi": "ぺっとぼとるのきゃっぷ・らべる",
+    "roma": "pettobotoru no kyappu/raberu",
+    "keyword": "キャップ，ラベル，ペットボトルのラベル，ペットボトルのキャップ，ペットボトルのふた，ふた"
+  },
+  {
+    "name_ja": "マットレス",
+    "name": "Nệm",
+    "yomi": "まっとれす",
+    "roma": "mattoresu",
+    "keyword": "ふとん"
+  },
+  {
+    "name_ja": "ベッドマットレス",
+    "name": "Nệm giường",
+    "yomi": "べっどまっとれす",
+    "roma": "beddomattoresu"
+  },
+  {
+    "name_ja": "スプリングマットレス",
+    "name": "Nệm lò xo",
+    "yomi": "すぷりんぐまっと",
+    "roma": "supuringumatto",
+    "keyword": "ベッド"
+  },
+  {
+    "name_ja": "ろうそく",
+    "name": "Nến",
+    "yomi": "ろうそく",
+    "roma": "rousoku",
+    "keyword": "ローソク，キャンドル，蝋燭"
+  },
+  {
+    "name_ja": "すずり",
+    "name": "Nghiên mực",
+    "yomi": "すずり",
+    "roma": "suzuri",
+    "keyword": "書道，硯"
+  },
+  {
+    "name_ja": "植木の枝",
+    "name": "Nhánh cây",
+    "yomi": "うえきのえだ",
+    "roma": "uekinoeda",
+    "keyword": "剪定枝，落葉，枯葉"
+  },
+  {
+    "name_ja": "温度計",
+    "name": "Nhiệt kế",
+    "yomi": "おんどけい",
+    "roma": "ondokei",
+    "keyword": "水銀体温計"
+  },
+  {
+    "name_ja": "体温計",
+    "name": "Nhiệt kế",
+    "yomi": "たいおんけい",
+    "roma": "taionkei",
+    "keyword": "水銀体温計"
+  },
+  {
+    "name_ja": "フォーク（金属製）",
+    "name": "Nĩa (bằng kim loại)",
+    "yomi": "ふぉーく",
+    "roma": "fo-ku"
+  },
+  {
+    "name_ja": "スプーン（金属製・陶器製）",
+    "name": "Nĩa (bằng kim loại, bằng gốm sứ)",
+    "yomi": "すぷーん",
+    "roma": "supu-n"
+  },
+  {
+    "name_ja": "スプーン（プラ製・木製）",
+    "name": "Nĩa (bằng nhựa, bằng gỗ)",
+    "yomi": "すぷーん",
+    "roma": "supu-n"
+  },
+  {
+    "name_ja": "フォーク（プラ製・木製）",
+    "name": "Nĩa (bằng nhựa, bằng gỗ)",
+    "yomi": "ふぉーく",
+    "roma": "fo-ku"
+  },
+  {
+    "name_ja": "鍋",
+    "name": "Nồi",
+    "yomi": "なべ",
+    "roma": "nabe",
+    "keyword": "土鍋、アルミ鍋，ホーロー鍋"
+  },
+  {
+    "name_ja": "圧力鍋",
+    "name": "Nồi áp suất",
+    "yomi": "あつりょくなべ",
+    "roma": "atsuryokunabe"
+  },
+  {
+    "name_ja": "炊飯器",
+    "name": "Nồi cơm điện",
+    "yomi": "すいはんき",
+    "roma": "suihanki",
+    "keyword": "ジャー，炊飯ジャー，電子ジャー"
+  },
+  {
+    "name_ja": "アルミ箔鍋",
+    "name": "Nồi nhôm lá mỏng",
+    "yomi": "あるみはくなべ",
+    "roma": "arumihakunabe"
+  },
+  {
+    "name_ja": "パラソル（ビーチパラソル・レジャーパラソル）",
+    "name": "Ô (ô ở bãi biển, ô dùng thư giản)",
+    "yomi": "ぱらそる（びーちぱらそる・れじゃーぱらそる）",
+    "roma": "parasoru (bi-chiparasoru/reja-parasoru)",
+    "keyword": "ゴルフ傘"
+  },
+  {
+    "name_ja": "延長コード",
+    "name": "Ổ cắm điện có dây",
+    "yomi": "えんちょうこーど",
+    "roma": "enchouko-do",
+    "keyword": "電気コード，テーブルタップ"
+  },
+  {
+    "name_ja": "双眼鏡",
+    "name": "Ống dòm",
+    "yomi": "そうがんきょう",
+    "roma": "sougankyou",
+    "keyword": "オペラグラス"
+  },
+  {
+    "name_ja": "ストロー",
+    "name": "Ống hút ",
+    "yomi": "すとろー",
+    "roma": "sutoro-"
+  },
+  {
+    "name_ja": "ホース",
+    "name": "Ống mềm",
+    "yomi": "ほーす",
+    "roma": "ho-su",
+    "keyword": "ゴムホース，ガスホース，水道ホース，洗濯ホース"
+  },
+  {
+    "name_ja": "ペットのふん",
+    "name": "Phân của thú cưng",
+    "yomi": "ぺっとのふん",
+    "roma": "petto no fun",
+    "keyword": "糞，犬の糞"
+  },
+  {
+    "name_ja": "ゲームソフト",
+    "name": "Phần mềm game",
+    "yomi": "げーむそふと",
+    "roma": "ge-musofuto"
+  },
+  {
+    "name_ja": "花火",
+    "name": "Pháo bông",
+    "yomi": "はなび",
+    "roma": "hanabi"
+  },
+  {
+    "name_ja": "浮輪",
+    "name": "Phao vòng",
+    "yomi": "うきわ",
+    "roma": "ukiwa",
+    "keyword": "浮き輪"
+  },
+  {
+    "name_ja": "魔法瓶",
+    "name": "Phích nước",
+    "yomi": "まほうびん",
+    "roma": "mahoubin",
+    "keyword": "ポット"
+  },
+  {
+    "name_ja": "フィルム",
+    "name": "Phim ảnh",
+    "yomi": "ふぃるむ",
+    "roma": "firumu",
+    "keyword": "写真，ネガ，スライド"
+  },
+  {
+    "name_ja": "封筒",
+    "name": "Phong bì",
+    "yomi": "ふうとう",
+    "roma": "fuutou"
+  },
+  {
+    "name_ja": "ＰＨＳ",
+    "name": "PHS",
+    "yomi": "ぴーえいちえす",
+    "roma": "pi-eichiesu",
+    "keyword": "携帯電話"
+  },
+  {
+    "name_ja": "ピアノ",
+    "name": "Piano",
+    "yomi": "ぴあの",
+    "roma": "piano"
+  },
+  {
+    "name_ja": "バッテリー",
+    "name": "Pin",
+    "yomi": "ばってりー",
+    "roma": "batteri-",
+    "keyword": "充電池"
+  },
+  {
+    "name_ja": "ボール",
+    "name": "Quả bóng",
+    "yomi": "ぼーる",
+    "roma": "bo-ru",
+    "keyword": "テニスボール，ビーチボール，サッカーボール，ゴルフボール，ゴムボール，野球ボール"
+  },
+  {
+    "name_ja": "衣服",
+    "name": "Quần áo",
+    "yomi": "いるい",
+    "roma": "irui",
+    "keyword": "上着，ズボン，ジャケット，服，スカート，ジーンズ，洋服，衣料，革，スキーウェア"
+  },
+  {
+    "name_ja": "古着・古布",
+    "name": "Quần áo cũ, vải cũ",
+    "yomi": "ふるぎ・ふるぬの",
+    "roma": "furugi/furununo"
+  },
+  {
+    "name_ja": "扇風機",
+    "name": "Quạt",
+    "yomi": "せんぷうき",
+    "roma": "senpuuki"
+  },
+  {
+    "name_ja": "換気扇",
+    "name": "Quạt thông gió",
+    "yomi": "かんきせん",
+    "roma": "kankisen"
+  },
+  {
+    "name_ja": "カイロ（使い捨てを含む）",
+    "name": "Quẹt zippo (bao gồm loại sử dụng 1 lần)",
+    "yomi": "かいろ",
+    "roma": "kairo",
+    "keyword": "使い捨てカイロ"
+  },
+  {
+    "name_ja": "入れ歯",
+    "name": "Răng giả",
+    "yomi": "いれば",
+    "roma": "ireba",
+    "keyword": "金歯，銀歯"
+  },
+  {
+    "name_ja": "すだれ",
+    "name": "Rèm",
+    "yomi": "すだれ",
+    "roma": "sudare",
+    "keyword": "日よけ，簾"
+  },
+  {
+    "name_ja": "アコーディオンカーテン",
+    "name": "Rèm accordion",
+    "yomi": "あこーでぃおんかーてん",
+    "roma": "ako-deonka-ten"
+  },
+  {
+    "name_ja": "ブラインド",
+    "name": "Rèm cửa sổ",
+    "yomi": "ぶらいんど",
+    "roma": "buraindo"
+  },
+  {
+    "name_ja": "斧",
+    "name": "Rìu",
+    "yomi": "おの",
+    "roma": "ono",
+    "keyword": "なた"
+  },
+  {
+    "name_ja": "本",
+    "name": "Sách",
+    "yomi": "ほん",
+    "roma": "hon",
+    "keyword": "書籍，古本，雑誌，マンガ"
+  },
+  {
+    "name_ja": "教科書",
+    "name": "Sách giáo khoa",
+    "yomi": "きょうかしょ",
+    "roma": "kyokasho"
+  },
+  {
+    "name_ja": "パンフレット",
+    "name": "Sách hướng dẫn",
+    "yomi": "ぱんふれっと",
+    "roma": "panfuretto",
+    "keyword": "カタログ"
+  },
+  {
+    "name_ja": "下敷（プラ製）",
+    "name": "Shitajiki (tấm lót bên dưới khi viết, làm bằng nhựa)",
+    "yomi": "したじき",
+    "roma": "shitajiki"
+  },
+  {
+    "name_ja": "シリカゲル（乾燥剤）",
+    "name": "Silica gel (chất làm khô)",
+    "yomi": "しりかげる（かんそうざい）",
+    "roma": "shirikageru (kansouzai)",
+    "keyword": "乾燥剤"
+  },
+  {
+    "name_ja": "ソファー・ソファーベッド",
+    "name": "Sofa, giường sofa",
+    "yomi": "そふぁー・そふぁーべっど",
+    "roma": "sofa-/sofa-beddo"
+  },
+  {
+    "name_ja": "塗料",
+    "name": "Sơn",
+    "yomi": "とりょう",
+    "roma": "toryou",
+    "keyword": "ペンキ，スプレー，薄め液，シンナー，溶剤"
+  },
+  {
+    "name_ja": "紙おむつ",
+    "name": "Tã giấy dùng một lần",
+    "yomi": "かみおむつ",
+    "roma": "kamiomutsu"
+  },
+  {
+    "name_ja": "茶碗",
+    "name": "Tách trà",
+    "yomi": "ちゃわん",
+    "roma": "chawan",
+    "keyword": "湯呑，瀬戸物，陶器，皿"
+  },
+  {
+    "name_ja": "ヘッドホン",
+    "name": "Tai nghe",
+    "yomi": "へっどほん",
+    "roma": "heddohon"
+  },
+  {
+    "name_ja": "レジャーシート",
+    "name": "Tấm bạt picnic",
+    "yomi": "れじゃーしーと",
+    "roma": "reja-shi-to",
+    "keyword": "ブルーシート，ビニールシート"
+  },
+  {
+    "name_ja": "よしず",
+    "name": "Tấm sậy (yoshizu)",
+    "yomi": "よしず",
+    "roma": "yoshizu"
+  },
+  {
+    "name_ja": "鉄板（バーベキューなどで使うもの）",
+    "name": "Tấm thép (thứ dùng nướng thịt, v.v...)",
+    "yomi": "てっぱん",
+    "roma": "teppan",
+    "keyword": "ホットプレート"
+  },
+  {
+    "name_ja": "ホットプレート",
+    "name": "Tấm thép nướng",
+    "yomi": "ほっとぷれーと",
+    "roma": "hottopure-to"
+  },
+  {
+    "name_ja": "スキー板",
+    "name": "Tấm trượt tuyết",
+    "yomi": "すきーいた",
+    "roma": "suki-ita"
+  },
+  {
+    "name_ja": "すのこ",
+    "name": "Tấm ván lót",
+    "yomi": "すのこ",
+    "roma": "sunoko"
+  },
+  {
+    "name_ja": "タバコの吸殻",
+    "name": "Tàn thuốc lá",
+    "yomi": "たばこのすいがら",
+    "roma": "tabako no suigara",
+    "keyword": "吸い殻"
+  },
+  {
+    "name_ja": "雑誌",
+    "name": "Tạp chí",
+    "yomi": "ざっし",
+    "roma": "zasshi",
+    "keyword": "週刊誌，月刊誌，カタログ，ブック，マンガ"
+  },
+  {
+    "name_ja": "カーペット",
+    "name": "Thảm",
+    "yomi": "かーぺっと",
+    "roma": "ka-petto",
+    "keyword": "ラグ，マット"
+  },
+  {
+    "name_ja": "じゅうたん",
+    "name": "Thảm",
+    "yomi": "じゅうたん",
+    "roma": "juutan",
+    "keyword": "カーペット，ラグ，敷物，絨毯"
+  },
+  {
+    "name_ja": "マット（キッチン・バス等）",
+    "name": "Thảm chùi chân (nhà bếp, nhà tắm, v.v...)",
+    "yomi": "まっと（キッチン・バス）",
+    "roma": "matto (kicchin/basu)",
+    "keyword": "キッチンマット，バスマット，玄関マット，トイレマット，風呂マット"
+  },
+  {
+    "name_ja": "電気カーペット",
+    "name": "Thảm điện",
+    "yomi": "でんきかーぺっと",
+    "roma": "denkika-petto",
+    "keyword": "ホットカーペット"
+  },
+  {
+    "name_ja": "ホットカーペット",
+    "name": "Thảm điện",
+    "yomi": "ほっとかーぺっと",
+    "roma": "hottoka-petto"
+  },
+  {
+    "name_ja": "炭",
+    "name": "Than",
+    "yomi": "すみ",
+    "roma": "sumi",
+    "keyword": "燃料，木炭"
+  },
+  {
+    "name_ja": "木の枝・幹",
+    "name": "Thân cây, nhánh cây",
+    "yomi": "きのえだ・みき",
+    "roma": "kinoeda/miki",
+    "keyword": "木材"
+  },
+  {
+    "name_ja": "脚立",
+    "name": "Thang gấp",
+    "yomi": "きゃたつ",
+    "roma": "kyatatsu"
+  },
+  {
+    "name_ja": "つっぱり棒（プラ製）",
+    "name": "Thanh giữ (bằng nhựa)",
+    "yomi": "つっぱりぼう",
+    "roma": "tsupparibou",
+    "keyword": "突っ張り棒"
+  },
+  {
+    "name_ja": "物干しざお・物干し台",
+    "name": "Thanh phơi quần áo, cây phơi quần áo",
+    "yomi": "ものほしざお・ものほしだい",
+    "roma": "monohoshizao/monohoshidai",
+    "keyword": "物干し竿"
+  },
+  {
+    "name_ja": "ベルト",
+    "name": "Thắt lưng",
+    "yomi": "べると",
+    "roma": "beruto",
+    "keyword": "バンド"
+  },
+  {
+    "name_ja": "照明器具",
+    "name": "Thiết bị chiếu sáng",
+    "yomi": "しょうめいきぐ",
+    "roma": "shoumeikigu",
+    "keyword": "照明の傘，電気傘，シャンデリア"
+  },
+  {
+    "name_ja": "ホームベーカリー",
+    "name": "Thiết bị nướng bánh mỳ (Home Bakery)",
+    "yomi": "ほーむべーかりー",
+    "roma": "ho-mube-kari-",
+    "keyword": "家庭用電器自動パン焼き器"
+  },
+  {
+    "name_ja": "ぶら下がり健康器",
+    "name": "Thiết bị tập thể dục",
+    "yomi": "ぶらさがりけんこうき",
+    "roma": "burasagarikenkouki"
+  },
+  {
+    "name_ja": "ぬいぐるみ",
+    "name": "Thú nhồi bông",
+    "yomi": "ぬいぐるみ",
+    "roma": "nuigurumi",
+    "keyword": "人形"
+  },
+  {
+    "name_ja": "菓子箱（紙製）",
+    "name": "Thùng bánh kẹo (bằng giấy)",
+    "yomi": "かしかん",
+    "roma": "kashikan",
+    "keyword": "お菓子の箱"
+  },
+  {
+    "name_ja": "段ボール",
+    "name": "Thùng carton",
+    "yomi": "だんぼーる",
+    "roma": "danbo-ru",
+    "keyword": "ダンボール"
+  },
+  {
+    "name_ja": "クーラーボックス",
+    "name": "Thùng làm mát",
+    "yomi": "くーらーぼっくす",
+    "roma": "ku-ra-bokkusu"
+  },
+  {
+    "name_ja": "ＭＤのケース",
+    "name": "Thùng MD",
+    "yomi": "えむでぃ",
+    "roma": "emudei",
+    "keyword": "ＭＤケース，MDケース"
+  },
+  {
+    "name_ja": "ポリタンク",
+    "name": "Thùng nhựa",
+    "yomi": "ぽりたんく",
+    "roma": "poritanku",
+    "keyword": "ポリケース，ポリ容器，灯油のポリタンク，灯油ポリタンク，プラスチックタンク，プラタンク"
+  },
+  {
+    "name_ja": "衣装ケース（プラ製）",
+    "name": "Thùng quần áo (bằng nhựa)",
+    "yomi": "いしょうけーす",
+    "roma": "isyouke-su",
+    "keyword": "衣類ケース，衣装箱"
+  },
+  {
+    "name_ja": "定規（金属製）",
+    "name": "Thước (bằng kim loại)",
+    "yomi": "じょうき",
+    "roma": "jougi"
+  },
+  {
+    "name_ja": "薬（錠剤・カプセルなど家庭用）",
+    "name": "Thuốc (dùng cho gia đình như thuốc viên, thuốc con nhộng, v.v...)",
+    "yomi": "くすり",
+    "roma": "kusuri"
+  },
+  {
+    "name_ja": "定規（金属製以外）",
+    "name": "Thước (không phải bằng kim loại)",
+    "yomi": "じょうき",
+    "roma": "jouki"
+  },
+  {
+    "name_ja": "防虫剤",
+    "name": "Thuốc chống côn trùng",
+    "yomi": "ぼうちゅうざい",
+    "roma": "bouchuzai",
+    "keyword": "虫除け"
+  },
+  {
+    "name_ja": "殺虫剤（スプレー缶）",
+    "name": "Thuốc diệt côn trùng (lon xịt)",
+    "yomi": "さっちゅうざい（すぷれーかん",
+    "roma": "sacchuzai (supure-kan)"
+  },
+  {
+    "name_ja": "農薬",
+    "name": "Thuốc nông nghiệp",
+    "yomi": "のうやく",
+    "roma": "nouyaku"
+  },
+  {
+    "name_ja": "ガラス",
+    "name": "Thủy tinh",
+    "yomi": "がらす",
+    "roma": "garasu",
+    "keyword": "硝子"
+  },
+  {
+    "name_ja": "テレビ（ブラウン管式・液晶・プラズマ式）",
+    "name": "Tivi (loại CRT, LCD, plasma)",
+    "yomi": "てれび",
+    "roma": "terebi",
+    "keyword": "地デジ，アナログ，液晶テレビ"
+  },
+  {
+    "name_ja": "チラシ",
+    "name": "Tờ bướm quảng cáo",
+    "yomi": "ちらし",
+    "roma": "chirashi",
+    "keyword": "ビラ"
+  },
+  {
+    "name_ja": "スチール棚",
+    "name": "Tủ bằng thép",
+    "yomi": "すちーるたな",
+    "roma": "suchi-rutana"
+  },
+  {
+    "name_ja": "辞典",
+    "name": "Từ điển",
+    "yomi": "じてん",
+    "roma": "jiten",
+    "keyword": "百科辞典，辞書，図鑑"
+  },
+  {
+    "name_ja": "電子辞書（電子手帳）",
+    "name": "Từ điển điện tử (sổ tay điện tử)",
+    "yomi": "でんしじしょ（でんしてちょう）",
+    "roma": "denshijisho (denshitechou)"
+  },
+  {
+    "name_ja": "冷凍庫",
+    "name": "Tủ đông",
+    "yomi": "れいとうこ",
+    "roma": "reitouko",
+    "keyword": "フリーザー"
+  },
+  {
+    "name_ja": "カラーボックス",
+    "name": "Tủ đứng",
+    "yomi": "からーぼっくす",
+    "roma": "kara-bokkusu",
+    "keyword": "三段ボックス，二段ボックス"
+  },
+  {
+    "name_ja": "食器棚",
+    "name": "Tủ đựng chén",
+    "yomi": "しょっきだな",
+    "roma": "shokkidana"
+  },
+  {
+    "name_ja": "戸棚",
+    "name": "Tủ đựng chén",
+    "yomi": "とだな",
+    "roma": "todana",
+    "keyword": "ラック"
+  },
+  {
+    "name_ja": "げた箱",
+    "name": "Tủ đựng dép",
+    "yomi": "げたばこ",
+    "roma": "getabako",
+    "keyword": "下駄箱"
+  },
+  {
+    "name_ja": "ロッカー",
+    "name": "Tủ giữ đồ",
+    "yomi": "ろっかー",
+    "roma": "rokka-"
+  },
+  {
+    "name_ja": "冷蔵庫",
+    "name": "Tủ lạnh",
+    "yomi": "れいぞうこ",
+    "roma": "reizouko",
+    "keyword": "冷温庫"
+  },
+  {
+    "name_ja": "たんす",
+    "name": "Tủ quần áo",
+    "yomi": "たんす",
+    "roma": "tansu",
+    "keyword": "キャビネット，収納庫，カラーボックス，組み立て家具，箪笥"
+  },
+  {
+    "name_ja": "クリーニングの袋",
+    "name": "Túi giặt ủi",
+    "yomi": "くりーにんぐのふくろ",
+    "roma": "kuri-ningu no fukuro",
+    "keyword": "クリーニングのビニール袋"
+  },
+  {
+    "name_ja": "紙パック",
+    "name": "Túi giấy",
+    "yomi": "かみぱっく",
+    "roma": "kamipakku"
+  },
+  {
+    "name_ja": "酒類の紙パック",
+    "name": "Túi giấy các loại rượu",
+    "yomi": "さけるいのかみぱっく",
+    "roma": "sakerui no kamipakku",
+    "keyword": "日本酒"
+  },
+  {
+    "name_ja": "レトルト食品パック（カレーなど）",
+    "name": "Túi gói thực phẩm (như cà ri, v.v...)",
+    "yomi": "れとるとしょくひんぱっく",
+    "roma": "retorutoshokuhinpakku",
+    "keyword": "レトルトパック"
+  },
+  {
+    "name_ja": "レジ袋",
+    "name": "Túi nilon",
+    "yomi": "れじぶくろ",
+    "roma": "rejibukuro"
+  },
+  {
+    "name_ja": "ポリ袋（スーパー等で配布されるもの）",
+    "name": "Túi nilon (túi được phát khi mua hàng tại siêu thị, v.v...)",
+    "yomi": "ぽりぶくろ（すーぱーなどではいふされるもの）",
+    "roma": "poribukuro (su-pa-nadode haifu sarerumono)",
+    "keyword": "ビニール，ビニール袋"
+  },
+  {
+    "name_ja": "スーツケース",
+    "name": "Vali",
+    "yomi": "すーつけーす",
+    "roma": "su-tsuke-su",
+    "keyword": "キャリーバッグ，トランク"
+  },
+  {
+    "name_ja": "キャリーバッグ（金属・プラ製）",
+    "name": "Vali (bằng kim loại, bằng nhựa)",
+    "yomi": "きゃりーばっぐ（きんぞく・ぷらせい）",
+    "roma": "kyari-baggu (kinzoku/purasei)",
+    "keyword": "きゃすたーばっぐ，ころころ"
+  },
+  {
+    "name_ja": "キャリーバッグ（布・皮製）",
+    "name": "Vali (bằng vải, bằng da)",
+    "yomi": "きゃりーばっぐ（ぬの・かわせい）",
+    "roma": "kyari-baggu (nuno/kawasei)",
+    "keyword": "きゃすたーばっぐ，ころころ"
+  },
+  {
+    "name_ja": "サーフボード",
+    "name": "Ván lướt sóng",
+    "yomi": "さーふぼーど",
+    "roma": "sa-fubo-do",
+    "keyword": "サーフィン"
+  },
+  {
+    "name_ja": "スケートボード",
+    "name": "Ván trượt",
+    "yomi": "すけーとぼーど",
+    "roma": "suke-tobo-do",
+    "keyword": "スケボー"
+  },
+  {
+    "name_ja": "スノーボード",
+    "name": "Ván trượt tuyết",
+    "yomi": "すのーぼーど",
+    "roma": "suno-bo-do",
+    "keyword": "スノボー"
+  },
+  {
+    "name_ja": "文鎮",
+    "name": "Vật chặn giấy",
+    "yomi": "ぶんちん",
+    "roma": "bunchin"
+  },
+  {
+    "name_ja": "整髪料（スプレー缶）",
+    "name": "Vật liệu dùng cho tóc (lon xịt)",
+    "yomi": "せいはつりょう（すぷれーかん）",
+    "roma": "seihatsuryou (supure-kan)",
+    "keyword": "ムース，ヘアカラー"
+  },
+  {
+    "name_ja": "ビデオデッキ",
+    "name": "Video deck",
+    "yomi": "びでおでっき",
+    "roma": "bideodekki",
+    "keyword": "ＶＴＲ　"
+  },
+  {
+    "name_ja": "ノート",
+    "name": "Vở",
+    "yomi": "のーと",
+    "roma": "no-to"
+  },
+  {
+    "name_ja": "貝の殻（牡蠣・あさりなど）",
+    "name": "Vỏ sò (như hến, nghêu, v.v...)",
+    "yomi": "かいのから（かき・あさりなど）",
+    "roma": "kainokara (kaki/asari)",
+    "keyword": "牡蠣の殻，あさりの殻，貝殻，はまぐり"
+  },
+  {
+    "name_ja": "卵の殻",
+    "name": "Vỏ trứng",
+    "yomi": "たまごのから",
+    "roma": "tamago no kara"
+  },
+  {
+    "name_ja": "ペットの死体",
+    "name": "Xác chết thú cưng",
+    "yomi": "ぺっとのしたい",
+    "roma": "petto no shitai",
+    "keyword": "死骸"
+  },
+  {
+    "name_ja": "ガソリン",
+    "name": "Xăng",
+    "yomi": "がそりん",
+    "roma": "gasorin",
+    "keyword": "石油"
+  },
+  {
+    "name_ja": "三輪車",
+    "name": "Xe ba bánh",
+    "yomi": "さんりんしゃ",
+    "roma": "sanrinsha"
+  },
+  {
+    "name_ja": "自転車",
+    "name": "Xe đạp",
+    "yomi": "じてんしゃ",
+    "roma": "jitensha"
+  },
+  {
+    "name_ja": "原動機付自転車",
+    "name": "Xe đạp có gắn động cơ",
+    "yomi": "げんどうきつきじでんしゃ",
+    "roma": "gendoukitsukijitensha",
+    "keyword": "原付バイク，原付，バイク"
+  },
+  {
+    "name_ja": "電動アシスト自転車",
+    "name": "Xe đạp điện",
+    "yomi": "でんどうあしすとじてんしゃ",
+    "roma": "dendouashisutojitensha",
+    "keyword": "電動自転車，電気自転車，電動アシスト付自転車"
+  },
+  {
+    "name_ja": "サイクリングマシーン（エアロバイク）",
+    "name": "Xe đạp tập thể dục tại nhà",
+    "yomi": "さいくりんぐましーん（えあろばいく）",
+    "roma": "saikuringumashi-n (earobaiku)",
+    "keyword": "健康器具"
+  },
+  {
+    "name_ja": "ベビーカー",
+    "name": "Xe đẩy em bé",
+    "yomi": "べびーかー",
+    "roma": "bebi-ka-",
+    "keyword": "乳母車"
+  },
+  {
+    "name_ja": "オートバイ",
+    "name": "Xe gắn máy",
+    "yomi": "おーとばい",
+    "roma": "o-tobai",
+    "keyword": "原付バイク，単車，自動二輪，二輪"
+  },
+  {
+    "name_ja": "単車",
+    "name": "Xe gắn máy",
+    "yomi": "たんしゃ",
+    "roma": "tansha",
+    "keyword": "バイク，自動二輪，二輪，オートバイ"
+  },
+  {
+    "name_ja": "車いす（電動のものは「電動車いす」参照）",
+    "name": "Xe lăn (loại có động cơ thì tham khảo \"Xe lăn có động cơ\")",
+    "yomi": "くるまいす",
+    "roma": "kurumaisu",
+    "keyword": "車椅子"
+  },
+  {
+    "name_ja": "電動車いす",
+    "name": "Xe lăn điện",
+    "yomi": "でんどうしゃいす",
+    "roma": "dendoushaisu",
+    "keyword": "車椅子"
+  },
+  {
+    "name_ja": "バイク",
+    "name": "Xe máy",
+    "yomi": "ばいく",
+    "roma": "baiku",
+    "keyword": "オートバイ，単車，自動二輪，二輪車"
+  },
+  {
+    "name_ja": "一輪車",
+    "name": "Xe một bánh",
+    "yomi": "いちりんしゃ",
+    "roma": "ichirinsha"
+  },
+  {
+    "name_ja": "串（焼き鳥・だんごの竹串など）",
+    "name": "Xiên que (như xiên tre gà nướng yakitori, bánh dango, v.v...)",
+    "yomi": "くし",
+    "roma": "kushi"
+  },
+  {
+    "name_ja": "バケツ（金属製）",
+    "name": "Xô (bằng kim loại)",
+    "yomi": "ばけつ",
+    "roma": "baketsu",
+    "keyword": "バケツ　ブリキ"
+  },
+  {
+    "name_ja": "バケツ（プラ製）",
+    "name": "Xô (bằng nhựa)",
+    "yomi": "ばけつ",
+    "roma": "baketsu",
+    "keyword": "ポリバケツ，バケツ"
+  },
+  {
+    "name_ja": "ポリバケツ",
+    "name": "Xô nhựa",
+    "yomi": "ぽりばけつ",
+    "roma": "poritanku",
+    "keyword": "バケツ"
+  },
+  {
+    "name_ja": "発泡スチロール（緩衝材など）",
+    "name": "Xốp (như vật liệu đệm, v.v...)",
+    "yomi": "はっぽうすちろーる（かんしょうざい）",
+    "roma": "happosuchiro-ru (kanshouzai)",
+    "keyword": "発砲，発砲スチロール"
+  },
+  {
+    "name_ja": "ゴムボート",
+    "name": "Xuồng cao su",
+    "yomi": "ごむぼーと",
+    "roma": "gomubo-to"
+  }
+]

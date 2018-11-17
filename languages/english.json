@@ -1,0 +1,3302 @@
+[
+  {
+    "name_ja": "アコーディオンカーテン",
+    "name": "Accordion-type curtain",
+    "yomi": "あこーでぃおんかーてん",
+    "roma": "ako-deonka-ten"
+  },
+  {
+    "name_ja": "アダプター（電源用）",
+    "name": "Adapter (for electric power)",
+    "yomi": "あだぷたー（でんげん）",
+    "roma": "adaputa- (dengen)",
+    "keyword": "ACアダプター"
+  },
+  {
+    "name_ja": "セロハンテープ",
+    "name": "Adhesive cellophane tape",
+    "yomi": "せろはんてーぷ",
+    "roma": "serohante-pu",
+    "keyword": "セロテープ，粘着テープ"
+  },
+  {
+    "name_ja": "エアゾール缶",
+    "name": "Aerosol can",
+    "yomi": "えあぞーるかん",
+    "roma": "eazo-rukan",
+    "keyword": "スプレー缶"
+  },
+  {
+    "name_ja": "農薬",
+    "name": "Agricultural chemical",
+    "yomi": "のうやく",
+    "roma": "nouyaku"
+  },
+  {
+    "name_ja": "エアコン",
+    "name": "Air conditioner",
+    "yomi": "えあこん",
+    "roma": "eakon",
+    "keyword": "クーラー"
+  },
+  {
+    "name_ja": "空気清浄機",
+    "name": "Air purifier",
+    "yomi": "くうきせいじょうき",
+    "roma": "kuukiseijouki",
+    "keyword": "エアクリーナー，空気清浄器"
+  },
+  {
+    "name_ja": "酒のカップ",
+    "name": "Alcoholic beverage cup",
+    "yomi": "さけのかっぷ",
+    "roma": "sake no kappu",
+    "keyword": "日本酒，ワンカップ"
+  },
+  {
+    "name_ja": "酒類の紙パック",
+    "name": "Alcoholic beverage paper carton",
+    "yomi": "さけるいのかみぱっく",
+    "roma": "sakerui no kamipakku",
+    "keyword": "日本酒"
+  },
+  {
+    "name_ja": "アルミ缶（飲食用）",
+    "name": "Aluminum can (for beverage)",
+    "yomi": "あるみかん",
+    "roma": "arumikan",
+    "keyword": "缶ビール，缶ジュース"
+  },
+  {
+    "name_ja": "アルミホイル",
+    "name": "Aluminum foil",
+    "yomi": "あるみほいる",
+    "roma": "arumihoiru"
+  },
+  {
+    "name_ja": "アルミ箔鍋",
+    "name": "Aluminum foil pan",
+    "yomi": "あるみはくなべ",
+    "roma": "arumihakunabe"
+  },
+  {
+    "name_ja": "ペットの死体",
+    "name": "Animal carcass",
+    "yomi": "ぺっとのしたい",
+    "roma": "petto no shitai",
+    "keyword": "死骸"
+  },
+  {
+    "name_ja": "ペットのふん",
+    "name": "Animal feces",
+    "yomi": "ぺっとのふん",
+    "roma": "petto no fun",
+    "keyword": "糞，犬の糞"
+  },
+  {
+    "name_ja": "アンテナ",
+    "name": "Antenna",
+    "yomi": "あんてな",
+    "roma": "antena",
+    "keyword": "ＢＳアンテナ，パラボラアンテナ，スカパーアンテナ，BSアンテナ"
+  },
+  {
+    "name_ja": "水槽（ガラス製）",
+    "name": "Aquarium (glass)",
+    "yomi": "すいそう",
+    "roma": "suisou",
+    "keyword": "金魚鉢，きんぎょばち"
+  },
+  {
+    "name_ja": "水槽（プラ製）",
+    "name": "Aquarium (plastic)",
+    "yomi": "すいそう",
+    "roma": "suisou",
+    "keyword": "金魚鉢，きんぎょばち"
+  },
+  {
+    "name_ja": "人工芝",
+    "name": "Artificial lawn",
+    "yomi": "じんこうしば",
+    "roma": "jinkoushiba"
+  },
+  {
+    "name_ja": "灰皿",
+    "name": "Ashtray",
+    "yomi": "はいざら",
+    "roma": "haizara"
+  },
+  {
+    "name_ja": "オーディオラック(オーディオボード)",
+    "name": "Audio rack (audio cabinet)",
+    "yomi": "おーでぃおらっく",
+    "roma": "o-deorakku"
+  },
+  {
+    "name_ja": "シャープペンシル",
+    "name": "Automatic pencil",
+    "yomi": "しゃーぷぺんしる",
+    "roma": "sha-pupenshiru",
+    "keyword": "シャーペン"
+  },
+  {
+    "name_ja": "斧",
+    "name": "Axe",
+    "yomi": "おの",
+    "roma": "ono",
+    "keyword": "なた"
+  },
+  {
+    "name_ja": "ほ乳瓶（ガラス製）",
+    "name": "Baby bottle (glass)",
+    "yomi": "ほにゅうびん",
+    "roma": "honyuubin"
+  },
+  {
+    "name_ja": "ほ乳瓶（プラ製）",
+    "name": "Baby bottle (plastic)",
+    "yomi": "ほにゅうびん",
+    "roma": "honyuubin"
+  },
+  {
+    "name_ja": "ベビーベッド",
+    "name": "Baby crib",
+    "yomi": "べびーべっど",
+    "roma": "bebi-beddo"
+  },
+  {
+    "name_ja": "粉ミルクの缶",
+    "name": "Baby formula can",
+    "yomi": "こなみるくのかん",
+    "roma": "konamiruku no kan"
+  },
+  {
+    "name_ja": "ベビーカー",
+    "name": "Baby stroller",
+    "yomi": "べびーかー",
+    "roma": "bebi-ka-",
+    "keyword": "乳母車"
+  },
+  {
+    "name_ja": "かばん（金属製以外）",
+    "name": "Bag/suitcase (excluding metal)",
+    "yomi": "かばん",
+    "roma": "kaban",
+    "keyword": "バッグ，鞄，ボストンバッグ，リュックサック，リュック，革，ハンドバッグ"
+  },
+  {
+    "name_ja": "かばん（金属製）",
+    "name": "Bag/suitcase (metal)",
+    "yomi": "かばん",
+    "roma": "kaban",
+    "keyword": "バッグ，鞄，アタッシュケース"
+  },
+  {
+    "name_ja": "ホームベーカリー",
+    "name": "Baking machine",
+    "yomi": "ほーむべーかりー",
+    "roma": "ho-mube-kari-",
+    "keyword": "家庭用電器自動パン焼き器"
+  },
+  {
+    "name_ja": "ボール",
+    "name": "Ball",
+    "yomi": "ぼーる",
+    "roma": "bo-ru",
+    "keyword": "テニスボール，ビーチボール，サッカーボール，ゴルフボール，ゴムボール，野球ボール"
+  },
+  {
+    "name_ja": "ボールペン",
+    "name": "Ballpoint pen",
+    "yomi": "ぼーるぺん",
+    "roma": "bo-rupen"
+  },
+  {
+    "name_ja": "すだれ",
+    "name": "Bamboo blind",
+    "yomi": "すだれ",
+    "roma": "sudare",
+    "keyword": "日よけ，簾"
+  },
+  {
+    "name_ja": "バーベキューコンロ",
+    "name": "Barbecue grill",
+    "yomi": "ばーべきゅーこんろ",
+    "roma": "ba-bekyu-konro",
+    "keyword": "キャンプ"
+  },
+  {
+    "name_ja": "バット（金属製以外）",
+    "name": "Baseball bat (excluding metal)",
+    "yomi": "ばっと",
+    "roma": "batto",
+    "keyword": "プラスチックのバット，木製バット"
+  },
+  {
+    "name_ja": "バット（金属製）",
+    "name": "Baseball bat (metal)",
+    "yomi": "ばっと",
+    "roma": "batto",
+    "keyword": "金属バット"
+  },
+  {
+    "name_ja": "体重計（ヘルスメーター）",
+    "name": "Bathroom scale (health scale)",
+    "yomi": "たいじゅうけい（へるすめーたー）",
+    "roma": "taijuukei (herusume-ta-)",
+    "keyword": "はかり"
+  },
+  {
+    "name_ja": "風呂のふた",
+    "name": "Bathtub lid",
+    "yomi": "ふろのふた",
+    "roma": "furo no futa",
+    "keyword": "お風呂の蓋，風呂の蓋，風呂ふた"
+  },
+  {
+    "name_ja": "バッテリー",
+    "name": "Battery",
+    "yomi": "ばってりー",
+    "roma": "batteri-",
+    "keyword": "充電池"
+  },
+  {
+    "name_ja": "電池（ボタン電池・二次電池（小形充電式電池））",
+    "name": "Battery (button-type or secondary/small rechargeable)",
+    "yomi": "でんち(ぼたんでんち･にじでんち（こがたじゅうでんしきでんち））",
+    "roma": "denchi (botandenchi/nijidenchi (kogatajudenshikidenchi))",
+    "keyword": "充電，バッテリー，リチウム，ニッケル水素，ニッカド"
+  },
+  {
+    "name_ja": "電池（乾電池）",
+    "name": "Battery (dry cell)",
+    "yomi": "でんち（かんでんち）",
+    "roma": "denchi (kandenchi)",
+    "keyword": "マンガン，アルカリ"
+  },
+  {
+    "name_ja": "ベッド",
+    "name": "Bed",
+    "yomi": "べっど",
+    "roma": "beddo"
+  },
+  {
+    "name_ja": "ベッドマットレス",
+    "name": "Bed mattress",
+    "yomi": "べっどまっとれす",
+    "roma": "beddomattoresu"
+  },
+  {
+    "name_ja": "シーツ",
+    "name": "Bedsheet",
+    "yomi": "しーつ",
+    "roma": "shi-tsu"
+  },
+  {
+    "name_ja": "ビールびん",
+    "name": "Beer bottle",
+    "yomi": "びーるびん",
+    "roma": "bi-rubin",
+    "keyword": "瓶"
+  },
+  {
+    "name_ja": "ベルト",
+    "name": "Belt",
+    "yomi": "べると",
+    "roma": "beruto",
+    "keyword": "バンド"
+  },
+  {
+    "name_ja": "自転車",
+    "name": "Bicycle",
+    "yomi": "じてんしゃ",
+    "roma": "jitensha"
+  },
+  {
+    "name_ja": "電動アシスト自転車",
+    "name": "Bicycle with electric motor",
+    "yomi": "でんどうあしすとじてんしゃ",
+    "roma": "dendouashisutojitensha",
+    "keyword": "電動自転車，電気自転車，電動アシスト付自転車"
+  },
+  {
+    "name_ja": "双眼鏡",
+    "name": "Binoculars",
+    "yomi": "そうがんきょう",
+    "roma": "sougankyou",
+    "keyword": "オペラグラス"
+  },
+  {
+    "name_ja": "鳥かご",
+    "name": "Birdcage",
+    "yomi": "とりかご",
+    "roma": "torikago",
+    "keyword": "バードケージ，ペット，鳥籠"
+  },
+  {
+    "name_ja": "毛布",
+    "name": "Blanket",
+    "yomi": "もうふ，ブランケット",
+    "roma": "moufu, buranketto"
+  },
+  {
+    "name_ja": "ブラインド",
+    "name": "Blind",
+    "yomi": "ぶらいんど",
+    "roma": "buraindo"
+  },
+  {
+    "name_ja": "血圧計",
+    "name": "Blood pressure gauge",
+    "yomi": "けつあつけい",
+    "roma": "ketsuatsukei"
+  },
+  {
+    "name_ja": "保冷剤",
+    "name": "Blue ice",
+    "yomi": "ほれいざい",
+    "roma": "horeizai",
+    "keyword": "保冷材"
+  },
+  {
+    "name_ja": "本",
+    "name": "Book",
+    "yomi": "ほん",
+    "roma": "hon",
+    "keyword": "書籍，古本，雑誌，マンガ"
+  },
+  {
+    "name_ja": "本棚",
+    "name": "Bookshelf",
+    "yomi": "ほんだな",
+    "roma": "hondana",
+    "keyword": "本箱，書棚"
+  },
+  {
+    "name_ja": "栓抜き",
+    "name": "Bottle opener",
+    "yomi": "せんぬき",
+    "roma": "sennuki",
+    "keyword": "オープナー，缶きり"
+  },
+  {
+    "name_ja": "ボウル（金属製・ガラス製）",
+    "name": "Bowl (metal or glass)",
+    "yomi": "ぼうる",
+    "roma": "bouru",
+    "keyword": "ざる，ザル"
+  },
+  {
+    "name_ja": "ボウル（プラ製）",
+    "name": "Bowl (plastic)",
+    "yomi": "ぼうる",
+    "roma": "bouru",
+    "keyword": "ざる，ザル"
+  },
+  {
+    "name_ja": "ほうき(金属製)",
+    "name": "Broom (metal)",
+    "yomi": "ほうき",
+    "roma": "houki",
+    "keyword": "箒"
+  },
+  {
+    "name_ja": "ほうき(金属製以外)",
+    "name": "Broom (non-metal)",
+    "yomi": "ほうき",
+    "roma": "houki",
+    "keyword": "箒"
+  },
+  {
+    "name_ja": "ブラシ・櫛（金属製以外）",
+    "name": "Brush/comb (excluding metal)",
+    "yomi": "ぶらし・くし",
+    "roma": "burashi/kushi"
+  },
+  {
+    "name_ja": "ブラシ・櫛（金属製）",
+    "name": "Brush/comb (metal)",
+    "yomi": "ぶらし・くし",
+    "roma": "burashi/kushi"
+  },
+  {
+    "name_ja": "エアキャップ（緩衝材）",
+    "name": "Bubble wrap (cushioning material)",
+    "yomi": "えあきゃっぷ（かんしょうざい）",
+    "roma": "eakyappu (kanshouzai)",
+    "keyword": "プチプチ，エアーキャップ"
+  },
+  {
+    "name_ja": "戸棚",
+    "name": "Cabinet",
+    "yomi": "とだな",
+    "roma": "todana",
+    "keyword": "ラック"
+  },
+  {
+    "name_ja": "電卓",
+    "name": "Calculator",
+    "yomi": "でんたく",
+    "roma": "dentaku",
+    "keyword": "計算機"
+  },
+  {
+    "name_ja": "カメラ",
+    "name": "Camera",
+    "yomi": "かめら",
+    "roma": "kamera",
+    "keyword": "デジカメ"
+  },
+  {
+    "name_ja": "空き缶（飲食用、調味料）",
+    "name": "Can (used for beverage or seasoning)",
+    "yomi": "あきかん",
+    "roma": "akikan",
+    "keyword": "缶，かん，缶詰，かんづめ，ビール缶，ミルク缶"
+  },
+  {
+    "name_ja": "缶切り",
+    "name": "Can opener",
+    "yomi": "かんきり",
+    "roma": "kankiri"
+  },
+  {
+    "name_ja": "ろうそく",
+    "name": "Candle",
+    "yomi": "ろうそく",
+    "roma": "rousoku",
+    "keyword": "ローソク，キャンドル，蝋燭"
+  },
+  {
+    "name_ja": "キャップ（金属製）",
+    "name": "Cap (metal)",
+    "yomi": "きゃっぷ",
+    "roma": "kyappu",
+    "keyword": "蓋，ふた，ビールの栓，"
+  },
+  {
+    "name_ja": "キャップ（プラ製）",
+    "name": "Cap (plastic)",
+    "yomi": "きゃっぷ",
+    "roma": "kyappu",
+    "keyword": "蓋，ふた"
+  },
+  {
+    "name_ja": "食用油の容器のキャップ（金属製）",
+    "name": "Cap for cooking oil container (metal)",
+    "yomi": "しょくようゆのようきのきゃっぷ",
+    "roma": "shokuyouyu no youki no kyappu"
+  },
+  {
+    "name_ja": "食用油の容器のキャップ（プラ製）",
+    "name": "Cap for cooking oil container (plastic)",
+    "yomi": "しょくようゆのようきのきゃっぷ",
+    "roma": "shokuyouyu no youki no kyappu"
+  },
+  {
+    "name_ja": "エアゾール缶のキャップ（プラ製）",
+    "name": "Cap of aerosol can (plastic)",
+    "yomi": "えあぞーるかんのきゃっぷ（ぷらせい）",
+    "roma": "eazo-rukan no kyappu (purasei)",
+    "keyword": "スプレー缶のキャップ"
+  },
+  {
+    "name_ja": "ビールびんのキャップ",
+    "name": "Cap of beer bottle",
+    "yomi": "びーるびんのきゃっぷ",
+    "roma": "bi-rubin no kyappu",
+    "keyword": "王冠，ふた"
+  },
+  {
+    "name_ja": "ヘアースプレーのキャップ",
+    "name": "Cap of hairs pray can",
+    "yomi": "へあーすぷれーのきゃっぷ",
+    "roma": "hea-supure- no kyappu"
+  },
+  {
+    "name_ja": "スプレー缶のキャップ（プラ製）",
+    "name": "Cap of spray can (plastic)",
+    "yomi": "すぷれーかんのきゃっぷ",
+    "roma": "supure-kan no kyappu"
+  },
+  {
+    "name_ja": "カーコンポ",
+    "name": "Car audio",
+    "yomi": "かーこんぽ",
+    "roma": "ka-konpo",
+    "keyword": "カーオーディオ"
+  },
+  {
+    "name_ja": "カーナビ",
+    "name": "Car navigation system",
+    "yomi": "かーなび",
+    "roma": "ka-nabi"
+  },
+  {
+    "name_ja": "段ボール",
+    "name": "Cardboard",
+    "yomi": "だんぼーる",
+    "roma": "danbo-ru",
+    "keyword": "ダンボール"
+  },
+  {
+    "name_ja": "カーペット",
+    "name": "Carpet",
+    "yomi": "かーぺっと",
+    "roma": "ka-petto",
+    "keyword": "ラグ，マット"
+  },
+  {
+    "name_ja": "じゅうたん",
+    "name": "Carpet",
+    "yomi": "じゅうたん",
+    "roma": "juutan",
+    "keyword": "カーペット，ラグ，敷物，絨毯"
+  },
+  {
+    "name_ja": "カセットテープ（ケースを含む）",
+    "name": "Cassette tape (including case)",
+    "yomi": "かせっとてーぷ",
+    "roma": "kasettote-pu",
+    "keyword": "カセットテープケース"
+  },
+  {
+    "name_ja": "ＣＤラジカセ・ＣＤプレーヤー",
+    "name": "CD radio cassette recorder/CD player",
+    "yomi": "しーでぃらじかせ・しーでぃぷれーやー",
+    "roma": "shi-deirajikase/shi-deipure-ya-",
+    "keyword": "ＣＤプレイヤー，CDプレーヤー，CDデッキ，カセットデッキ"
+  },
+  {
+    "name_ja": "いす（金属製）",
+    "name": "Chair (metal)",
+    "yomi": "いす",
+    "roma": "isu",
+    "keyword": "ちぇあー，チェアー，スツール，椅子，チェア，パイプいす"
+  },
+  {
+    "name_ja": "いす（木製・プラ製）",
+    "name": "Chair (wood or plastic)",
+    "yomi": "いす",
+    "roma": "isu",
+    "keyword": "ちぇあー，チェアー，スツール，椅子，チェア"
+  },
+  {
+    "name_ja": "炭",
+    "name": "Charcoal",
+    "yomi": "すみ",
+    "roma": "sumi",
+    "keyword": "燃料，木炭"
+  },
+  {
+    "name_ja": "チャイルドシート",
+    "name": "Child seat",
+    "yomi": "ちゃいるどしーと",
+    "roma": "chairudoshi-to",
+    "keyword": "補助席"
+  },
+  {
+    "name_ja": "ランドセル",
+    "name": "Children's school backpack (randoseru)",
+    "yomi": "らんどせる",
+    "roma": "randoseru"
+  },
+  {
+    "name_ja": "三輪車",
+    "name": "Child's tricycle",
+    "yomi": "さんりんしゃ",
+    "roma": "sanrinsha"
+  },
+  {
+    "name_ja": "食器棚",
+    "name": "China cupboard",
+    "yomi": "しょっきだな",
+    "roma": "shokkidana"
+  },
+  {
+    "name_ja": "せともの",
+    "name": "Chinaware",
+    "yomi": "せともの",
+    "roma": "setomono",
+    "keyword": "陶器，瀬戸物，食器"
+  },
+  {
+    "name_ja": "ノミ",
+    "name": "Chisel",
+    "yomi": "のみ",
+    "roma": "nomi",
+    "keyword": "刃物"
+  },
+  {
+    "name_ja": "タバコの吸殻",
+    "name": "Cigarette butt",
+    "yomi": "たばこのすいがら",
+    "roma": "tabako no suigara",
+    "keyword": "吸い殻"
+  },
+  {
+    "name_ja": "ライター（金属製）",
+    "name": "Cigarette lighter (metal)",
+    "yomi": "らいたー",
+    "roma": "raita-",
+    "keyword": "百円ライター，使い捨てライター"
+  },
+  {
+    "name_ja": "ライター（プラ製　使い捨て含む）",
+    "name": "Cigarette lighter (plastic, including disposal types)",
+    "yomi": "らいたー",
+    "roma": "raita-",
+    "keyword": "百円ライター，使い捨てライター，チャッカマン"
+  },
+  {
+    "name_ja": "粘土（紙製）",
+    "name": "Clay (paper)",
+    "yomi": "ねんど",
+    "roma": "nendo",
+    "keyword": "紙粘土"
+  },
+  {
+    "name_ja": "粘土（土・石粉製）",
+    "name": "Clay (soil or stone dust)",
+    "yomi": "ねんど",
+    "roma": "nendo",
+    "keyword": "油粘土、土粘土"
+  },
+  {
+    "name_ja": "体温計",
+    "name": "Clinical thermometer",
+    "yomi": "たいおんけい",
+    "roma": "taionkei",
+    "keyword": "水銀体温計"
+  },
+  {
+    "name_ja": "時計",
+    "name": "Clock",
+    "yomi": "とけい",
+    "roma": "tokei",
+    "keyword": "柱時計，目覚まし時計，置時計"
+  },
+  {
+    "name_ja": "衣類乾燥機",
+    "name": "Clothes dryer",
+    "yomi": "いるいかんそうき",
+    "roma": "iruikansouki"
+  },
+  {
+    "name_ja": "ハンガー（金属製）",
+    "name": "Clothes hanger (metal)",
+    "yomi": "はんがー",
+    "roma": "hanga-",
+    "keyword": "針金ハンガー"
+  },
+  {
+    "name_ja": "ハンガー（プラ製・木製）",
+    "name": "Clothes hanger (plastic or wood)",
+    "yomi": "はんがー",
+    "roma": "hanga-",
+    "keyword": "プラスチックハンガー"
+  },
+  {
+    "name_ja": "パイプハンガー",
+    "name": "Clothes rack",
+    "yomi": "ぱいぷはんがー",
+    "roma": "paipuhanga-",
+    "keyword": "パイプラック"
+  },
+  {
+    "name_ja": "衣服",
+    "name": "Clothing",
+    "yomi": "いるい",
+    "roma": "irui",
+    "keyword": "上着，ズボン，ジャケット，服，スカート，ジーンズ，洋服，衣料，革，スキーウェア"
+  },
+  {
+    "name_ja": "コーヒーメーカー",
+    "name": "Coffee maker",
+    "yomi": "こーひーめーかー",
+    "roma": "ko-hi-me-ka-"
+  },
+  {
+    "name_ja": "カラーボックス",
+    "name": "Colored storage box",
+    "yomi": "からーぼっくす",
+    "roma": "kara-bokkusu",
+    "keyword": "三段ボックス，二段ボックス"
+  },
+  {
+    "name_ja": "ＣＤ（ケースを含む）",
+    "name": "Compact disc (CD; including case)",
+    "yomi": "しーでぃ",
+    "roma": "shi-dei",
+    "keyword": "DVD，ＣＤケース，CD，CDケース，ｃｄ，cd，ｃｄケース，ＣＤ－Ｒ，CD-R，BR，ブルーレイディスク"
+  },
+  {
+    "name_ja": "コンパス（文房具）",
+    "name": "Compass (stationery)",
+    "yomi": "こんぱす（ぶんぼうく）",
+    "roma": "konpasu (bunbougu)"
+  },
+  {
+    "name_ja": "菓子箱（紙製）",
+    "name": "Confectionery box (paper)",
+    "yomi": "かしかん",
+    "roma": "kashikan",
+    "keyword": "お菓子の箱"
+  },
+  {
+    "name_ja": "菓子缶（一斗缶は除く）",
+    "name": "Confectionery can (excluding large 18-liter can)",
+    "yomi": "かしかん",
+    "roma": "kashikan",
+    "keyword": "お菓子の缶"
+  },
+  {
+    "name_ja": "食用油",
+    "name": "Cooking oil",
+    "yomi": "しょくようゆ",
+    "roma": "shokuyouyu",
+    "keyword": "あぶら，ごま油，オリーブオイル"
+  },
+  {
+    "name_ja": "食用油のびん",
+    "name": "Cooking oil bottle",
+    "yomi": "しょくようゆのびん",
+    "roma": "shokuyouyu no bin",
+    "keyword": "あぶらのびん，ごま油のびん，オリーブオイルのびん"
+  },
+  {
+    "name_ja": "食用油の缶（一斗缶は除く）",
+    "name": "Cooking oil can (excluding large 18-liter can)",
+    "yomi": "しょくようゆのかん",
+    "roma": "shokuyouyu no kan",
+    "keyword": "あぶらのかん"
+  },
+  {
+    "name_ja": "鍋",
+    "name": "Cooking pot",
+    "yomi": "なべ",
+    "roma": "nabe",
+    "keyword": "土鍋、アルミ鍋，ホーロー鍋"
+  },
+  {
+    "name_ja": "ガスコンロ(ガステーブル)2口以上",
+    "name": "Cooking stove with 2 or more burners",
+    "yomi": "がすこんろ（がすてーぶる）",
+    "roma": "gasukonro (gasute-buru)"
+  },
+  {
+    "name_ja": "クーラーボックス",
+    "name": "Cooler",
+    "yomi": "くーらーぼっくす",
+    "roma": "ku-ra-bokkusu"
+  },
+  {
+    "name_ja": "コピー機",
+    "name": "Copier",
+    "yomi": "こぴーき",
+    "roma": "kopi-ki"
+  },
+  {
+    "name_ja": "コード（電気コード）",
+    "name": "Cord (electric cord)",
+    "yomi": "こーど（でんき）",
+    "roma": "ko-do (denki)"
+  },
+  {
+    "name_ja": "コルク抜き",
+    "name": "Corkscrew",
+    "yomi": "こるくぬき",
+    "roma": "korukunuki",
+    "keyword": "栓抜き，ワインオープナー"
+  },
+  {
+    "name_ja": "コップ（ガラス製・陶器製・金属製）",
+    "name": "Cup (glass, ceramic or metal)",
+    "yomi": "こっぷ",
+    "roma": "koppu",
+    "keyword": "ガラス，グラス，コップ，食器"
+  },
+  {
+    "name_ja": "コップ（プラ製・紙製・木製）",
+    "name": "Cup (plastic, paper or wood)",
+    "yomi": "こっぷ",
+    "roma": "koppu",
+    "keyword": "グラス，コップ，食器"
+  },
+  {
+    "name_ja": "カップめんの容器（紙製）",
+    "name": "Cup noodle container (paper)",
+    "yomi": "かっぷめんのようき",
+    "roma": "kappumen no youki",
+    "keyword": "ラーメンの容器，カップ麺"
+  },
+  {
+    "name_ja": "カップめんの容器（プラ製）",
+    "name": "Cup noodle container (plastic)",
+    "yomi": "かっぷめんのようき",
+    "roma": "kappumen no youki",
+    "keyword": "ラーメンの容器，カップ麺"
+  },
+  {
+    "name_ja": "カーテン",
+    "name": "Curtain",
+    "yomi": "かーてん",
+    "roma": "ka-ten"
+  },
+  {
+    "name_ja": "クッション",
+    "name": "Cushion",
+    "yomi": "くっしょん",
+    "roma": "kusshon",
+    "keyword": "まくら，座布団"
+  },
+  {
+    "name_ja": "プリンの容器(プラ製)",
+    "name": "Custard pudding container (plastic)",
+    "yomi": "ぷりんのようき",
+    "roma": "purin no youki"
+  },
+  {
+    "name_ja": "カッター",
+    "name": "Cutter knife",
+    "yomi": "かったー",
+    "roma": "katta-",
+    "keyword": "カッターナイフ"
+  },
+  {
+    "name_ja": "まな板",
+    "name": "Cutting board",
+    "yomi": "まないた",
+    "roma": "manaita",
+    "keyword": "プラスチックまな板"
+  },
+  {
+    "name_ja": "サイクリングマシーン（エアロバイク）",
+    "name": "Cycling machine (aerobike)",
+    "yomi": "さいくりんぐましーん（えあろばいく）",
+    "roma": "saikuringumashi-n (earobaiku)",
+    "keyword": "健康器具"
+  },
+  {
+    "name_ja": "除湿機",
+    "name": "Dehumidifier (machine)",
+    "yomi": "じょしつき",
+    "roma": "joshitsuki",
+    "keyword": "除湿器"
+  },
+  {
+    "name_ja": "入れ歯",
+    "name": "Denture",
+    "yomi": "いれば",
+    "roma": "ireba",
+    "keyword": "金歯，銀歯"
+  },
+  {
+    "name_ja": "脱臭剤（冷蔵庫用など）の容器",
+    "name": "Deodorizer (for refrigerator, etc.) container",
+    "yomi": "だっしゅうざいのようき",
+    "roma": "dasshuzai no youki",
+    "keyword": "活性炭，消臭剤"
+  },
+  {
+    "name_ja": "脱酸素剤",
+    "name": "Deoxidant",
+    "yomi": "だつさんそざい",
+    "roma": "datsusansozai",
+    "keyword": "エージレス"
+  },
+  {
+    "name_ja": "乾燥剤",
+    "name": "Desiccant",
+    "yomi": "かんそうざい",
+    "roma": "kansouzai",
+    "keyword": "シリカゲル"
+  },
+  {
+    "name_ja": "洗剤の容器（紙製）",
+    "name": "Detergent container (paper)",
+    "yomi": "せんざいのようき",
+    "roma": "senzai no youki",
+    "keyword": "洗剤容器"
+  },
+  {
+    "name_ja": "洗剤の容器（プラ製）",
+    "name": "Detergent container (plastic)",
+    "yomi": "せんざいのようき",
+    "roma": "senzai no youki",
+    "keyword": "洗剤容器"
+  },
+  {
+    "name_ja": "洗剤の計量スプーン",
+    "name": "Detergent measuring spoon",
+    "yomi": "せんざいのけいりょうすぷーん",
+    "roma": "senzai no keiryousupu-n"
+  },
+  {
+    "name_ja": "辞典",
+    "name": "Dictionary",
+    "yomi": "じてん",
+    "roma": "jiten",
+    "keyword": "百科辞典，辞書，図鑑"
+  },
+  {
+    "name_ja": "食器洗い乾燥機・食器乾燥機",
+    "name": "Dishwasher/dish dryer",
+    "yomi": "しょっきあらいかんそうき・しょっきかんそうき",
+    "roma": "shokkiaraikansouki/shokkikansouki",
+    "keyword": "食洗機，食器洗い機"
+  },
+  {
+    "name_ja": "割り箸",
+    "name": "Disposable chopsticks",
+    "yomi": "わりばし",
+    "roma": "waribashi"
+  },
+  {
+    "name_ja": "湿気取り容器",
+    "name": "Disposable dehumidifier container",
+    "yomi": "しっけとりようき",
+    "roma": "shikketoriyouki",
+    "keyword": "吸湿剤"
+  },
+  {
+    "name_ja": "紙おむつ",
+    "name": "Disposable diaper",
+    "yomi": "かみおむつ",
+    "roma": "kamiomutsu"
+  },
+  {
+    "name_ja": "使い捨てライター（プラ製）",
+    "name": "Disposable lighter (plastic)",
+    "yomi": "つかいすてらいたー",
+    "roma": "tsukaisuteraita-",
+    "keyword": "100円ライター"
+  },
+  {
+    "name_ja": "鏡台",
+    "name": "Dressing table",
+    "yomi": "きょうだい",
+    "roma": "kyoudai",
+    "keyword": "化粧台，ドレッサー"
+  },
+  {
+    "name_ja": "枯葉",
+    "name": "Dried leaves",
+    "yomi": "かれは",
+    "roma": "kareha"
+  },
+  {
+    "name_ja": "ストロー",
+    "name": "Drinking straw",
+    "yomi": "すとろー",
+    "roma": "sutoro-"
+  },
+  {
+    "name_ja": "ちりとり（金属製）",
+    "name": "Dustpan (metal)",
+    "yomi": "ちりとり",
+    "roma": "chiritori",
+    "keyword": "塵取り"
+  },
+  {
+    "name_ja": "ちりとり（プラ製）",
+    "name": "Dustpan (plastic)",
+    "yomi": "ちりとり",
+    "roma": "chiritori",
+    "keyword": "塵取り"
+  },
+  {
+    "name_ja": "ＤＶＤ（ケースを含む）",
+    "name": "DVD (including case)",
+    "yomi": "でぃぶいでぃ",
+    "roma": "deibuidei",
+    "keyword": "ＤＶＤ，DVD，ビデオ，DVDケース，dvd，ｄｖｄ，DVD-R，ＤＶＤ－Ｒ"
+  },
+  {
+    "name_ja": "ＤＶＤプレーヤー",
+    "name": "DVD player",
+    "yomi": "でぃぶいでぃぷれーやー",
+    "roma": "deibuideipure-ya-",
+    "keyword": "ＤＶＤレコーダー，ＤＶＤプレイヤー，DVDデッキ，DVDプレイヤー，DVDレコーダー，DVDプレーヤー"
+  },
+  {
+    "name_ja": "卵パック（紙製）",
+    "name": "Egg package (paper)",
+    "yomi": "たまごぱっく",
+    "roma": "tamagopakku"
+  },
+  {
+    "name_ja": "卵パック（プラ製）",
+    "name": "Egg package (plastic)",
+    "yomi": "たまごぱっく",
+    "roma": "tamagopakku"
+  },
+  {
+    "name_ja": "卵の殻",
+    "name": "Eggshell",
+    "yomi": "たまごのから",
+    "roma": "tamago no kara"
+  },
+  {
+    "name_ja": "電気毛布",
+    "name": "Electric blanket",
+    "yomi": "でんきもうふ",
+    "roma": "denkimoufu"
+  },
+  {
+    "name_ja": "電球",
+    "name": "Electric bulb",
+    "yomi": "でんきゅう",
+    "roma": "denkyuu",
+    "keyword": "蛍光灯，電灯，LED"
+  },
+  {
+    "name_ja": "電気カーペット",
+    "name": "Electric carpet",
+    "yomi": "でんきかーぺっと",
+    "roma": "denkika-petto",
+    "keyword": "ホットカーペット"
+  },
+  {
+    "name_ja": "ホットカーペット",
+    "name": "Electric carpet",
+    "yomi": "ほっとかーぺっと",
+    "roma": "hottoka-petto"
+  },
+  {
+    "name_ja": "ホットプレート",
+    "name": "Electric cooking plate",
+    "yomi": "ほっとぷれーと",
+    "roma": "hottopure-to"
+  },
+  {
+    "name_ja": "電気コンロ（クッキングヒーターを含む）",
+    "name": "Electric cooking stove (including cooking heater)",
+    "yomi": "でんきこんろ（くっきんぐひーたー）",
+    "roma": "denkikonro (kukkinguhi-ta-)",
+    "keyword": "ＩＨ，IHクッキングヒーター"
+  },
+  {
+    "name_ja": "扇風機",
+    "name": "Electric fan",
+    "yomi": "せんぷうき",
+    "roma": "senpuuki"
+  },
+  {
+    "name_ja": "電気ストーブ（電気パネルヒーターを含む）",
+    "name": "Electric heating stove (including electric panel heater)",
+    "yomi": "でんきすとーぶ（でんきぱねるひーたー）",
+    "roma": "denkisuto-bu (denkipaneruhi-ta-)",
+    "keyword": "足温器，ヒーター"
+  },
+  {
+    "name_ja": "電気スタンド",
+    "name": "Electric light stand",
+    "yomi": "でんきすたんど",
+    "roma": "denkisutando",
+    "keyword": "ライト"
+  },
+  {
+    "name_ja": "電気ひげそり",
+    "name": "Electric razor",
+    "yomi": "でんきひげそり",
+    "roma": "denkihigesori",
+    "keyword": "電気かみそり，シェーバー，髭剃り"
+  },
+  {
+    "name_ja": "電動歯ブラシ",
+    "name": "Electric toothbrush",
+    "yomi": "でんどうはぶらし",
+    "roma": "dendouhaburashi"
+  },
+  {
+    "name_ja": "懐中電灯",
+    "name": "Electric torch/flashlight",
+    "yomi": "かいちゅうでんとう",
+    "roma": "kaichudentou",
+    "keyword": "ライト"
+  },
+  {
+    "name_ja": "電気ポット",
+    "name": "Electric water pot",
+    "yomi": "でんきぽっと",
+    "roma": "denkipotto",
+    "keyword": "電気湯沸し，保温ポット，魔法瓶"
+  },
+  {
+    "name_ja": "電動車いす",
+    "name": "Electric wheelchair",
+    "yomi": "でんどうしゃいす",
+    "roma": "dendoushaisu",
+    "keyword": "車椅子"
+  },
+  {
+    "name_ja": "電磁調理器（卓上）",
+    "name": "Electromagnetic cooker (portable)",
+    "yomi": "でんじちょうりき",
+    "roma": "denjichouriki",
+    "keyword": "ＩＨ調理器"
+  },
+  {
+    "name_ja": "電子辞書（電子手帳）",
+    "name": "Electronic dictionary (digital notebook)",
+    "yomi": "でんしじしょ（でんしてちょう）",
+    "roma": "denshijisho (denshitechou)"
+  },
+  {
+    "name_ja": "電子オルガン（エレクトーンなど）",
+    "name": "Electronic organ (Electone, etc.)",
+    "yomi": "でんしおるがん（えれくとーん）",
+    "roma": "denshiorugan (erekuto-n)",
+    "keyword": "電子ピアノ，楽器"
+  },
+  {
+    "name_ja": "電子ピアノ",
+    "name": "Electronic piano",
+    "yomi": "でんしぴあの",
+    "roma": "denshipiano",
+    "keyword": "電子オルガン，エレクトーン"
+  },
+  {
+    "name_ja": "エンジンオイル",
+    "name": "Engine oil",
+    "yomi": "えんじんおいる",
+    "roma": "enjinoiru",
+    "keyword": "機械油"
+  },
+  {
+    "name_ja": "彫刻刀",
+    "name": "Engraving knife",
+    "yomi": "ちょうこくとう",
+    "roma": "choukokutou"
+  },
+  {
+    "name_ja": "封筒",
+    "name": "Envelope",
+    "yomi": "ふうとう",
+    "roma": "fuutou"
+  },
+  {
+    "name_ja": "延長コード",
+    "name": "Extension cord",
+    "yomi": "えんちょうこーど",
+    "roma": "enchouko-do",
+    "keyword": "電気コード，テーブルタップ"
+  },
+  {
+    "name_ja": "ファクシミリ（電話機と一体になったものを含む）",
+    "name": "Facsimile machine (including types combined with telephone)",
+    "yomi": "ふぁくしみり，でんわき",
+    "roma": "fakushimiri, denwaki",
+    "keyword": "ＦＡＸ，ファックス，ファクシミリ電話機，FAX，fax，ｆａｘ"
+  },
+  {
+    "name_ja": "落ち葉",
+    "name": "Fallen leaves",
+    "yomi": "おちば",
+    "roma": "ochiba",
+    "keyword": "葉っぱ，枯葉"
+  },
+  {
+    "name_ja": "ファンヒーター",
+    "name": "Fan heater",
+    "yomi": "ふぁんひーたー",
+    "roma": "fanhi-ta-",
+    "keyword": "ストーブ，暖房，石油ファンヒーター，ガスファンヒーター"
+  },
+  {
+    "name_ja": "アクセサリー（腕輪・指輪・ネックレスなど）",
+    "name": "Fashion accessory (bracelet, ring, necklace, etc.)",
+    "yomi": "あくせさりー",
+    "roma": "akusesari-",
+    "keyword": "ブレスレット"
+  },
+  {
+    "name_ja": "サインペン",
+    "name": "Felt tip pen",
+    "yomi": "さいんぺん",
+    "roma": "sainpen",
+    "keyword": "マジック，フェルトペン，カラーペン，蛍光ペン"
+  },
+  {
+    "name_ja": "消火器",
+    "name": "Fire extinguisher",
+    "yomi": "しょうかき",
+    "roma": "shoukaki"
+  },
+  {
+    "name_ja": "花火",
+    "name": "Firecrackers",
+    "yomi": "はなび",
+    "roma": "hanabi"
+  },
+  {
+    "name_ja": "浮輪",
+    "name": "Floating tube",
+    "yomi": "うきわ",
+    "roma": "ukiwa",
+    "keyword": "浮き輪"
+  },
+  {
+    "name_ja": "フロッピーディスク",
+    "name": "Floppy disk",
+    "yomi": "ふろっぴーでぃすく",
+    "roma": "furoppi-desuku",
+    "keyword": "ＦＤ，フロッピィ，ＭＯ"
+  },
+  {
+    "name_ja": "フロッピーディスクのケース，ＭＯ",
+    "name": "Floppy disk case/MO",
+    "yomi": "ふろっぴーでぃすく",
+    "roma": "furoppi-desuku",
+    "keyword": "ＦＤ，フロッピィ"
+  },
+  {
+    "name_ja": "プランター",
+    "name": "Flower box",
+    "yomi": "ぷらんたー",
+    "roma": "puranta-"
+  },
+  {
+    "name_ja": "蛍光灯",
+    "name": "Fluorescent bulb",
+    "yomi": "けいこうとう",
+    "roma": "keikoutou",
+    "keyword": "電球，サークライン"
+  },
+  {
+    "name_ja": "発泡スチロール（緩衝材など）",
+    "name": "Foam polystyrene (cushioning material, etc.)",
+    "yomi": "はっぽうすちろーる（かんしょうざい）",
+    "roma": "happosuchiro-ru (kanshouzai)",
+    "keyword": "発砲，発砲スチロール"
+  },
+  {
+    "name_ja": "食品用トレイ",
+    "name": "Food tray",
+    "yomi": "しょくひんようとれい",
+    "roma": "shokuhinyoutorei",
+    "keyword": "お弁当のトレイ，惣菜のトレイ，トレー，プラスチックトレイ，トレイ"
+  },
+  {
+    "name_ja": "フォーク（金属製）",
+    "name": "Fork (metal)",
+    "yomi": "ふぉーく",
+    "roma": "fo-ku"
+  },
+  {
+    "name_ja": "フォーク（プラ製・木製）",
+    "name": "Fork (plastic or wood)",
+    "yomi": "ふぉーく",
+    "roma": "fo-ku"
+  },
+  {
+    "name_ja": "冷凍庫",
+    "name": "Freezer",
+    "yomi": "れいとうこ",
+    "roma": "reitouko",
+    "keyword": "フリーザー"
+  },
+  {
+    "name_ja": "天ぷらガード",
+    "name": "Fry guard",
+    "yomi": "てんぷらがーど",
+    "roma": "tenpuraga-do",
+    "keyword": "レンジガード，キッチンガード"
+  },
+  {
+    "name_ja": "天ぷら油",
+    "name": "Frying oil",
+    "yomi": "てんぷらあぶら",
+    "roma": "tenpuraabura",
+    "keyword": "てんぷら油"
+  },
+  {
+    "name_ja": "フライパン",
+    "name": "Frying pan",
+    "yomi": "ふらいぱん",
+    "roma": "furaipan"
+  },
+  {
+    "name_ja": "姿見",
+    "name": "Full-length mirror",
+    "yomi": "すがたみ",
+    "roma": "sugatami"
+  },
+  {
+    "name_ja": "ふとん",
+    "name": "Futon bedding",
+    "yomi": "ふとん",
+    "roma": "futon",
+    "keyword": "布団，羽毛布団，敷布団，掛け布団，寝具，ベビー布団"
+  },
+  {
+    "name_ja": "ふとん乾燥機",
+    "name": "Futon dryer",
+    "yomi": "ふとんかんそうき",
+    "roma": "futonkansouki",
+    "keyword": "布団乾燥機"
+  },
+  {
+    "name_ja": "剪定バサミ",
+    "name": "Gardening scissors",
+    "yomi": "せんていばさみ",
+    "roma": "senteibasami",
+    "keyword": "高枝切り"
+  },
+  {
+    "name_ja": "カセットコンロ用ボンベ",
+    "name": "Gas cylinder for a portable gas stove",
+    "yomi": "かせっとこんろようぼんべ",
+    "roma": "kasettokonroyoubonbe",
+    "keyword": "カセットボンベ"
+  },
+  {
+    "name_ja": "ガソリン",
+    "name": "Gasoline",
+    "yomi": "がそりん",
+    "roma": "gasorin",
+    "keyword": "石油"
+  },
+  {
+    "name_ja": "ガラス",
+    "name": "Glass",
+    "yomi": "がらす",
+    "roma": "garasu",
+    "keyword": "硝子"
+  },
+  {
+    "name_ja": "びん（割れたびん、耐熱ガラス、ガラスコップ、化粧品のびん）",
+    "name": "Glass bottle (broken, heat resistant glass, glass cup or  bottle for cosmetic product)",
+    "yomi": "びん（われたびん、たいねつがらす、がらすこっぷ、けしょうひんのびん）",
+    "roma": "bin (waretabin, tainetsugarasu, garasukoppu, keshouhin no bin)",
+    "keyword": "瓶"
+  },
+  {
+    "name_ja": "空きびん（飲食用、調味料）",
+    "name": "Glass bottle (used for beverage or seasoning)",
+    "yomi": "あきびん",
+    "roma": "akibin",
+    "keyword": "瓶，ワインのびん，酒のびん，油のびん，ビール瓶，薬の瓶"
+  },
+  {
+    "name_ja": "びん（飲食用、調味料）",
+    "name": "Glass bottle (used for beverage or seasoning)",
+    "yomi": "びん",
+    "roma": "bin",
+    "keyword": "ワインのびん、酒のびん，調味料のびん，瓶"
+  },
+  {
+    "name_ja": "びんのキャップ（金属製）",
+    "name": "Glass bottle cap (metal)",
+    "yomi": "びんのきゃっぷ",
+    "roma": "bin no kyappu",
+    "keyword": "瓶のふた，びんのキャップ，びんのふた，ふた，栓"
+  },
+  {
+    "name_ja": "びんのキャップ（プラ製）",
+    "name": "Glass bottle cap (plastic)",
+    "yomi": "びんのきゃっぷ",
+    "roma": "bin no kyappu",
+    "keyword": "瓶のふた，びんのキャップ，びんのふた，ふた，栓"
+  },
+  {
+    "name_ja": "化粧品のびん，化粧品瓶，化粧品の瓶",
+    "name": "Glass bottle for cosmetic products",
+    "yomi": "けしょうひんのびん",
+    "roma": "keshouhin no bin",
+    "keyword": "瓶"
+  },
+  {
+    "name_ja": "栄養ドリンクのびん",
+    "name": "Glass energy drink bottle",
+    "yomi": "えいようどりんくのびん",
+    "roma": "eiyoudorinku no bin"
+  },
+  {
+    "name_ja": "薬のびん",
+    "name": "Glass medicine bottle",
+    "yomi": "くすりのびん",
+    "roma": "kusuri no bin",
+    "keyword": "薬瓶，くすりびん"
+  },
+  {
+    "name_ja": "牛乳びん",
+    "name": "Glass milk bottle",
+    "yomi": "ぎゅうにゅうびん",
+    "roma": "gyunyubin",
+    "keyword": "瓶"
+  },
+  {
+    "name_ja": "のりの佃煮のびん",
+    "name": "Glass nori relish bottle",
+    "yomi": "のりのつくだにのびん",
+    "roma": "nori no tsukudani no bin",
+    "keyword": "瓶"
+  },
+  {
+    "name_ja": "ドレッシングのびん",
+    "name": "Glass salad dressing bottle",
+    "yomi": "どれっしんぐのびん",
+    "roma": "doresshingu no bin",
+    "keyword": "瓶"
+  },
+  {
+    "name_ja": "ソースのびん",
+    "name": "Glass sauce bottle",
+    "yomi": "そーすのびん",
+    "roma": "so-su no bin",
+    "keyword": "瓶"
+  },
+  {
+    "name_ja": "眼鏡（プラ製以外）",
+    "name": "Glasses (excluding plastic)",
+    "yomi": "めがね",
+    "roma": "megane"
+  },
+  {
+    "name_ja": "眼鏡（プラ製）",
+    "name": "Glasses (plastic)",
+    "yomi": "めがね",
+    "roma": "megane"
+  },
+  {
+    "name_ja": "グローブ（野球用など）",
+    "name": "Glove (for baseball, etc.)",
+    "yomi": "ぐろーぶ",
+    "roma": "guro-bu"
+  },
+  {
+    "name_ja": "手袋",
+    "name": "Gloves",
+    "yomi": "てぶくろ",
+    "roma": "tebukuro",
+    "keyword": "グローブ，グラブ，ゴルフ，スキー，軍手"
+  },
+  {
+    "name_ja": "ゴーグル",
+    "name": "Goggles",
+    "yomi": "ごーぐる",
+    "roma": "go-guru"
+  },
+  {
+    "name_ja": "ゴルフクラブ・ゴルフバッグ",
+    "name": "Golf club/bag",
+    "yomi": "ごるふくらぶ・ごるふばっぐ",
+    "roma": "gorufukurabu/gorufubaggu",
+    "keyword": "パター"
+  },
+  {
+    "name_ja": "鉄板（バーベキューなどで使うもの）",
+    "name": "Grill/cast-iron plate (for barbecue, etc.)",
+    "yomi": "てっぱん",
+    "roma": "teppan",
+    "keyword": "ホットプレート"
+  },
+  {
+    "name_ja": "ギター",
+    "name": "Guitar",
+    "yomi": "ぎたー",
+    "roma": "gita-"
+  },
+  {
+    "name_ja": "ヘアースプレー(スプレー缶)",
+    "name": "Hair spray (spray can)",
+    "yomi": "へあーすぷれー（すぷれーかん）",
+    "roma": "hea-supure- (supure-kan)"
+  },
+  {
+    "name_ja": "整髪料（スプレー缶）",
+    "name": "Haircare product (spray can)",
+    "yomi": "せいはつりょう（すぷれーかん）",
+    "roma": "seihatsuryou (supure-kan)",
+    "keyword": "ムース，ヘアカラー"
+  },
+  {
+    "name_ja": "ドライヤー",
+    "name": "Hairdryer",
+    "yomi": "どらいやー",
+    "roma": "doraiya-"
+  },
+  {
+    "name_ja": "ヘアピン",
+    "name": "Hairpin",
+    "yomi": "ぺあぴん",
+    "roma": "heapin",
+    "keyword": "ピン止め"
+  },
+  {
+    "name_ja": "カイロ（使い捨てを含む）",
+    "name": "Hand warmer (including disposable types)",
+    "yomi": "かいろ",
+    "roma": "kairo",
+    "keyword": "使い捨てカイロ"
+  },
+  {
+    "name_ja": "ぶら下がり健康器",
+    "name": "Hanging healthcare apparatus",
+    "yomi": "ぶらさがりけんこうき",
+    "roma": "burasagarikenkouki"
+  },
+  {
+    "name_ja": "帽子",
+    "name": "Hat",
+    "yomi": "ぼうし",
+    "roma": "boushi",
+    "keyword": "ハット"
+  },
+  {
+    "name_ja": "ヘッドホン",
+    "name": "Headphone",
+    "yomi": "へっどほん",
+    "roma": "heddohon"
+  },
+  {
+    "name_ja": "ヘルスメーター",
+    "name": "Health scale",
+    "yomi": "へるすめーたー",
+    "roma": "herusume-ta-",
+    "keyword": "体重計"
+  },
+  {
+    "name_ja": "灯油",
+    "name": "Heating oil",
+    "yomi": "とうゆ",
+    "roma": "touyu",
+    "keyword": "石油，ストーブ"
+  },
+  {
+    "name_ja": "ストーブ",
+    "name": "Heating stove",
+    "yomi": "すとーぶ",
+    "roma": "suto-bu",
+    "keyword": "ガスストーブ，石油ストーブ，電気ストーブ"
+  },
+  {
+    "name_ja": "ヘルメット",
+    "name": "Helmet",
+    "yomi": "へるめっと",
+    "roma": "herumetto"
+  },
+  {
+    "name_ja": "ホース",
+    "name": "Hose",
+    "yomi": "ほーす",
+    "roma": "ho-su",
+    "keyword": "ゴムホース，ガスホース，水道ホース，洗濯ホース"
+  },
+  {
+    "name_ja": "アイスピック",
+    "name": "Ice pick",
+    "yomi": "あいすぴっく",
+    "roma": "aisupikku",
+    "keyword": "千枚通し，せんまいどおし"
+  },
+  {
+    "name_ja": "スケート靴",
+    "name": "Ice-skating shoes",
+    "yomi": "すけーとぐつ",
+    "roma": "suke-togutsu"
+  },
+  {
+    "name_ja": "剣山",
+    "name": "Ikebana kenzan (flower pin holder)",
+    "yomi": "けんざん",
+    "roma": "kenzan"
+  },
+  {
+    "name_ja": "インクカートリッジ",
+    "name": "Ink cartridge",
+    "yomi": "いんくかーとりっじ",
+    "roma": "inkuka-torijji",
+    "keyword": "トナー，インクジェット，プリンターインク"
+  },
+  {
+    "name_ja": "すずり",
+    "name": "Inkstone",
+    "yomi": "すずり",
+    "roma": "suzuri",
+    "keyword": "書道，硯"
+  },
+  {
+    "name_ja": "防虫剤",
+    "name": "Insect repellent",
+    "yomi": "ぼうちゅうざい",
+    "roma": "bouchuzai",
+    "keyword": "虫除け"
+  },
+  {
+    "name_ja": "防虫剤の容器（プラ製）",
+    "name": "Insect repellent container (plastic)",
+    "yomi": "ぼうちゅうざいのようき",
+    "roma": "bouchuzainoyouki",
+    "keyword": "虫除け"
+  },
+  {
+    "name_ja": "殺虫剤（スプレー缶）",
+    "name": "Insecticide (spray can)",
+    "yomi": "さっちゅうざい（すぷれーかん",
+    "roma": "sacchuzai (supure-kan)"
+  },
+  {
+    "name_ja": "インターホン",
+    "name": "Intercom",
+    "yomi": "いんたーほん",
+    "roma": "inta-hon"
+  },
+  {
+    "name_ja": "アイロン台",
+    "name": "Ironing board",
+    "yomi": "あいろんだい",
+    "roma": "airondai"
+  },
+  {
+    "name_ja": "ジューサー",
+    "name": "Juice press machine",
+    "yomi": "じゅーさー",
+    "roma": "ju-sa-",
+    "keyword": "ミキサー"
+  },
+  {
+    "name_ja": "ケチャップの容器（プラ製）",
+    "name": "Ketchup container (plastic)",
+    "yomi": "けちゃっぷのようき",
+    "roma": "kecchappu no youki"
+  },
+  {
+    "name_ja": "やかん",
+    "name": "Kettle",
+    "yomi": "やかん",
+    "roma": "yakan"
+  },
+  {
+    "name_ja": "鍵",
+    "name": "Key",
+    "yomi": "かぎ",
+    "roma": "kagi",
+    "keyword": "キー"
+  },
+  {
+    "name_ja": "キーボード（楽器）",
+    "name": "Keyboard (musical instrument)",
+    "yomi": "きーぼーど（がっき）",
+    "roma": "ki-bo-do (gakki)"
+  },
+  {
+    "name_ja": "キーボード（パソコン）",
+    "name": "Keyboard (PC)",
+    "yomi": "きーぼーど",
+    "roma": "ki-bo-do"
+  },
+  {
+    "name_ja": "包丁",
+    "name": "Kitchen knife",
+    "yomi": "ほうちょう",
+    "roma": "houchou",
+    "keyword": "ナイフ"
+  },
+  {
+    "name_ja": "ナイフ",
+    "name": "Knife",
+    "yomi": "ないふ",
+    "roma": "naifu",
+    "keyword": "刃物"
+  },
+  {
+    "name_ja": "編み機",
+    "name": "Knitting machine",
+    "yomi": "あみき",
+    "roma": "amiki"
+  },
+  {
+    "name_ja": "こたつ布団",
+    "name": "Kotatsu cover",
+    "yomi": "こたつぶとん",
+    "roma": "kotatsubuton"
+  },
+  {
+    "name_ja": "こたつ・こたつ天板",
+    "name": "Kotatsu/kotatsu table",
+    "yomi": "こたつ・こたつてんばん",
+    "roma": "kotatsu/kotatsutenban"
+  },
+  {
+    "name_ja": "一升瓶",
+    "name": "Large (1.8-liter) bottle",
+    "yomi": "いっしょうびん",
+    "roma": "isshoubin"
+  },
+  {
+    "name_ja": "一斗缶",
+    "name": "Large (18-liter) can",
+    "yomi": "いっとかん",
+    "roma": "ittokan",
+    "keyword": "灯油缶"
+  },
+  {
+    "name_ja": "クリーニングの袋",
+    "name": "Laundry bag",
+    "yomi": "くりーにんぐのふくろ",
+    "roma": "kuri-ningu no fukuro",
+    "keyword": "クリーニングのビニール袋"
+  },
+  {
+    "name_ja": "洗濯バサミ",
+    "name": "Laundry clip",
+    "yomi": "せんたくばさみ",
+    "roma": "sentakubasami"
+  },
+  {
+    "name_ja": "洗濯ハンガー（プラ製）",
+    "name": "Laundry hanger (plastic)",
+    "yomi": "せんたくはんがー（ぷらせい）",
+    "roma": "sentakuhanga- (purasei)",
+    "keyword": "ピンチハンガー，洗濯干すやつ"
+  },
+  {
+    "name_ja": "アイロン",
+    "name": "Laundry iron",
+    "yomi": "あいろん",
+    "roma": "airon"
+  },
+  {
+    "name_ja": "物干しざお・物干し台",
+    "name": "Laundry pole/rack",
+    "yomi": "ものほしざお・ものほしだい",
+    "roma": "monohoshizao/monohoshidai",
+    "keyword": "物干し竿"
+  },
+  {
+    "name_ja": "チラシ",
+    "name": "Leaflet",
+    "yomi": "ちらし",
+    "roma": "chirashi",
+    "keyword": "ビラ"
+  },
+  {
+    "name_ja": "照明器具",
+    "name": "Lighting device",
+    "yomi": "しょうめいきぐ",
+    "roma": "shoumeikigu",
+    "keyword": "照明の傘，電気傘，シャンデリア"
+  },
+  {
+    "name_ja": "ロッカー",
+    "name": "Locker",
+    "yomi": "ろっかー",
+    "roma": "rokka-"
+  },
+  {
+    "name_ja": "弁当の容器(使い捨てのもの・プラ製)",
+    "name": "Lunch package (disposable, plastic)",
+    "yomi": "べんとうのようき",
+    "roma": "bentounoyouki",
+    "keyword": "コンビニ弁当"
+  },
+  {
+    "name_ja": "雑誌",
+    "name": "Magazine",
+    "yomi": "ざっし",
+    "roma": "zasshi",
+    "keyword": "週刊誌，月刊誌，カタログ，ブック，マンガ"
+  },
+  {
+    "name_ja": "虫めがね",
+    "name": "Magnifying glass",
+    "yomi": "むしめがね",
+    "roma": "mushimegane",
+    "keyword": "虫眼鏡"
+  },
+  {
+    "name_ja": "マッサージ機",
+    "name": "Massage equipment",
+    "yomi": "まっさーじき",
+    "roma": "massa-jiki"
+  },
+  {
+    "name_ja": "マット（キッチン・バス等）",
+    "name": "Mat (for kitchen, bathroom, etc.)",
+    "yomi": "まっと（キッチン・バス）",
+    "roma": "matto (kicchin/basu)",
+    "keyword": "キッチンマット，バスマット，玄関マット，トイレマット，風呂マット"
+  },
+  {
+    "name_ja": "マッチ",
+    "name": "Matches",
+    "yomi": "まっち",
+    "roma": "macchi"
+  },
+  {
+    "name_ja": "マットレス",
+    "name": "Mattress",
+    "yomi": "まっとれす",
+    "roma": "mattoresu",
+    "keyword": "ふとん"
+  },
+  {
+    "name_ja": "マヨネーズの容器(プラ製)",
+    "name": "Mayonnaise container (plastic)",
+    "yomi": "まよねーずのようき",
+    "roma": "mayone-zu no youki"
+  },
+  {
+    "name_ja": "薬（錠剤・カプセルなど家庭用）",
+    "name": "Medicine (tablet, capsule, etc., for home use)",
+    "yomi": "くすり",
+    "roma": "kusuri"
+  },
+  {
+    "name_ja": "薬の容器（プラ製）",
+    "name": "Medicine container (plastic)",
+    "yomi": "くすりのようき",
+    "roma": "kusuri no youki"
+  },
+  {
+    "name_ja": "ワイシャツ",
+    "name": "Men's dress shirt",
+    "yomi": "わいしゃつ",
+    "roma": "waishatsu"
+  },
+  {
+    "name_ja": "針金",
+    "name": "Metal wire",
+    "yomi": "はりがね",
+    "roma": "harigane"
+  },
+  {
+    "name_ja": "電子レンジ",
+    "name": "Microwave oven",
+    "yomi": "でんしれんじ",
+    "roma": "denshirenji",
+    "keyword": "オーブン"
+  },
+  {
+    "name_ja": "オーブンレンジ",
+    "name": "Microwave/convection oven",
+    "yomi": "おーぶんれんじ",
+    "roma": "o-bunrenji",
+    "keyword": "ガスレンジ"
+  },
+  {
+    "name_ja": "牛乳パック",
+    "name": "Milk carton",
+    "yomi": "ぎゅうにゅうぱっく",
+    "roma": "gyunyupakku"
+  },
+  {
+    "name_ja": "ミニコンポ",
+    "name": "Mini audio system",
+    "yomi": "みにこんぽ",
+    "roma": "minikonpo",
+    "keyword": "アンプ，チューナー，ＣＤコンポ，CDコンポ"
+  },
+  {
+    "name_ja": "ＭＤ",
+    "name": "Minidisc (MD)",
+    "yomi": "えむでぃ",
+    "roma": "emudei",
+    "keyword": "ＭＤ，MD，ｍｄ，md"
+  },
+  {
+    "name_ja": "ＭＤのケース",
+    "name": "Minidisc case",
+    "yomi": "えむでぃ",
+    "roma": "emudei",
+    "keyword": "ＭＤケース，MDケース"
+  },
+  {
+    "name_ja": "ＭＤプレーヤー",
+    "name": "Minidisc player",
+    "yomi": "えむでぃぷれーやー",
+    "roma": "emudeipureiya-",
+    "keyword": "ＭＤコンポ，ＭＤプレイヤー，MDコンポ，MDプレイヤー"
+  },
+  {
+    "name_ja": "鏡",
+    "name": "Mirror",
+    "yomi": "かがみ",
+    "roma": "kagami",
+    "keyword": "手鏡"
+  },
+  {
+    "name_ja": "ミキサー",
+    "name": "Mixer",
+    "yomi": "みきさー",
+    "roma": "mikisa-",
+    "keyword": "ジューサー"
+  },
+  {
+    "name_ja": "携帯電話",
+    "name": "Mobile phone",
+    "yomi": "けいたいでんわ",
+    "roma": "keitaidenwa"
+  },
+  {
+    "name_ja": "餅つき機",
+    "name": "Mochi maker",
+    "yomi": "もちつきき",
+    "roma": "mochitsukiki"
+  },
+  {
+    "name_ja": "オートバイ",
+    "name": "Motorcycle",
+    "yomi": "おーとばい",
+    "roma": "o-tobai",
+    "keyword": "原付バイク，単車，自動二輪，二輪"
+  },
+  {
+    "name_ja": "単車",
+    "name": "Motorcycle",
+    "yomi": "たんしゃ",
+    "roma": "tansha",
+    "keyword": "バイク，自動二輪，二輪，オートバイ"
+  },
+  {
+    "name_ja": "バイク",
+    "name": "Motorcycle",
+    "yomi": "ばいく",
+    "roma": "baiku",
+    "keyword": "オートバイ，単車，自動二輪，二輪車"
+  },
+  {
+    "name_ja": "電動式ベッド",
+    "name": "Motorized bed",
+    "yomi": "でんどうしきべっど",
+    "roma": "dendoushikibeddo",
+    "keyword": "介護ベッド"
+  },
+  {
+    "name_ja": "原動機付自転車",
+    "name": "Motorized bicycle",
+    "yomi": "げんどうきつきじでんしゃ",
+    "roma": "gendoukitsukijitensha",
+    "keyword": "原付バイク，原付，バイク"
+  },
+  {
+    "name_ja": "マウス（パソコン用）",
+    "name": "Mouse (for PC)",
+    "yomi": "まうす",
+    "roma": "mausu"
+  },
+  {
+    "name_ja": "くぎ",
+    "name": "Nail",
+    "yomi": "くぎ",
+    "roma": "kugi",
+    "keyword": "釘"
+  },
+  {
+    "name_ja": "爪切り",
+    "name": "Nail clip",
+    "yomi": "つめきり",
+    "roma": "tsumekiri"
+  },
+  {
+    "name_ja": "納豆の容器（プラ製）",
+    "name": "Natto container (plastic)",
+    "yomi": "なっとうのようき",
+    "roma": "nattou no youki"
+  },
+  {
+    "name_ja": "ネクタイ",
+    "name": "Necktie",
+    "yomi": "ねくたい",
+    "roma": "nekutai"
+  },
+  {
+    "name_ja": "針（裁縫用など）",
+    "name": "Needle (for sewing, etc.)",
+    "yomi": "はり",
+    "roma": "hari"
+  },
+  {
+    "name_ja": "新聞",
+    "name": "Newspaper",
+    "yomi": "しんぶん",
+    "roma": "shinbun",
+    "keyword": "新聞紙，古新聞"
+  },
+  {
+    "name_ja": "のり（海苔）の缶",
+    "name": "Nori (edible seaweed) cannister",
+    "yomi": "のりのかん",
+    "roma": "nori no kan"
+  },
+  {
+    "name_ja": "ノート",
+    "name": "Notebook",
+    "yomi": "のーと",
+    "roma": "no-to"
+  },
+  {
+    "name_ja": "ノート型パソコン",
+    "name": "Notebook PC",
+    "yomi": "のーとがたぱそこん",
+    "roma": "no-togatapasokon",
+    "keyword": "ノートパソコン"
+  },
+  {
+    "name_ja": "オイルヒーター",
+    "name": "Oil heater",
+    "yomi": "おいるひーたー",
+    "roma": "oiruhi-ta-",
+    "keyword": "ヒーター"
+  },
+  {
+    "name_ja": "スパナ（工具類）",
+    "name": "Open-end wrench/spanner (carpentry tool)",
+    "yomi": "すぱな（こうぐるい）",
+    "roma": "supana (kougurui)",
+    "keyword": "レンチ"
+  },
+  {
+    "name_ja": "オルガン",
+    "name": "Organ",
+    "yomi": "おるがん",
+    "roma": "orugan",
+    "keyword": "電子オルガン"
+  },
+  {
+    "name_ja": "レンジ台",
+    "name": "Oven stand",
+    "yomi": "れんじだい",
+    "roma": "renjidai"
+  },
+  {
+    "name_ja": "包装フィルム",
+    "name": "Packaging film",
+    "yomi": "ほうそうふぃるむ",
+    "roma": "housoufirumu",
+    "keyword": "外装フィルム"
+  },
+  {
+    "name_ja": "ガムテープ",
+    "name": "Packaging tape",
+    "yomi": "がむてーぷ",
+    "roma": "gamute-pu",
+    "keyword": "粘着テープ"
+  },
+  {
+    "name_ja": "バケツ（金属製）",
+    "name": "Pail (metal)",
+    "yomi": "ばけつ",
+    "roma": "baketsu",
+    "keyword": "バケツ　ブリキ"
+  },
+  {
+    "name_ja": "バケツ（プラ製）",
+    "name": "Pail (plastic)",
+    "yomi": "ばけつ",
+    "roma": "baketsu",
+    "keyword": "ポリバケツ，バケツ"
+  },
+  {
+    "name_ja": "塗料",
+    "name": "Paint",
+    "yomi": "とりょう",
+    "roma": "toryou",
+    "keyword": "ペンキ，スプレー，薄め液，シンナー，溶剤"
+  },
+  {
+    "name_ja": "ペンキの缶",
+    "name": "Paint can",
+    "yomi": "ぺんきのかん",
+    "roma": "penki no kan"
+  },
+  {
+    "name_ja": "塗料の缶・びん",
+    "name": "Paint can/bottle",
+    "yomi": "とりょうのかん・びん",
+    "roma": "toryou no kan/bin",
+    "keyword": "ペンキ，スプレー，薄め液，シンナー，溶剤，瓶"
+  },
+  {
+    "name_ja": "塗料のスプレー缶",
+    "name": "Paint spray can",
+    "yomi": "とりょうのすぷれーかん",
+    "roma": "toryou no supure-kan",
+    "keyword": "ペンキ，スプレー，薄め液"
+  },
+  {
+    "name_ja": "ペンキのスプレー缶",
+    "name": "Paint spray can",
+    "yomi": "ぺんきのすぷれーかん",
+    "roma": "penkinosupure-kan"
+  },
+  {
+    "name_ja": "パンフレット",
+    "name": "Pamphlet",
+    "yomi": "ぱんふれっと",
+    "roma": "panfuretto",
+    "keyword": "カタログ"
+  },
+  {
+    "name_ja": "紙パック",
+    "name": "Paper carton",
+    "yomi": "かみぱっく",
+    "roma": "kamipakku"
+  },
+  {
+    "name_ja": "文鎮",
+    "name": "Paper weight",
+    "yomi": "ぶんちん",
+    "roma": "bunchin"
+  },
+  {
+    "name_ja": "パラソル（ビーチパラソル・レジャーパラソル）",
+    "name": "Parasol (beach parasol or leisure parasol)",
+    "yomi": "ぱらそる（びーちぱらそる・れじゃーぱらそる）",
+    "roma": "parasoru (bi-chiparasoru/reja-parasoru)",
+    "keyword": "ゴルフ傘"
+  },
+  {
+    "name_ja": "パソコン",
+    "name": "PC",
+    "yomi": "ぱそこん",
+    "roma": "pasokon",
+    "keyword": "ノートパソコン"
+  },
+  {
+    "name_ja": "パソコンラック",
+    "name": "PC cabinet",
+    "yomi": "ぱそこんらっく",
+    "roma": "pasokonrakku",
+    "keyword": "パソコン机"
+  },
+  {
+    "name_ja": "パソコンキーボード",
+    "name": "PC keyboard",
+    "yomi": "ぱそこんきーぼーど",
+    "roma": "pasokonki-bo-do",
+    "keyword": "キーボード"
+  },
+  {
+    "name_ja": "パソコン用ディスプレイ",
+    "name": "PC monitor",
+    "yomi": "ぱそこんようでぃすぷれい",
+    "roma": "pasokonyoudesupurei"
+  },
+  {
+    "name_ja": "パソコンプリンター",
+    "name": "PC printer",
+    "yomi": "ぱそこんぷりんたー",
+    "roma": "pasokonpurinta-"
+  },
+  {
+    "name_ja": "鉛筆",
+    "name": "Pencil",
+    "yomi": "えんぴつ",
+    "roma": "enpitsu",
+    "keyword": "色えんぴつ，色鉛筆"
+  },
+  {
+    "name_ja": "マジックペン（プラ製以外）",
+    "name": "Permanent marker (non-plastic)",
+    "yomi": "まじっく（さいんぺん）",
+    "roma": "majikku (sainpen)",
+    "keyword": "マジック，マジックペン，フェルトペン，カラーペン，蛍光ペン"
+  },
+  {
+    "name_ja": "マジックペン（プラ製）",
+    "name": "Permanent marker (plastic)",
+    "yomi": "まじっく（さいんぺん）",
+    "roma": "majikku (sainpen)",
+    "keyword": "マジック，マジックペン，フェルトペン，カラーペン，蛍光ペン"
+  },
+  {
+    "name_ja": "ペットボトル(飲み物、しょうゆ、調味料)",
+    "name": "PET bottle (for beverage, soy sauce or seasoning)",
+    "yomi": "ぺっとぼとる",
+    "roma": "pettobotoru"
+  },
+  {
+    "name_ja": "ペットボトルのキャップ・ラベル",
+    "name": "PET bottle cap or label",
+    "yomi": "ぺっとぼとるのきゃっぷ・らべる",
+    "roma": "pettobotoru no kyappu/raberu",
+    "keyword": "キャップ，ラベル，ペットボトルのラベル，ペットボトルのキャップ，ペットボトルのふた，ふた"
+  },
+  {
+    "name_ja": "ペットフードの缶",
+    "name": "Pet food can",
+    "yomi": "ぺっとふーどのかん",
+    "roma": "pettofu-do no kan"
+  },
+  {
+    "name_ja": "ペットのトイレ専用砂(紙製等)",
+    "name": "Pet litter sand (paper-based, etc.)",
+    "yomi": "ぺっとのといれせんようすな",
+    "roma": "petto no toiresenyousuna",
+    "keyword": "ペットトイレ"
+  },
+  {
+    "name_ja": "アルバム",
+    "name": "Photo album",
+    "yomi": "あるばむ",
+    "roma": "arubamu"
+  },
+  {
+    "name_ja": "フィルム",
+    "name": "Photography film",
+    "yomi": "ふぃるむ",
+    "roma": "firumu",
+    "keyword": "写真，ネガ，スライド"
+  },
+  {
+    "name_ja": "ＰＨＳ",
+    "name": "PHS device",
+    "yomi": "ぴーえいちえす",
+    "roma": "pi-eichiesu",
+    "keyword": "携帯電話"
+  },
+  {
+    "name_ja": "ピアノ",
+    "name": "Piano",
+    "yomi": "ぴあの",
+    "roma": "piano"
+  },
+  {
+    "name_ja": "レジャーシート",
+    "name": "Picnic sheet",
+    "yomi": "れじゃーしーと",
+    "roma": "reja-shi-to",
+    "keyword": "ブルーシート，ビニールシート"
+  },
+  {
+    "name_ja": "まくら",
+    "name": "Pillow",
+    "yomi": "まくら",
+    "roma": "makura",
+    "keyword": "枕"
+  },
+  {
+    "name_ja": "草・花",
+    "name": "Plant/flower",
+    "yomi": "くさ・はな",
+    "roma": "kusa/hana",
+    "keyword": "雑草"
+  },
+  {
+    "name_ja": "植木鉢（陶器製）",
+    "name": "Planting plot (ceramic)",
+    "yomi": "うえきばち",
+    "roma": "uekibachi",
+    "keyword": "はち，プランター"
+  },
+  {
+    "name_ja": "植木鉢（プラ製・木製）",
+    "name": "Planting pot (plastic or wood)",
+    "yomi": "うえきばち",
+    "roma": "uekibashi",
+    "keyword": "はち，プランター"
+  },
+  {
+    "name_ja": "ポリ袋（スーパー等で配布されるもの）",
+    "name": "Plastic bag (handed out at supermarket, etc.)",
+    "yomi": "ぽりぶくろ（すーぱーなどではいふされるもの）",
+    "roma": "poribukuro (su-pa-nadode haifu sarerumono)",
+    "keyword": "ビニール，ビニール袋"
+  },
+  {
+    "name_ja": "食用油のプラスチック製ボトル",
+    "name": "Plastic bottle for cooking oil",
+    "yomi": "しょくようゆのぷらすちっくせいぼとる",
+    "roma": "shokuyouyu no purasuchikkuseibotoru",
+    "keyword": "あぶらのようき，油のボトル"
+  },
+  {
+    "name_ja": "サラダ油のプラスチック製ボトル",
+    "name": "Plastic bottle for salad oil",
+    "yomi": "さらだあぶらのぷらすちっくぼとる",
+    "roma": "saradaabura no purasuchikkubotoru",
+    "keyword": "サラダ油のボトル，油のボトル"
+  },
+  {
+    "name_ja": "ネット（たまねぎ・みかんなどが入っていたもの）",
+    "name": "Plastic net (used for onions, oranges, etc.)",
+    "yomi": "ねっと",
+    "roma": "netto"
+  },
+  {
+    "name_ja": "ソースのプラスチック製ボトル",
+    "name": "Plastic sauce bottle",
+    "yomi": "そーすのぷらすちっくせいぼとる",
+    "roma": "so-su no purasuchikkuseibotoru"
+  },
+  {
+    "name_ja": "シャンプーのプラスチック製ボトル",
+    "name": "Plastic shampoo bottle",
+    "yomi": "しゃんぷーのぷらすちっくぼとる",
+    "roma": "shanpu- no purasuchikkubotoru"
+  },
+  {
+    "name_ja": "下敷（プラ製）",
+    "name": "Plastic sheet (used when writing)",
+    "yomi": "したじき",
+    "roma": "shitajiki"
+  },
+  {
+    "name_ja": "ラップ（商品を包んでいたもの）",
+    "name": "Plastic wrap (used to package products)",
+    "yomi": "らっぷ",
+    "roma": "rappu"
+  },
+  {
+    "name_ja": "皿（ガラス製・陶器製・金属製）",
+    "name": "Plate (glass, ceramic or metal)",
+    "yomi": "さら",
+    "roma": "sara",
+    "keyword": "陶器，瀬戸物，お皿，食器"
+  },
+  {
+    "name_ja": "皿（プラ製・紙製・木製）",
+    "name": "Plate (plastic, paper or wood)",
+    "yomi": "さら",
+    "roma": "sara",
+    "keyword": "陶器，瀬戸物，お皿，食器"
+  },
+  {
+    "name_ja": "ポリバケツ",
+    "name": "Polystyrene pail",
+    "yomi": "ぽりばけつ",
+    "roma": "poritanku",
+    "keyword": "バケツ"
+  },
+  {
+    "name_ja": "ポリタンク",
+    "name": "Polystyrene tank",
+    "yomi": "ぽりたんく",
+    "roma": "poritanku",
+    "keyword": "ポリケース，ポリ容器，灯油のポリタンク，灯油ポリタンク，プラスチックタンク，プラタンク"
+  },
+  {
+    "name_ja": "卓上コンロ",
+    "name": "Portable cooking stove",
+    "yomi": "たくじょうこんろ",
+    "roma": "takujoukonro",
+    "keyword": "カセットコンロ，たこ焼き器，ホットプレート"
+  },
+  {
+    "name_ja": "カセットコンロ",
+    "name": "Portable gas stove",
+    "yomi": "かせっとこんろ",
+    "roma": "kasettokonro",
+    "keyword": "テーブルコンロ"
+  },
+  {
+    "name_ja": "ポスター",
+    "name": "Poster",
+    "yomi": "ぽすたー",
+    "roma": "posuta-"
+  },
+  {
+    "name_ja": "圧力鍋",
+    "name": "Pressure cooker",
+    "yomi": "あつりょくなべ",
+    "roma": "atsuryokunabe"
+  },
+  {
+    "name_ja": "プリンター",
+    "name": "Printer",
+    "yomi": "ぷりんたー",
+    "roma": "purinta-",
+    "keyword": "レーザープリンター"
+  },
+  {
+    "name_ja": "プロパンガスボンベ",
+    "name": "Propane gas cylinder",
+    "yomi": "ぷろぱんがすぼんべ",
+    "roma": "puropangasubonbe"
+  },
+  {
+    "name_ja": "ラジオ",
+    "name": "Radio",
+    "yomi": "らじお",
+    "roma": "rajio",
+    "keyword": "携帯ラジオ，"
+  },
+  {
+    "name_ja": "ラジカセ",
+    "name": "Radio cassette player",
+    "yomi": "らじかせ",
+    "roma": "rajikase"
+  },
+  {
+    "name_ja": "かみそり",
+    "name": "Razor",
+    "yomi": "かみそり",
+    "roma": "kamisori",
+    "keyword": "ひげそり，剃刀，髭剃り"
+  },
+  {
+    "name_ja": "冷蔵庫",
+    "name": "Refrigerator",
+    "yomi": "れいぞうこ",
+    "roma": "reizouko",
+    "keyword": "冷温庫"
+  },
+  {
+    "name_ja": "リモコン",
+    "name": "Remote controller",
+    "yomi": "りもこん",
+    "roma": "rimokon"
+  },
+  {
+    "name_ja": "レトルト食品パック（カレーなど）",
+    "name": "Retort food package (for curry, etc.)",
+    "yomi": "れとるとしょくひんぱっく",
+    "roma": "retorutoshokuhinpakku",
+    "keyword": "レトルトパック"
+  },
+  {
+    "name_ja": "炊飯器",
+    "name": "Rice cooker",
+    "yomi": "すいはんき",
+    "roma": "suihanki",
+    "keyword": "ジャー，炊飯ジャー，電子ジャー"
+  },
+  {
+    "name_ja": "ローラースケート",
+    "name": "Roller skates",
+    "yomi": "ろーらーすけーと",
+    "roma": "ro-ra-suke-to",
+    "keyword": "インラインスケート，ローラーブレード"
+  },
+  {
+    "name_ja": "ゴムボート",
+    "name": "Rubber boat",
+    "yomi": "ごむぼーと",
+    "roma": "gomubo-to"
+  },
+  {
+    "name_ja": "ゴム手袋・ゴム長靴",
+    "name": "Rubber gloves/boots",
+    "yomi": "ごむてぶくろ・ごむながぐつ",
+    "roma": "gomutebukuro/gomunagagutsu",
+    "keyword": "長ぐつ"
+  },
+  {
+    "name_ja": "定規（金属製）",
+    "name": "Ruler (metal)",
+    "yomi": "じょうき",
+    "roma": "jougi"
+  },
+  {
+    "name_ja": "定規（金属製以外）",
+    "name": "Ruler (non-metal)",
+    "yomi": "じょうき",
+    "roma": "jouki"
+  },
+  {
+    "name_ja": "金庫（耐火）",
+    "name": "Safe (fireproof)",
+    "yomi": "きんこ",
+    "roma": "kinko",
+    "keyword": "耐火金庫"
+  },
+  {
+    "name_ja": "ドレッシングの容器（プラ製）",
+    "name": "Salad dressing container (plastic)",
+    "yomi": "どれっしんぐのびんようき",
+    "roma": "doresshingu no bin youki"
+  },
+  {
+    "name_ja": "サラダ油",
+    "name": "Salad oil",
+    "yomi": "さらだあぶら",
+    "roma": "saradaabura"
+  },
+  {
+    "name_ja": "サラダ油の缶（一斗缶は除く）",
+    "name": "Salad oil can (excluding large 18-liter can)",
+    "yomi": "さらだあぶらのかん",
+    "roma": "saradaabura no kan"
+  },
+  {
+    "name_ja": "のこぎり",
+    "name": "Saw",
+    "yomi": "のこぎり",
+    "roma": "nokogiri",
+    "keyword": "刃物，鋸"
+  },
+  {
+    "name_ja": "はかり（台所計り）",
+    "name": "Scale (kitchen scale)",
+    "yomi": "はかり（だいどころはかり）",
+    "roma": "hakari (daidoko ro hakari)",
+    "keyword": "計量器，キッチンスケール"
+  },
+  {
+    "name_ja": "スキャナー",
+    "name": "Scanner",
+    "yomi": "すきゃなー",
+    "roma": "sukyana-"
+  },
+  {
+    "name_ja": "はさみ",
+    "name": "Scissors",
+    "yomi": "はさみ",
+    "roma": "hasami",
+    "keyword": "鋏"
+  },
+  {
+    "name_ja": "たわし（金属製）",
+    "name": "Scourer (metal)",
+    "yomi": "たわし",
+    "roma": "tawashi",
+    "keyword": "スチールたわし"
+  },
+  {
+    "name_ja": "たわし（金属製以外）",
+    "name": "Scourer (non-metal)",
+    "yomi": "たわし",
+    "roma": "tawashi"
+  },
+  {
+    "name_ja": "ねじ",
+    "name": "Screw",
+    "yomi": "ねじ",
+    "roma": "neji"
+  },
+  {
+    "name_ja": "調味料のびん",
+    "name": "Seasoning bottle",
+    "yomi": "ちょうみりょうのびん",
+    "roma": "choumiryou no bin",
+    "keyword": "酢，みりん，料理酒，こしょう，七味唐辛子，瓶"
+  },
+  {
+    "name_ja": "温水洗浄機付便座",
+    "name": "Seat of heated/cleansing toilet",
+    "yomi": "おんすいせんじょうきつきべんざ",
+    "roma": "onsuisenjoukitsuki benza",
+    "keyword": "ウォシュレット，ウォッシュレット，暖房便座，便座，洗浄便座，温水洗浄便座，温水便座，シャワートイレ"
+  },
+  {
+    "name_ja": "プラモデル",
+    "name": "Self-assembly plastic model",
+    "yomi": "ぷらもでる",
+    "roma": "puramoderu"
+  },
+  {
+    "name_ja": "ミシン",
+    "name": "Sewing machine",
+    "yomi": "みしん",
+    "roma": "mishin"
+  },
+  {
+    "name_ja": "貝の殻（牡蠣・あさりなど）",
+    "name": "Shell (of oysters, clams, etc.)",
+    "yomi": "かいのから（かき・あさりなど）",
+    "roma": "kainokara (kaki/asari)",
+    "keyword": "牡蠣の殻，あさりの殻，貝殻，はまぐり"
+  },
+  {
+    "name_ja": "げた箱",
+    "name": "Shoe cabinet",
+    "yomi": "げたばこ",
+    "roma": "getabako",
+    "keyword": "下駄箱"
+  },
+  {
+    "name_ja": "靴",
+    "name": "Shoes",
+    "yomi": "くつ",
+    "roma": "kutsu",
+    "keyword": "革靴，シューズ，サンダル，スニーカー，運動靴，ブーツ"
+  },
+  {
+    "name_ja": "鎌",
+    "name": "Sickle",
+    "yomi": "かま",
+    "roma": "kama"
+  },
+  {
+    "name_ja": "シリカゲル（乾燥剤）",
+    "name": "Silica gel (desiccant)",
+    "yomi": "しりかげる（かんそうざい）",
+    "roma": "shirikageru (kansouzai)",
+    "keyword": "乾燥剤"
+  },
+  {
+    "name_ja": "スケートボード",
+    "name": "Skateboard",
+    "yomi": "すけーとぼーど",
+    "roma": "suke-tobo-do",
+    "keyword": "スケボー"
+  },
+  {
+    "name_ja": "串（焼き鳥・だんごの竹串など）",
+    "name": "Skewer (bamboo skewer used for barbecued chicken, sticky rice dumplings, etc.)",
+    "yomi": "くし",
+    "roma": "kushi"
+  },
+  {
+    "name_ja": "スキー板",
+    "name": "Skis",
+    "yomi": "すきーいた",
+    "roma": "suki-ita"
+  },
+  {
+    "name_ja": "すべり台（子供用遊具）",
+    "name": "Slide (children's plaything)",
+    "yomi": "すべりだい",
+    "roma": "suberidai",
+    "keyword": "滑り台"
+  },
+  {
+    "name_ja": "スリッパ",
+    "name": "Slippers",
+    "yomi": "すりっぱ",
+    "roma": "surippa"
+  },
+  {
+    "name_ja": "スノーボード",
+    "name": "Snowboard",
+    "yomi": "すのーぼーど",
+    "roma": "suno-bo-do",
+    "keyword": "スノボー"
+  },
+  {
+    "name_ja": "靴下",
+    "name": "Socks",
+    "yomi": "くつした",
+    "roma": "kutsushita",
+    "keyword": "ソックス"
+  },
+  {
+    "name_ja": "ソファー・ソファーベッド",
+    "name": "Sofa/sofa bed",
+    "yomi": "そふぁー・そふぁーべっど",
+    "roma": "sofa-/sofa-beddo"
+  },
+  {
+    "name_ja": "土(鉢植えなどから出た少量のもの）",
+    "name": "Soil (in small quantity from flowerpot, etc.)",
+    "yomi": "つち",
+    "roma": "tsuchi",
+    "keyword": "園芸，庭土，植木鉢，庭の土"
+  },
+  {
+    "name_ja": "しょうゆの容器（ペットボトル）",
+    "name": "Soy sauce bottle (PET bottle)",
+    "yomi": "しょうゆのようきぼとる（ぺっとぼとる）",
+    "roma": "shouyu no youkibotoru (pettobotoru)",
+    "keyword": "醤油"
+  },
+  {
+    "name_ja": "スピーカー",
+    "name": "Speaker",
+    "yomi": "すぴーかー",
+    "roma": "supi-ka-",
+    "keyword": "拡声器，電気メガホン"
+  },
+  {
+    "name_ja": "スポンジ",
+    "name": "Sponge",
+    "yomi": "すぽんじ",
+    "roma": "suponji"
+  },
+  {
+    "name_ja": "スプーン（金属製・陶器製）",
+    "name": "Spoon (metal or ceramic)",
+    "yomi": "すぷーん",
+    "roma": "supu-n"
+  },
+  {
+    "name_ja": "スプーン（プラ製・木製）",
+    "name": "Spoon (plastic or wood)",
+    "yomi": "すぷーん",
+    "roma": "supu-n"
+  },
+  {
+    "name_ja": "スプレー缶",
+    "name": "Spray can",
+    "yomi": "すぷれーかん",
+    "roma": "supure-kan"
+  },
+  {
+    "name_ja": "スプリングマットレス",
+    "name": "Spring mattress",
+    "yomi": "すぷりんぐまっと",
+    "roma": "supuringumatto",
+    "keyword": "ベッド"
+  },
+  {
+    "name_ja": "ステープラ（ホッチキスなど）",
+    "name": "Stapler",
+    "yomi": "すてーぷら（ほっちきす）",
+    "roma": "sute-pura (hocchikisu)"
+  },
+  {
+    "name_ja": "スチール缶（飲料・食品用）",
+    "name": "Steel can (for beverage/food)",
+    "yomi": "すちーるかん",
+    "roma": "suchi-rukan"
+  },
+  {
+    "name_ja": "スチール棚",
+    "name": "Steel shelf",
+    "yomi": "すちーるたな",
+    "roma": "suchi-rutana"
+  },
+  {
+    "name_ja": "ステレオセット",
+    "name": "Stereo system",
+    "yomi": "すてれおせっと",
+    "roma": "sutereosetto",
+    "keyword": "アンプ"
+  },
+  {
+    "name_ja": "ストッキング",
+    "name": "Stockings",
+    "yomi": "すとっきんぐ",
+    "roma": "sutokkingu"
+  },
+  {
+    "name_ja": "衣装ケース（プラ製）",
+    "name": "Storage case (plastic)",
+    "yomi": "いしょうけーす",
+    "roma": "isyouke-su",
+    "keyword": "衣類ケース，衣装箱"
+  },
+  {
+    "name_ja": "ござ",
+    "name": "Straw mat",
+    "yomi": "ござ",
+    "roma": "goza"
+  },
+  {
+    "name_ja": "ぬいぐるみ",
+    "name": "Stuffed toy",
+    "yomi": "ぬいぐるみ",
+    "roma": "nuigurumi",
+    "keyword": "人形"
+  },
+  {
+    "name_ja": "スーツケース",
+    "name": "Suitcase",
+    "yomi": "すーつけーす",
+    "roma": "su-tsuke-su",
+    "keyword": "キャリーバッグ，トランク"
+  },
+  {
+    "name_ja": "サングラス（プラ製以外）",
+    "name": "Sunglasses (other than plastic)",
+    "yomi": "さんぐらす",
+    "roma": "sangurasu"
+  },
+  {
+    "name_ja": "サングラス（プラ製）",
+    "name": "Sunglasses (plastic)",
+    "yomi": "さんぐらす",
+    "roma": "sangurasu"
+  },
+  {
+    "name_ja": "レジ袋",
+    "name": "Supermarket bag",
+    "yomi": "れじぶくろ",
+    "roma": "rejibukuro"
+  },
+  {
+    "name_ja": "サーフボード",
+    "name": "Surfboard",
+    "yomi": "さーふぼーど",
+    "roma": "sa-fubo-do",
+    "keyword": "サーフィン"
+  },
+  {
+    "name_ja": "セーター",
+    "name": "Sweater",
+    "yomi": "せーたー",
+    "roma": "se-ta-"
+  },
+  {
+    "name_ja": "水中メガネ（ガラス製）",
+    "name": "Swimming goggles (glass)",
+    "yomi": "すいちゅうめがね",
+    "roma": "suichuumegane",
+    "keyword": "ゴーグル"
+  },
+  {
+    "name_ja": "水中メガネ（プラ製）",
+    "name": "Swimming goggles (plastic)",
+    "yomi": "すいちゅうめがね",
+    "roma": "suichuumegane",
+    "keyword": "ゴーグル"
+  },
+  {
+    "name_ja": "ブランコ（子供用遊具）",
+    "name": "Swing (children's plaything)",
+    "yomi": "ぶらんこ",
+    "roma": "buranko"
+  },
+  {
+    "name_ja": "注射針",
+    "name": "Syringe",
+    "yomi": "ちゅうしゃばり",
+    "roma": "chuushabari",
+    "keyword": "注射器，点滴，針"
+  },
+  {
+    "name_ja": "テーブル（木製以外）",
+    "name": "Table (excluding wood)",
+    "yomi": "てーぶる",
+    "roma": "te-buru",
+    "keyword": "机，学習机，事務机，パソコンテーブル，パソコンラック"
+  },
+  {
+    "name_ja": "テーブル（木製）",
+    "name": "Table (wood)",
+    "yomi": "てーぶる",
+    "roma": "te-buru",
+    "keyword": "ちゃぶ台，学習机，机"
+  },
+  {
+    "name_ja": "テープレコーダー",
+    "name": "Tape recorder",
+    "yomi": "てーぷれこーだー",
+    "roma": "te-pureko-da-",
+    "keyword": "テープ，ラジカセ，VTR，ビデオ"
+  },
+  {
+    "name_ja": "畳",
+    "name": "Tatami mat",
+    "yomi": "たたみ",
+    "roma": "tatami",
+    "keyword": "たたみ"
+  },
+  {
+    "name_ja": "茶の缶",
+    "name": "Tea canister",
+    "yomi": "ちゃのかん",
+    "roma": "cha no kan",
+    "keyword": "茶筒"
+  },
+  {
+    "name_ja": "ポット",
+    "name": "Tea pot",
+    "yomi": "ぽっと",
+    "roma": "potto",
+    "keyword": "湯沸かし器"
+  },
+  {
+    "name_ja": "茶碗",
+    "name": "Teacup/bowl",
+    "yomi": "ちゃわん",
+    "roma": "chawan",
+    "keyword": "湯呑，瀬戸物，陶器，皿"
+  },
+  {
+    "name_ja": "電話機",
+    "name": "Telephone",
+    "yomi": "でんわき",
+    "roma": "denwaki",
+    "keyword": "プッシュホン"
+  },
+  {
+    "name_ja": "電話帳",
+    "name": "Telephone directory",
+    "yomi": "でんわちょう",
+    "roma": "denwachou",
+    "keyword": "タウンページ"
+  },
+  {
+    "name_ja": "つっぱり棒（プラ製）",
+    "name": "Tension pole (plastic)",
+    "yomi": "つっぱりぼう",
+    "roma": "tsupparibou",
+    "keyword": "突っ張り棒"
+  },
+  {
+    "name_ja": "教科書",
+    "name": "Textbook",
+    "yomi": "きょうかしょ",
+    "roma": "kyokasho"
+  },
+  {
+    "name_ja": "温度計",
+    "name": "Thermometer",
+    "yomi": "おんどけい",
+    "roma": "ondokei",
+    "keyword": "水銀体温計"
+  },
+  {
+    "name_ja": "シンナー類",
+    "name": "Thinner",
+    "yomi": "しんなーるい",
+    "roma": "shinna-rui",
+    "keyword": "溶剤，薄め液"
+  },
+  {
+    "name_ja": "タイヤ（車）",
+    "name": "Tire (automobile)",
+    "yomi": "たいや",
+    "roma": "taiya"
+  },
+  {
+    "name_ja": "トースター",
+    "name": "Toaster",
+    "yomi": "とーすたー",
+    "roma": "to-suta-",
+    "keyword": "オーブントースター"
+  },
+  {
+    "name_ja": "オーブントースター",
+    "name": "Toaster oven",
+    "yomi": "おーぶんとーすたー",
+    "roma": "o-bunto-suta-"
+  },
+  {
+    "name_ja": "豆腐のパック（プラ製）",
+    "name": "Tofu package (plastic)",
+    "yomi": "とうふのぱっく",
+    "roma": "toufu no pakku"
+  },
+  {
+    "name_ja": "歯ブラシ",
+    "name": "Toothbrush",
+    "yomi": "はぶらし",
+    "roma": "haburashi"
+  },
+  {
+    "name_ja": "タオル",
+    "name": "Towel",
+    "yomi": "たおる",
+    "roma": "taoru",
+    "keyword": "バスタオル"
+  },
+  {
+    "name_ja": "タオルケット",
+    "name": "Towel-type blanket",
+    "yomi": "たおるけっと",
+    "roma": "taoruketto"
+  },
+  {
+    "name_ja": "おもちゃ（金属が含まれるもの）",
+    "name": "Toy (containing metal)",
+    "yomi": "おもちゃ",
+    "roma": "omocha"
+  },
+  {
+    "name_ja": "おもちゃ（木製・プラ製）",
+    "name": "Toy (wood or plastic)",
+    "yomi": "おもちゃ",
+    "roma": "omocha",
+    "keyword": "積み木"
+  },
+  {
+    "name_ja": "トレイ（プラ製）",
+    "name": "Tray (plastic)",
+    "yomi": "とれい",
+    "roma": "torei",
+    "keyword": "食品トレイ，トレイ"
+  },
+  {
+    "name_ja": "木の枝・幹",
+    "name": "Tree/bush branch or bark",
+    "yomi": "きのえだ・みき",
+    "roma": "kinoeda/miki",
+    "keyword": "木材"
+  },
+  {
+    "name_ja": "植木の枝",
+    "name": "Tree/bush branches",
+    "yomi": "うえきのえだ",
+    "roma": "uekinoeda",
+    "keyword": "剪定枝，落葉，枯葉"
+  },
+  {
+    "name_ja": "剪定枝",
+    "name": "Trimmed branches",
+    "yomi": "せんていし",
+    "roma": "senteishi",
+    "keyword": "庭木，枯木"
+  },
+  {
+    "name_ja": "脚立",
+    "name": "Tripod",
+    "yomi": "きゃたつ",
+    "roma": "kyatatsu"
+  },
+  {
+    "name_ja": "三脚",
+    "name": "Tripod",
+    "yomi": "さんきゃく",
+    "roma": "sankyaku"
+  },
+  {
+    "name_ja": "ズボンプレッサー",
+    "name": "Trouser press",
+    "yomi": "ずぼんぷれっさー",
+    "roma": "zubonpuressa-"
+  },
+  {
+    "name_ja": "チューブ類（マヨネーズ等）",
+    "name": "Tube (for mayonnaise, etc.)",
+    "yomi": "ちゅーぶるい（まよねーず）",
+    "roma": "chu-burui (mayone-zu)",
+    "keyword": "ケッチャップ，からし，わさび，歯磨き粉，歯磨き"
+  },
+  {
+    "name_ja": "テレビ（ブラウン管式・液晶・プラズマ式）",
+    "name": "TV (CRT, LCD or plasma)",
+    "yomi": "てれび",
+    "roma": "terebi",
+    "keyword": "地デジ，アナログ，液晶テレビ"
+  },
+  {
+    "name_ja": "テレビ台",
+    "name": "TV stand",
+    "yomi": "てれびだい",
+    "roma": "terebidai",
+    "keyword": "ラック"
+  },
+  {
+    "name_ja": "傘",
+    "name": "Umbrella",
+    "yomi": "かさ",
+    "roma": "kasa"
+  },
+  {
+    "name_ja": "下着",
+    "name": "Underwear",
+    "yomi": "したぎ",
+    "roma": "shitagi",
+    "keyword": "肌着"
+  },
+  {
+    "name_ja": "一輪車",
+    "name": "Unicycle",
+    "yomi": "いちりんしゃ",
+    "roma": "ichirinsha"
+  },
+  {
+    "name_ja": "応接用いす",
+    "name": "Upholstered chair",
+    "yomi": "おうせついす",
+    "roma": "ousetsuisu",
+    "keyword": "ソファー，椅子"
+  },
+  {
+    "name_ja": "古着・古布",
+    "name": "Used clothing/rag",
+    "yomi": "ふるぎ・ふるぬの",
+    "roma": "furugi/furununo"
+  },
+  {
+    "name_ja": "茶殻",
+    "name": "Used tea leaves",
+    "yomi": "ちゃがら",
+    "roma": "chagara",
+    "keyword": "出がらし，出からし，出し殻"
+  },
+  {
+    "name_ja": "魔法瓶",
+    "name": "Vacuum bottle",
+    "yomi": "まほうびん",
+    "roma": "mahoubin",
+    "keyword": "ポット"
+  },
+  {
+    "name_ja": "掃除機",
+    "name": "Vacuum cleaner",
+    "yomi": "そうじき",
+    "roma": "soujiki",
+    "keyword": "クリーナー"
+  },
+  {
+    "name_ja": "水筒（金属製）",
+    "name": "Vacuum flask (metal)",
+    "yomi": "すいとう",
+    "roma": "sitou"
+  },
+  {
+    "name_ja": "花びん",
+    "name": "Vase",
+    "yomi": "かびん",
+    "roma": "kabin",
+    "keyword": "花器，花瓶"
+  },
+  {
+    "name_ja": "換気扇",
+    "name": "Ventilator fan",
+    "yomi": "かんきせん",
+    "roma": "kankisen"
+  },
+  {
+    "name_ja": "ビデオカメラ",
+    "name": "Video camera",
+    "yomi": "びでおかめら",
+    "roma": "bideokamera",
+    "keyword": "ＶＴＲ，カメラ"
+  },
+  {
+    "name_ja": "ビデオデッキ",
+    "name": "Video player",
+    "yomi": "びでおでっき",
+    "roma": "bideodekki",
+    "keyword": "ＶＴＲ　"
+  },
+  {
+    "name_ja": "ゲーム機",
+    "name": "Videogame console",
+    "yomi": "げーむき",
+    "roma": "ge-muki"
+  },
+  {
+    "name_ja": "ゲームソフト",
+    "name": "Videogame software",
+    "yomi": "げーむそふと",
+    "roma": "ge-musofuto"
+  },
+  {
+    "name_ja": "ビデオテープ(ケースを含む）",
+    "name": "Videotape (including case)",
+    "yomi": "びでおてーぷ",
+    "roma": "bideote-pu",
+    "keyword": "ビデオケース，VHS，ＶＨＳ，ビデオカセット"
+  },
+  {
+    "name_ja": "レコード",
+    "name": "Vinyl record",
+    "yomi": "れこーど",
+    "roma": "reko-do"
+  },
+  {
+    "name_ja": "レコードプレーヤー",
+    "name": "Vinyl record player",
+    "yomi": "れこーどぷれーやー",
+    "roma": "reko-dopure-ya-"
+  },
+  {
+    "name_ja": "たんす",
+    "name": "Wardrobe",
+    "yomi": "たんす",
+    "roma": "tansu",
+    "keyword": "キャビネット，収納庫，カラーボックス，組み立て家具，箪笥"
+  },
+  {
+    "name_ja": "洗面器(プラ製）",
+    "name": "Washing bowl (plastic)",
+    "yomi": "せんめんき",
+    "roma": "senmenki",
+    "keyword": "たらい，おけ，桶，風呂おけ"
+  },
+  {
+    "name_ja": "洗濯機",
+    "name": "Washing machine",
+    "yomi": "せんたくき",
+    "roma": "sentakuki"
+  },
+  {
+    "name_ja": "水筒（プラ製）",
+    "name": "Water bottle (plastic)",
+    "yomi": "すいとう",
+    "roma": "suitou"
+  },
+  {
+    "name_ja": "給湯器",
+    "name": "Water heater",
+    "yomi": "きゅうとうき",
+    "roma": "kyutouki"
+  },
+  {
+    "name_ja": "浄水器（カートリッジ）",
+    "name": "Water purifier (cartridge)",
+    "yomi": "じょうすいき",
+    "roma": "jousuiki"
+  },
+  {
+    "name_ja": "浄水器（本体）",
+    "name": "Water purifier (container)",
+    "yomi": "じょうすいき",
+    "roma": "jousuiki"
+  },
+  {
+    "name_ja": "車いす（電動のものは「電動車いす」参照）",
+    "name": "Wheelchair (see \"Electric Wheelchairs\" for electric-powered types)",
+    "yomi": "くるまいす",
+    "roma": "kurumaisu",
+    "keyword": "車椅子"
+  },
+  {
+    "name_ja": "キャリーバッグ（布・皮製）",
+    "name": "Wheeled suitcase (fabric or leather)",
+    "yomi": "きゃりーばっぐ（ぬの・かわせい）",
+    "roma": "kyari-baggu (nuno/kawasei)",
+    "keyword": "きゃすたーばっぐ，ころころ"
+  },
+  {
+    "name_ja": "キャリーバッグ（金属・プラ製）",
+    "name": "Wheeled suitcase (metal or plastic)",
+    "yomi": "きゃりーばっぐ（きんぞく・ぷらせい）",
+    "roma": "kyari-baggu (kinzoku/purasei)",
+    "keyword": "きゃすたーばっぐ，ころころ"
+  },
+  {
+    "name_ja": "籐製家具",
+    "name": "Wicker furniture",
+    "yomi": "とうせいかぐ",
+    "roma": "touseikagu"
+  },
+  {
+    "name_ja": "ワイン庫（ワインセラー）",
+    "name": "Wine refrigerator",
+    "yomi": "わいんこ（わいんせらー）",
+    "roma": "wainko (wainsera-)"
+  },
+  {
+    "name_ja": "すのこ",
+    "name": "Wooden drainboard",
+    "yomi": "すのこ",
+    "roma": "sunoko"
+  },
+  {
+    "name_ja": "ワープロ",
+    "name": "Word processor",
+    "yomi": "わーぷろ",
+    "roma": "wa-puro",
+    "keyword": "ワードプロセッサ"
+  },
+  {
+    "name_ja": "腕時計",
+    "name": "Wristwatch",
+    "yomi": "うでどけい",
+    "roma": "udedokei",
+    "keyword": "ウォッチ，タイマー"
+  },
+  {
+    "name_ja": "机",
+    "name": "Writing desk",
+    "yomi": "つくえ",
+    "roma": "tsukue",
+    "keyword": "テーブル，学習机，事務机，デスク"
+  },
+  {
+    "name_ja": "ヨーグルトの容器（プラ製）",
+    "name": "Yogurt container (plastic)",
+    "yomi": "よーぐるとのようき",
+    "roma": "yo-guruto no youki"
+  },
+  {
+    "name_ja": "よしず",
+    "name": "Yoshizu (reed screen)",
+    "yomi": "よしず",
+    "roma": "yoshizu"
+  },
+  {
+    "name_ja": "座布団",
+    "name": "Zabuton (cushion)",
+    "yomi": "ざぶとん",
+    "roma": "zabuton",
+    "keyword": "クッション"
+  },
+  {
+    "name_ja": "座椅子",
+    "name": "Zaisu (legless chair)",
+    "yomi": "ざいす",
+    "roma": "zaisu",
+    "keyword": "座いす"
+  }
+]
